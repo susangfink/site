@@ -1,8 +1,12 @@
 title: Susan G. Fink
-remote_theme: mmistakes/so-simple-theme
-
+description: A simple, intentional life journal
 url: "https://susangfink.github.io"
-baseurl: ""   # leave empty if repo is username.github.io
+baseurl: ""
+
+remote_theme: mmistakes/so-simple-theme
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
