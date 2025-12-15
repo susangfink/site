@@ -1,0 +1,8 @@
+title: Your Site Title
+theme: minimal-mistakes-jekyll
+
+url: "https://YOUR-USERNAME.github.io"
+baseurl: ""   # leave empty if repo is username.github.io
+
+plugins:
+  - jekyll-feed
