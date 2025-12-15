@@ -2,7 +2,7 @@ title: Susan G. Fink
 description: A simple, intentional life journal
 url: "https://susangfink.github.io"
 baseurl: "/site"
-
+logo: /images/SusanGFink.jpg
 remote_theme: mmistakes/so-simple-theme
 
 plugins:
