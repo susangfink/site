@@ -2,6 +2,8 @@
 layout: page
 title: Categories
 permalink: /categories/
+show_excerpts: true
+entries_layout: list
 ---
 
 Here you can browse all posts by category:
