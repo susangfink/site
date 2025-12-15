@@ -6,7 +6,7 @@ show_excerpts: false
 entries_layout: list
 ---
 
-<div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/eb5735959c0e93a89110b274fcc0cc4b?embedded=1"></div>
+<div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/eb5735959c0e93a89110b274fcc0cc4b"></div>
 
 <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
 <script type="text/javascript" src="https://cdn.formkeep.com/formkeep-embed.js"></script>
