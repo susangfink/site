@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Chocolate Chip Cookies"
-permalink: /site/recipes/
+permalink: /site/recipes/chocolate-chip-cookies
 image: 
   path: /images/chocolate-chip-cookies-lg.jpg
   thumbnail: /images/chocolate-chip-cookies-400x200.jpg
