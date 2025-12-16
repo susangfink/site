@@ -7,67 +7,27 @@ sitemap: false
 
 @import "so-simple";
 
-/* --------------------------
-   Body text
--------------------------- */
+/* =========================
+   CUSTOM OVERRIDES START
+========================= */
+
+/* Body text */
 body {
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  font-weight: 400;
-  line-height: 1.75;      /* airy and comfortable */
-  color: #111111;          /* soft black for readability */
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  line-height: 1.75 !important;
 }
 
-/* --------------------------
-   Headings (Spectral)
--------------------------- */
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Spectral", serif;
-  font-weight: 500;
-  letter-spacing: -0.5px;  /* anchors headings */
-  line-height: 1.2;        /* keeps headings grounded */
-  margin-top: 2.5rem;      /* breathing space above */
-  margin-bottom: 1rem;     /* space below */
-  color: #111111;
+  font-family: "Spectral", serif !important;
+  font-weight: 500 !important;
+  letter-spacing: -0.5px !important;
+  line-height: 1.2 !important;
+  margin-top: 2.5rem !important;
+  margin-bottom: 1rem !important;
 }
 
-/* --------------------------
-   Heading size hierarchy
--------------------------- */
-h1 { font-size: 2.8rem; }
-h2 { font-size: 2.2rem; }
-h3 { font-size: 1.8rem; }
-h4 { font-size: 1.5rem; }
-h5 { font-size: 1.3rem; }
-h6 { font-size: 1.1rem; }
-
-/* --------------------------
-   Optional: links
--------------------------- */
-a {
-  color: #1a73e8;           /* calm blue for clickable elements */
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* --------------------------
-   Optional: small tweaks for spacing
--------------------------- */
-p {
-  margin-bottom: 1.5rem;   /* keeps paragraphs airy */
-}
-
-ul, ol {
-  margin-bottom: 1.5rem;
-  padding-left: 1.5rem;
-}
-
-blockquote {
-  font-style: italic;
-  border-left: 3px solid #ddd;
-  padding-left: 1rem;
-  margin-left: 0;
-  color: #555;
+/* Optional: finer control for post content */
+.post h1, .post h2, .post h3 {
+  font-family: "Spectral", serif !important;
 }
