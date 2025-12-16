@@ -1,6 +1,6 @@
 ---
 title: Lemon Loaf
-layout: post
+layout: page
 image: /images/lemon-loaf.jpg
 excerpt: A simple lemon loaf with glaze.
 categories: recipes
