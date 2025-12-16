@@ -9,5 +9,6 @@ entries_layout: grid
 Welcome to my Recipes page! Here you'll find all my favorite recipes, organized by category.
 
 {% for recipe in site.recipes %}
-- <a href="{{ entry.url | relative_url }}">
+- <a href="{{ recipe.url | relative_url }}">
+[{{ recipe.title }}]({{ recipe.url }})
 {% endfor %}
