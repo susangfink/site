@@ -12,6 +12,6 @@ plugins:
 collections:
   recipes:
     output: true
-    permalink: /recipes/:title/
+    permalink: /site/recipes/:title/
 
 markdown: kramdown
