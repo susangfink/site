@@ -9,4 +9,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:title/
+
 markdown: kramdown
