@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recipes
-permalink: /recipes/
+permalink: /site/recipes/
 collection: recipes
 entries_layout: grid
 ---
