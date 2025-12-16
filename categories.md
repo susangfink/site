@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: categories
 title: Categories
 permalink: /categories/
 show_excerpts: true
