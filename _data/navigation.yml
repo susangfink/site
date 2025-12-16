@@ -3,14 +3,8 @@ main:
     url: /
   - title: About
     url: /about/
-  - title: Blog
-    url: /blog/
   - title: Recipes
     url: /recipes/
   - title: Categories
     url: /categories/
-  - title: Contact
-    url: /contact/
-  - title: Search
-    url: /search/
     
