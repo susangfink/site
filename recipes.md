@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Recipes
 permalink: /recipes/
 collection: recipes
