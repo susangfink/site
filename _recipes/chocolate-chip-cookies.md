@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Chocolate Chip Cookies"
 permalink: /site/recipes/chocolate-chip-cookies
 image: 
