@@ -1,0 +1,8 @@
+<button class="menu-toggle">Links</button>
+<nav class="menu">
+  <ul>
+    {% for link in site.data.navigation.main %}
+      <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
