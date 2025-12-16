@@ -3,6 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+<style>
+.about-page h1 {
+  text-align: center;
+}  
+</style>
 
 Hi, I'm Susan G. Fink
 
