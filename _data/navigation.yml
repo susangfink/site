@@ -8,9 +8,9 @@
   url: /blog/ 
 - title: Categories
   url: /categories/
-- title: Recipes
-  url: /recipes/
 - title: Contact
   url: /contact/
+#- title: Recipes
+#  url: /recipes/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
