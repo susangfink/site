@@ -1,7 +1,7 @@
 title: Susan G. Fink
 description: Sharing Life. Staying Consistent.
 url: "https://susangfink.com/"
-baseurl: "/site"
+baseurl: ""
 logo: /images/susangfink-logo.jpg
 # remote_theme: mmistakes/so-simple-theme
 
