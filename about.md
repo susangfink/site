@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <style>
-.about-page h1 {
+.about-page h1, h2, h3 {
   text-align: center;
 }  
 </style>
