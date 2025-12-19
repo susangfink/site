@@ -16,4 +16,5 @@ I created this place to share the simple, intentional ways I move through life -
 I believe in aging well, moving often, and growing with intention. I'm learning to make space for myself, to show up authentically, and to celebrate the small things that make life meaningful. I hope to connect with you along the way!
 
 Thanks for joining me!
+
 Susan
