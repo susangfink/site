@@ -15,7 +15,7 @@ I created this space to share the simple, intentional ways I move through life�
 
 In my 45 years, I’ve lived in many places and moved over a dozen different times. Before my life as a SAHM, I was an engineer so there may be many nerdy references along with my perspective as a wife and mom of 3.
 
-My hope is that you’ll find this to be informational, inspirational, entertaining, and most of all relatable. The G is for all the Goofy stories I have to share and I’m Grateful you’re here. 
+My hope is that you’ll find this to be informational, inspirational, entertaining, and most of all relatable. The G is for my maiden name initial, all the Goofy stories I have to share, and because I’m Grateful you’re here. 
 
 I believe in aging well, moving often, and growing with intention. I’m learning to make space for myself, to show up authentically, and to celebrate all the things that make life meaningful —and to connect with you along the way! 
 
