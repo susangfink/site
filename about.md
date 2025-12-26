@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+center_title: true
 ---
 
 Hi, I’m Susan G. Fink.
