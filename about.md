@@ -3,12 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-<head>
-    
-centered-title {
-    text-align: center;
-}
-</head>
 
 Hi, I’m Susan G. Fink.
 
