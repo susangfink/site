@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-center_title: true
 permalink: /about/
 ---
 
