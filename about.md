@@ -11,6 +11,7 @@ permalink: /about/
         }
     </style>
 </head>
+
 Hi, I’m Susan G. Fink.
 
 I created this space to share the simple, intentional ways I move through life—staying active, staying curious, and staying consistent. From fitness and wellness routines to travel, family moments, food, and everyday reflections, this blog is where I capture the habits, experiences, and thoughts that shape my days.
