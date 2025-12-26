@@ -1,16 +1,11 @@
 ---
 layout: page
-title: 
+title: About
 permalink: /about/
 ---
-<head>
-<title>About</title>
-    <style>
-        h1 {
-            text-align: center;
-        }
-    </style>
-</head>
+centered-title {
+    text-align: center;
+}
 
 Hi, I’m Susan G. Fink.
 
