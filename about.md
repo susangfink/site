@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
 center_title: true
+permalink: /about/
 ---
 
 Hi, I’m Susan G. Fink.
