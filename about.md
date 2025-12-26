@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: /about/
 ---
-<head></head>
+<head>
 <title>About</title>
     <style>
         h1 {
