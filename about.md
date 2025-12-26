@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+image: "/images/susangfink-about-image.jpg"
 ---
 
 Hi, I’m Susan G. Fink.
