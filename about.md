@@ -3,11 +3,15 @@ layout: page
 title: 
 permalink: /about/
 ---
-<style>
-.about-page h1, h2, h3, h4, h5, h6 {
-  text-align: center;
-}  
-</style>
+
+<title>Centered Title Example</title>
+    <style>
+        h1 {
+            text-align: center;
+        }
+    </style>
+
+
 
 Hi, I’m Susan G. Fink.
 
