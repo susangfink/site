@@ -3,15 +3,12 @@ layout: page
 title: 
 permalink: /about/
 ---
-
 <title>Centered Title Example</title>
     <style>
         h1 {
             text-align: center;
         }
     </style>
-
-
 
 Hi, I’m Susan G. Fink.
 
