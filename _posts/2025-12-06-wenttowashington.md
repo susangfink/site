@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Went to Washington DC"
+image:
+  path: /assets/images/nationalarchiesusa-large.jpg
+  thumbnail: /assets/images/nationalarchiesusa-small.jpg
+  caption: "Natl Archives Bldg"
 categories:
   - Travel
 tags:
