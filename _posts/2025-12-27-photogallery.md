@@ -19,6 +19,7 @@ gallery:
 excerpt_separator: "<!--more-->"  
 categories: 
 - Photography
+- Travel Pictures
 ---
 
 <!--more-->
