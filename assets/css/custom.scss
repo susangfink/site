@@ -1,0 +1,27 @@
+.photo-journal {
+  column-count: 3;
+  column-gap: 1rem;
+}
+
+@media (max-width: 900px) {
+  .photo-journal {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 500px) {
+  .photo-journal {
+    column-count: 1;
+  }
+}
+
+.photo-journal figure {
+  break-inside: avoid;
+  margin: 0 0 1rem;
+}
+
+.photo-journal img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
