@@ -48,7 +48,7 @@ $headline-font: "Merriweather", serif;
 h1, h2, h3, h4, h5, h6 {
   font-family: $headline-font;
   font-style: normal; // Ensures it is not italic
-  font-weight: 400;   // Recommended: Explicitly set weight (400 or 700)
+  //font-weight: 400;    Recommended: Explicitly set weight (400 or 700)
 }
 
 $base-font-family: $sans-serif-font-family !default;
