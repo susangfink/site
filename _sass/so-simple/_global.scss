@@ -75,7 +75,7 @@
   margin: 0.5em 0 0;
   padding: 0;
   @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
-  font-weight: 700;
+  font-weight: 400;
 
   a {
     text-decoration: none;
@@ -87,7 +87,7 @@
   font-family: $description-font-family;
   @include fluid-type($min-vw, $max-vw, $h5-min, $h5-max);
   font-weight: 400;
-  font-style: italic;
+  font-style: normal;
 }
 
 .site-logo {
