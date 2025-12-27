@@ -5,6 +5,7 @@ title: Photo Gallery
 gallery:
   - image: /assets/images/washDC_gallery/washDC-1.jpg
     alt: "Image AA"
+    caption: "A Washington DC Image"
   - image: /assets/images/washDC_gallery/washDC-2.jpg
     alt: "Image BB"
   - image: /assets/images/washDC_gallery/washDC-3.jpg 
@@ -20,6 +21,7 @@ excerpt_separator: "<!--more-->"
 categories: 
 - Photography
 - Travel Pictures
+sidebar: false  
 ---
 
 <!--more-->
