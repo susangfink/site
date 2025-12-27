@@ -4,17 +4,17 @@ title: Photo Gallery
 
 gallery:
   - image: /assets/images/washDC_gallery/washDC-1.jpg
-    alt: "Image A"
+    alt: "Image AA"
   - image: /assets/images/washDC_gallery/washDC-2.jpg
-    alt: "Image B"
+    alt: "Image BB"
   - image: /assets/images/washDC_gallery/washDC-3.jpg 
-    alt: "Image C"
+    alt: "Image CC"
   - image: /assets/images/washDC_gallery/washDC-4.jpg
-    alt: "Image D"
+    alt: "Image DD"
   - image: /assets/images/washDC_gallery/washDC-5.jpg
-    alt: "Image E"
+    alt: "Image EE"
   - image: /assets/images/washDC_gallery/washDC-6.jpg
-    alt: "Image F"
+    alt: "Image FF"
 
 excerpt_separator: "<!--more-->"  
 categories: 
