@@ -1,0 +1,18 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Blog
+  url: /blog/ 
+- title: Categories
+  url: /categories/
+- title: Contact
+  url: /contact/
+#- title: Work With Me
+#  url: /workwithme/
+#- title: Recipes
+#  url: /recipes/
+# - title: External Page
+#   url: https://the-page.com/you-want-to-link-to.html
