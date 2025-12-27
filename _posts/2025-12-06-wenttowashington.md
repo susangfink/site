@@ -8,5 +8,5 @@ tags:
   - Washington DC
 ---
 
-![Susan Fink Metro](/assets/images/susanfink-metro-silverline-small.jpg)
+![Susan Fink Metro](/assets/images/susangfink-metro-silverline-small.jpg)
 The family and I spent a weekend in Washington, D.C. and arrived at Dulles Airport.
