@@ -2,7 +2,7 @@
 layout: post
 title: "Went to Washington DC"
 image:
-  path: /assets/images/nationalarchiesusa-large.jpg
+  path: /assets/images/nationalarchiesusa.jpg
   thumbnail: /assets/images/nationalarchiesusa-small.jpg
   caption: "Natl Archives Bldg"
 excerpt_separator: "<!--more-->"  
