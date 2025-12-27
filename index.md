@@ -1,9 +1,7 @@
 ---
 layout: home
 title: Home
-limit: 10
-show_excerpts: true
-entries_layout: grid
+
 ---
 
 Simple, intentional living—one day at a time.
