@@ -3,17 +3,17 @@ layout: post
 title: Photo Gallery
 
 gallery:
-  - image: /assets/images/washDC_gallery/washdc-1.jpg
+  - image: /assets/images/washDC_gallery/washDC-1.jpg
     alt: "Image A"
-  - image: /assets/images/washDC_gallery/washdc-2.jpg
+  - image: /assets/images/washDC_gallery/washDC-2.jpg
     alt: "Image B"
-  - image: /assets/images/washDC_gallery/washdc-3.jpg 
+  - image: /assets/images/washDC_gallery/washDC-3.jpg 
     alt: "Image C"
-  - image: /assets/images/washDC_gallery/washdc-4.jpg
+  - image: /assets/images/washDC_gallery/washDC-4.jpg
     alt: "Image D"
-  - image: /assets/images/washDC_gallery/washdc-5.jpg
+  - image: /assets/images/washDC_gallery/washDC-5.jpg
     alt: "Image E"
-  - image: /assets/images/washDC_gallery/washdc-6.jpg
+  - image: /assets/images/washDC_gallery/washDC-6.jpg
     alt: "Image F"
 
 excerpt_separator: "<!--more-->"  
