@@ -1,15 +1,12 @@
 ---
-title: "Morning Walks and Stillness"
-excerpt: "Some of my clearest thoughts arrive when I walk slowly."
+title: "Went to Washington DC"
+excerpt: "Seize the Day and went to DC."
 header:
-  teaser: /assets/images/morning-walk.jpg
+  teaser: /assets/images/susangfink-metro-silverline.jpg
 categories:
-  - Reflection
-  - Movement
-  - Fitness
+  - Travel
 tags:
-  - Cardio
-last_modified_at: 2017-03-09T14:23:48-05:00
+  - Washington DC
 ---
 
-Walking slowly each morning clears my mind and sets the tone for the day.
+The family and I spent a weekend in Washington, D.C. and arrived at Dulles Airport.
