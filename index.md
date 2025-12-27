@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+entries_layout: grid
 ---
 
 Simple, intentional living—one day at a time.
