@@ -6,7 +6,6 @@ categories:
   - Travel
 tags:
   - Washington DC
-image: "/assets/images/nationalarchivesusa-large.jpg"
 thumbnail: "/assets/images/nationalarchivesusa-small.jpg"
 ---
 
