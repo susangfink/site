@@ -5,6 +5,8 @@ baseurl: ""
 logo: /images/susangfink-logo.jpg
 # remote_theme: mmistakes/so-simple-theme
 
+favicon: /images/favicon.ico
+
 google_analytics: G-R445NTQBQN
 plugins:
   - jekyll-feed
