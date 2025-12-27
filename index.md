@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-
+show_excerpts: false
 ---
 
 Simple, intentional living—one day at a time.
