@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Went to Washington DC"
 excerpt: "Seize the Day and went to DC."
 images:
