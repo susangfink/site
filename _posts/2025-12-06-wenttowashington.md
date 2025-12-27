@@ -2,7 +2,7 @@
 title: "Went to Washington DC"
 excerpt: "Seize the Day and went to DC."
 header:
-  teaser: /assets/images/susangfink-metro-silverline.jpg
+  teaser: /assets/images/susangfink-metro-silverline-small.jpg
 categories:
   - Travel
 tags:
