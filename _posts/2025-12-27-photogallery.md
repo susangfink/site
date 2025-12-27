@@ -23,9 +23,9 @@ categories:
 
 <!--more-->
 
-{% if page.gallery %}
+{% if post.gallery %}
 <div class="photo-journal">
-  {% for photo in page.gallery %}
+  {% for photo in post.gallery %}
     <figure>
       <a href="{{ photo.image | relative_url }}" data-lightbox="journal">
         <img
