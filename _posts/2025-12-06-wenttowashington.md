@@ -6,7 +6,8 @@ categories:
   - Travel
 tags:
   - Washington DC
-thumbnail: "/images/IMG_6404.jpg"
+image: "/assets/images/nationalarchivesusa-large.jpg"
+thumbnail: "/assets/images/nationalarchivesusa-small.jpg"
 ---
 
 ![Susan Fink Metro](/assets/images/susangfink-metro-silverline-small.jpg)
