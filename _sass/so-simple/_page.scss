@@ -268,7 +268,8 @@
   }
 */
   .page-date,
-  .read-time {
+  .read-time 
+   @include breakpoint($large) {
     font-family: $meta-font-family;
     font-style: italic;
     white-space: nowrap;
@@ -276,7 +277,7 @@
    
   .page-content {
     @include breakpoint($large) {
-      float: right; // display: grid fallback
+      // float: right;  display: grid fallback
       width: 100%; // display: grid fallback
       min-width: 0;
     }
