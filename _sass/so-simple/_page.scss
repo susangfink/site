@@ -64,10 +64,11 @@
 
 
 .page-sidebar {
-  font-size: 0.75rem;
+   display: none; !important
+ //font-size: 0.75rem;
 
-  @include breakpoint($large) {
-    text-align: center;
+ // @include breakpoint($large) {
+ //   text-align: center;
   }
 
   .page-date,
@@ -238,7 +239,7 @@
       clear: both; // needed for floated layout
     }
   }
-  /*
+  
   .page-sidebar {
     margin-bottom: 1em;
 
@@ -260,7 +261,7 @@
       }
     }
   }
-*/
+   
   .page-content {
     @include breakpoint($large) {
       float: right; // display: grid fallback
