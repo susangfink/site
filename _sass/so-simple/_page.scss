@@ -235,14 +235,21 @@
       justify-content: space-between;
     }
   }
-
+   
   .page-header {
     @include breakpoint($large) {
       grid-column: 1 / -1;
       clear: both; // needed for floated layout
     }
   }
-  
+
+  .page-date,
+  .read-time {
+    font-family: $meta-font-family;
+    font-style: italic;
+    white-space: nowrap;
+  }
+   
   .page-sidebar {
     margin-bottom: 1em;
 
