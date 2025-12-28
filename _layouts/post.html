@@ -15,6 +15,10 @@ layout: default
         {% endif %}
       </header>
 
+        {% if page.sidebar %}
+          {% include sidebar.html %}
+        {% endif %}
+      
       <div class="page-sidebar">
         {% include page-author.html %}
         {% include page-categories.html %}
@@ -25,7 +29,7 @@ layout: default
         <div class="e-content">
           {{ content }}
         </div>
-
+        
         {% if page.share %}
           {% include social-share.html %}
         {% endif %}
