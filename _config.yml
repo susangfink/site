@@ -1,4 +1,4 @@
-skin: "/assets/css/skins/default.css"
+skin: "/assets/css/skins/default.scss"
 locale: en-US
 title: Susan G. Fink
 description: Sharing Life. Staying Consistent.
