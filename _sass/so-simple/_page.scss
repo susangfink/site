@@ -244,14 +244,7 @@
       clear: both; // needed for floated layout
     }
   }
-
-  .page-date,
-  .read-time {
-    font-family: $meta-font-family;
-    font-style: italic;
-    white-space: nowrap;
-  }
-   
+   /*
   .page-sidebar {
     margin-bottom: 1em;
 
@@ -272,6 +265,13 @@
         text-decoration: underline;
       }
     }
+  }
+*/
+  .page-date,
+  .read-time {
+    font-family: $meta-font-family;
+    font-style: italic;
+    white-space: nowrap;
   }
    
   .page-content {
