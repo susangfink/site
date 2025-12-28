@@ -62,8 +62,8 @@
   }
 }
 
-//.page-sidebar {
-//  font-size: 0.75rem;
+.page-sidebar {
+  font-size: 0.75rem;
 
   @include breakpoint($large) {
     text-align: center;
