@@ -94,18 +94,6 @@
   }
 }
 
-
-/* Hide left sidebar */
-.page-sidebar {
-  display: none;
-}
-
-/* Make main content full width */
-.main-content {
-  width: 100%;          // adjust according to your grid system
-  margin-left: 0;       // remove any left margin if needed
-}
-
 .page-author {
   @include clearfix;
   display: -webkit-box;
