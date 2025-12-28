@@ -1,20 +1,35 @@
+skin: "/assets/css/skins/default.css"
+locale: en-US
 title: Susan G. Fink
 description: Sharing Life. Staying Consistent.
 url: "https://susangfink.com/"
 baseurl: ""
 logo: /images/susangfink-logo.jpg
-# remote_theme: mmistakes/so-simple-theme
 
-favicon: /images/favicon.png
+
 
 google_analytics: G-R445NTQBQN
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  -jekyll-sitemap
+  -jekyll-paginate
 
 collections:
   recipes:
     output: true
     permalink: /recipes/:title/
 
+footer_links:
+  - title: Instagram
+    url: https://instagram.com/susanfink
+    icon: fab fa-instagram
+    
+
 markdown: kramdown
+
+paginate: 3
+paginate_path: /page:num/
+
+author:
+  name: Sani
