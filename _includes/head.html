@@ -35,12 +35,14 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,500;0,600&family=Lato:wght@300;400;500&display=swap" rel="stylesheet">
 
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-
-  <link href="{{ site.baseurl }}/assets/css/lightbox.css" rel="stylesheet" />
+ <!-- <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+ <link href="{{ site.baseurl }}/assets/css/lightbox.css" rel="stylesheet" />
+  --> 
   
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ site.skin | default: '/assets/css/skins/default.css' | relative_url }}">
+  <link href="{{ site.baseurl }}/assets/css/lightbox.css" rel="stylesheet" />
+  
   {% if site.google_fonts %}
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={%- for font in site.google_fonts -%}{{ font.name | replace: ' ', '+' }}{% if font.weights %}:{% endif %}{{ font.weights | remove: ' ' }}{% if forloop.last != true %}|{% endif %}{%- endfor -%}">
   {% endif %}
