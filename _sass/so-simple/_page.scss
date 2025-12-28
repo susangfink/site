@@ -263,7 +263,7 @@
   .page-content {
     @include breakpoint($large) {
       float: right; // display: grid fallback
-      width: 88%; // display: grid fallback
+      width: 84%; // display: grid fallback
       min-width: 0;
     }
 
