@@ -40,3 +40,11 @@ sidebar: false
   {% endfor %}
 </div>
 {% endif %}
+
+
+<a href="/assets/images/washDC_gallery/washDC-1.jpg" data-lightbox="gallery" title="Caption 1">
+    <img src="/assets/images/washDC_gallery/washDC-1.jpg" alt="Description 1" />
+</a>
+<a href="/assets/images/washDC_gallery/washDC-2.jpg" data-lightbox="gallery" title="Caption 2">
+    <img src="/assets/images/washDC_gallery/washDC-2.jpg" alt="Description 2" />
+</a>
