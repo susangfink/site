@@ -12,6 +12,8 @@ tags:
   - Washington DC
 thumbnail: "/assets/images/nationalarchivesusa-small.jpg"
 ---
+
+Seize the weekend! That was the theme of this trip. 
 <!--more-->
 ![Susan Fink Metro](/assets/images/susangfink-metro-silverline-small.jpg)
 
