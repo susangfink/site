@@ -64,11 +64,11 @@
 
 
 .page-sidebar {
-   display: none; !important
- //font-size: 0.75rem;
+ display: none; 
+ font-size: 0.75rem;
 
- // @include breakpoint($large) {
- //   text-align: center;
+  @include breakpoint($large) {
+    text-align: center;
   }
 
   .page-date,
