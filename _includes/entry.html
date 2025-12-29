@@ -13,6 +13,9 @@
         <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }}</a>
       {% endif %}
     </h3>
+
+    {% if entry.date %}{% include entry-date.html %}{% endif %}
+    
     {% if entry.image.thumbnail %}
       {% assign entry_image = entry.image.thumbnail %}
       {% unless entry_image contains '://' %}
@@ -32,7 +35,7 @@
   {% if site.read_time or entry.date and page.layout != 'collection' %}
     <footer class="entry-meta">
       {% if site.read_time %}{% include read-time.html %}{% endif %}
-      {% if entry.date %}{% include entry-date.html %}{% endif %}
+     <!-- {% if entry.date %}{% include entry-date.html %}{% endif %} -->
     </footer>
   {% endif %}
 </article>
