@@ -15,10 +15,8 @@ plugins:
   - jekyll-redirect-from
 
 
-collections:
-   blog:
-      output: true
-      permalink: /blog/:year/:month/:day/:title/
+
+   permalink: /blog/:year/:month/:day/:title/
 
 collections:
   recipes:
