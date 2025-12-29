@@ -6,6 +6,7 @@ paginate_path: "/blog/page:num/"
 permalink: /blog/
 ---
 
+<p>Total number of posts: {{ site.posts | size }}</p>
 
 <!-- Include Pagination -->
 {% include posts-paginated.html %}
