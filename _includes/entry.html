@@ -15,6 +15,14 @@
     </h2>
 
     {% if entry.date %}{% include entry-date.html %}{% endif %}
+
+    {% unless page.show_excerpts == false %}
+    <div class="entry-excerpt p-summary">
+      {% if entry.excerpt %}
+        {{ entry.excerpt | markdownify }}
+      {% endif %}
+    </div>
+  {% endunless %}
     
     {% if entry.image.thumbnail %}
       {% assign entry_image = entry.image.thumbnail %}
@@ -25,13 +33,7 @@
       <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
     {% endif %}
   </header>
-  {% unless page.show_excerpts == false %}
-    <div class="entry-excerpt p-summary">
-      {% if entry.excerpt %}
-        {{ entry.excerpt | markdownify }}
-      {% endif %}
-    </div>
-  {% endunless %}
+  
   {% if site.read_time or entry.date and page.layout != 'collection' %}
     <footer class="entry-meta">
       {% if site.read_time %}{% include read-time.html %}{% endif %}
