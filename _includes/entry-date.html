@@ -1,5 +1,5 @@
 {%- unless page.layout == 'collection' -%}
-<p style="font-family: Arial; font-style: italic;"> 
+<p style="font-family: Merriweather; font-style: italic;"> 
 <time class="entry-date dt-published" datetime="{{ entry.date | date_to_xmlschema }}">
     {%- assign date_format = site.date_format | default: "%B %-d, %Y" -%}
     {{ entry.date | date: date_format }}
