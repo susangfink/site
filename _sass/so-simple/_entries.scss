@@ -52,6 +52,15 @@
 }
 */
 
+.entry-meta {
+  .entry-date,
+  .read-time {
+    font-family: $meta-font-family;
+    font-size: .75em; 
+    font-style: italic;
+    white-space: nowrap;
+  }
+
 /* Smaller size for images in post previews */
 .entry-image {
   max-width: 200px;        /* Make the image smaller in previews */
@@ -66,15 +75,7 @@
   object-fit: cover;
 }
 
-.entry-meta {
-  .entry-date,
-  .read-time {
-    font-family: $meta-font-family;
-    font-size: .75em; 
-    font-style: italic;
-    white-space: nowrap;
-  }
-
+   
   .read-time + .entry-date::before {
     content: "\2022";
     padding: 0 0.5em;
