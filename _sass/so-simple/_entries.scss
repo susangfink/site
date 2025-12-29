@@ -42,13 +42,28 @@
     bottom: 0;
   }
 }
-
+/*
 .entry-image {
   -webkit-box-ordinal-group: 0;
   -ms-flex-order: -1;
   order: -1;
   width: 100%;
   margin-bottom: 0.5rem;
+}
+*/
+
+/* Smaller size for images in post previews */
+.entry-image {
+  max-width: 200px;        /* Make the image smaller in previews */
+  height: auto;            /* Maintain aspect ratio */
+  object-fit: cover;
+}
+
+/* Larger images for full posts */
+.entry-image {
+  max-width: 100%;         /* Full width for post images */
+  height: auto;
+  object-fit: cover;
 }
 
 .entry-meta {
