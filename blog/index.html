@@ -1,1 +1,42 @@
+---
+layout: page
+title: Blog
+---
 
+<div class="post-grid">
+  {% for post in paginator.posts %}
+    <div class="post-grid-item">
+      <a href="{{ post.url }}">
+        {% if post.image %}
+          <img src="{{ post.image }}" alt="{{ post.title }}">
+        {% endif %}
+        <h2>{{ post.title }}</h2>
+        <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<nav class="pagination">
+  {% if paginator.previous_page %}
+    <a class="prev" href="{{ paginator.previous_page_path }}">← Newer Posts</a>
+  {% endif %}
+
+  {% for i in (1..paginator.total_pages) %}
+    {% if i == paginator.page %}
+      <span class="page current">{{ i }}</span>
+    {% else %}
+      {% if i == 1 %}
+        <a class="page" href="/blog/">{{ i }}</a>
+      {% else %}
+        <a class="page" href="/blog/page{{ i }}/">{{ i }}</a>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a class="next" href="{{ paginator.next_page_path }}">Older Posts →</a>
+  {% endif %}
+</nav>
+{% endif %}
