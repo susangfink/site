@@ -16,9 +16,12 @@ plugins:
 
 
 
-   permalink: /blog/:year/:month/:day/:title/
+   
 
 collections:
+  blog: 
+    output: true
+    permlink: /blog/:year/:month/:day/:title/
   recipes:
     output: true
     permalink: /recipes/:title/
