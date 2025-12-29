@@ -16,11 +16,10 @@
 
     
     {% if entry.date %}
-      <p style="font-family: 'Merriweather', font-style: italic ,sans-serif;">
       {% include entry-date.html %}
-      </p>
       {% endif %}
-    </p>
+
+    
     {% unless page.show_excerpts == false %}
     <div class="entry-excerpt p-summary">
       {% if entry.excerpt %}
