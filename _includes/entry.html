@@ -37,7 +37,7 @@
       <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
     {% endif %}
   </header>
-  
+  <section id="total" class= "taxonomy-section"></section> 
   {% if site.read_time or entry.date and page.layout != 'collection' %}
     <footer class="entry-meta">
       {% if site.read_time %}{% include read-time.html %}{% endif %}
@@ -45,5 +45,4 @@
     </footer>
   {% endif %}
 
-<section id="postbottom" class= "taxonomy-section"></section>
 </article>
