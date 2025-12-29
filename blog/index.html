@@ -18,26 +18,8 @@ title: Blog
   {% endfor %}
 </div>
 
-<!-- Pagination Controls -->
-{% if paginator.total_pages > 1 %}
-  <nav class="pagination">
-    <!-- Previous page link -->
-    {% if paginator.previous_page %}
-      <a class="prev" href="{{ paginator.previous_page_path }}">← Newer Posts</a>
-    {% endif %}
+<!-- Include Pagination -->
+{% include page-pagination.html %
 
-    <!-- Page number links -->
-    {% for i in (1..paginator.total_pages) %}
-      {% if i == paginator.page %}
-        <span class="page current">{{ i }}</span>
-      {% else %}
-        <a class="page" href="{{ paginator.page_path(i) }}">{{ i }}</a>
-      {% endif %}
-    {% endfor %}
-
-    <!-- Next page link -->
-    {% if paginator.next_page %}
-      <a class="next" href="{{ paginator.next_page_path }}">Older Posts →</a>
-    {% endif %}
-  </nav>
-{% endif %}
+<!-- Include Pagination -->
+{% include posts-paginated.html %
