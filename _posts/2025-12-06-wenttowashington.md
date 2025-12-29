@@ -11,6 +11,7 @@ categories:
 tags:
   - Washington DC
 thumbnail: "/assets/images/nationalarchivesusa-small.jpg"
+collection: blog
 ---
 
 Seize the weekend! That was the theme of this trip. 
