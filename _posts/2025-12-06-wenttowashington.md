@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Went to Washington DC"
+permalink: "/blog/2025/12/06/wenttowashington.html"
 image:
   path: /assets/images/nationalarchiesusa.jpg
   thumbnail: /assets/images/nationalarchiesusa-small.jpg
