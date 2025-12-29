@@ -4,23 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-<!-- Loop through posts with pagination -->
-<div class="post-list">
-  {% for post in paginator.posts %}
-    <div class="post-item">
-      <a href="{{ post.url }}">
-        <h3>{{ post.title }}</h3>
-      </a>
-      <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
-      <p class="post-meta">
-        Posted on {{ post.date | date: "%B %d, %Y" }}
-      </p>
-    </div>
-  {% endfor %}
-</div>
 
-<!-- Include Pagination 
-{% include page-pagination.html %}
--->
 <!-- Include Pagination -->
 {% include posts-paginated.html %}
