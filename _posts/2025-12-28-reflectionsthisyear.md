@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Reflections This Year
-sidebar: false
+title: "Reflections This Year"
 image:
   path: /assets/images/welcome-hero-image.jpg
   thumbnail: /assets/images/welcome-hero-image-small.jpg
@@ -9,6 +8,7 @@ image:
 excerpt_separator: "<!--more-->"  
 categories: 
 - Reflection
+thumbnail: /assets/images/welcome-hero-image-small.jpg
 ---
 <!--more-->
 Welcome to my new blog and website. 
