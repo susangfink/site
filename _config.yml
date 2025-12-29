@@ -21,10 +21,10 @@ plugins:
 collections:
   blog: 
     output: true
-    permalink: /blog/:year/:month/:day/:title/
+    permalink: "/blog/:year/:month/:day/:title/"
   recipes:
     output: true
-    permalink: /recipes/:title/
+    permalink: "/recipes/:title/"
 
 footer_links:
   - title: Instagram
