@@ -2,6 +2,7 @@
 layout: posts
 title: Blog
 permalink: /blog/
+paginate: 3
 show_excerpts: true
 entries_layout: list
 ---
