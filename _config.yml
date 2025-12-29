@@ -28,7 +28,7 @@ footer_links:
 markdown: kramdown
 
 paginate: 3
-paginate_path: "/_posts/page:num/"
+paginate_path: "/blog/page:num/"
 
 author:
   name: Sani
