@@ -69,7 +69,7 @@
 }
 
 /* Larger images for full posts */
-.entry-image {
+.entry-image img{
   max-width: 100%;         /* Full width for post images */
   height: auto;
   object-fit: cover;
