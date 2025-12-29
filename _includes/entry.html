@@ -14,8 +14,12 @@
       {% endif %}
     </h2>
 
-    <p style="font-family: 'Merriweather', font-style: italic ,sans-serif;">
-    {% if entry.date %}{% include entry-date.html %}{% endif %}
+    
+    {% if entry.date %}
+      <p style="font-family: 'Merriweather', font-style: italic ,sans-serif;">
+      {% include entry-date.html %}
+      </p>
+      {% endif %}
     </p>
     {% unless page.show_excerpts == false %}
     <div class="entry-excerpt p-summary">
