@@ -35,4 +35,5 @@ show_excerpts: false
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
+<input type="hidden" name="_redirect" value="/thank-you/">
 </form>
