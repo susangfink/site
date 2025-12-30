@@ -26,6 +26,8 @@ collections:
     output: true
     permalink: "/recipes/:title/"
 
+  search_full_content: true
+
 footer_links:
   - title: Instagram
     url: https://instagram.com/susanfink
