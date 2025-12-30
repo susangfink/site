@@ -5,7 +5,10 @@ permalink: /contact/
 show_excerpts: false
 ---
 <div>
-<p>Send me an email at hello@susangfink.com or use the form below</p>
+<center>
+  <p>Send me an email at 
+    <a href="hello@susangfink.com">hello@susangfink.com</a> or use the form below</p>
+</center>
 </div>
 <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/eb5735959c0e93a89110b274fcc0cc4b"></div>
 
@@ -24,7 +27,3 @@ formkeepEmbed.addEventListener('formkeep-embed:submitted', _event => {
   console.log('Submitted form...')
 })
 </script>
-
-<div>
-<p>Send me an email at hello@susangfink.com or use the form</p>
-</div>
