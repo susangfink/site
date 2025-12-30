@@ -6,7 +6,7 @@ logo: /images/susangfink-logo.jpg
 
 
 
-google_analytics: UA-R445NTQBQN
+google_analytics: G-R445NTQBQN
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -33,8 +33,7 @@ footer_links:
     url: https://instagram.com/susanfink
     icon: fab fa-instagram
 
-read_time: true
-words_per_minute: 200    
+
 
 markdown: kramdown
 
