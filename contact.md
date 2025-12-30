@@ -4,9 +4,9 @@ layout: page
 permalink: /contact/
 show_excerpts: false
 ---
-
+<div>
 <p>Send me an email at hello@susangfink.com or use the form below</p>
-
+</div>
 <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/eb5735959c0e93a89110b274fcc0cc4b"></div>
 
 <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
