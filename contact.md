@@ -1,6 +1,6 @@
 ---
-title: "Contact Me"
 layout: page
+title: "Contact Me"
 permalink: /contact/
 show_excerpts: false
 ---
@@ -24,3 +24,7 @@ formkeepEmbed.addEventListener('formkeep-embed:submitted', _event => {
   console.log('Submitted form...')
 })
 </script>
+
+<div>
+<p>Send me an email at hello@susangfink.com or use the form</p>
+</div>
