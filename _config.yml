@@ -32,7 +32,9 @@ footer_links:
   - title: Instagram
     url: https://instagram.com/susanfink
     icon: fab fa-instagram
-    
+
+read_time: true
+words_per_minute: 200    
 
 markdown: kramdown
 
