@@ -10,7 +10,8 @@ show_excerpts: false
     <a href="hello@susangfink.com">hello@susangfink.com</a> or use the form below</p>
 </center>
 </div>
-<div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/eb5735959c0e93a89110b274fcc0cc4b"></div>
+
+<div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/eb5735959c0e93a89110b274fcc0cc4b?embedded=1"></div>
 
 <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
 <script type="text/javascript" src="https://cdn.formkeep.com/formkeep-embed.js"></script>
@@ -27,3 +28,7 @@ formkeepEmbed.addEventListener('formkeep-embed:submitted', _event => {
   console.log('Submitted form...')
 })
 </script>
+
+
+
+
