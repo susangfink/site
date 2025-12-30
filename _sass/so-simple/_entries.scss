@@ -68,13 +68,13 @@
   object-fit: cover;
 }
 
-/* Larger images for full posts */
+/* Larger images for full posts 
 .entry-image img{
-  max-width: 100%;         /* Full width for post images */
+  max-width: 100%;         
   height: auto;
   object-fit: cover;
 }
-
+*/
    
   .read-time + .entry-date::before {
     content: "\2022";
