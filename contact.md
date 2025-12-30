@@ -41,7 +41,7 @@ show_excerpts: false
       <textarea id="message" name="message" rows="6" required></textarea>
   </p>
 
-  <p>
+  <p align= "right">
     <button type="submit" class="btn">Send Message</button>
   </p>
 </form>
