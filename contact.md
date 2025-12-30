@@ -25,20 +25,26 @@ show_excerpts: false
   class="contact-form"
   id="contact-form"
 >
-  <p>
+  <p align="left">
     <label for="name">Name</label>
 
-    <center><input type="text" id="name" name="name" required></center>
+    <center>
+    <input type="text" id="name" name="name" required>
+    </center>
   </p>
 
   <p>
     <label for="email">Email</label>
-    <center><input type="email" id="email" name="email" required></center>
+    <center>
+      <input type="email" id="email" name="email" required>
+    </center>
   </p>
 
   <p>
     <label for="message">Message</label>
-    <center><textarea id="message" name="message" rows="6" required></textarea></center>
+    <center>
+      <textarea id="message" name="message" rows="6" required></textarea>
+    </center>
   </p>
 
   <p>
@@ -46,9 +52,11 @@ show_excerpts: false
   </p>
 </form>
 
-<center><p id="form-success" class="form-success" hidden>
+<center>
+  <p id="form-success" class="form-success" hidden>
   Thank you! Your message has been sent.
-</p></center>
+</p>
+</center>
 
 <script>
   const form = document.getElementById('contact-form');
