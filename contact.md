@@ -27,24 +27,18 @@ show_excerpts: false
 >
   <p align="left">
     <label for="name">Name</label>
-
-    <center>
     <input type="text" id="name" name="name" required>
-    </center>
+    
   </p>
 
   <p>
     <label for="email">Email</label>
-    <center>
       <input type="email" id="email" name="email" required>
-    </center>
   </p>
 
   <p>
     <label for="message">Message</label>
-    <center>
       <textarea id="message" name="message" rows="6" required></textarea>
-    </center>
   </p>
 
   <p>
