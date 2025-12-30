@@ -18,7 +18,7 @@ show_excerpts: false
 </center>
 </div>
 
-<center>
+
 <form
   action="https://formspree.io/f/xgoebyya"
   method="POST"
@@ -27,17 +27,18 @@ show_excerpts: false
 >
   <p>
     <label for="name">Name</label>
-    <input type="text" id="name" name="name" required>
+
+    <center><input type="text" id="name" name="name" required></center>
   </p>
 
   <p>
     <label for="email">Email</label>
-    <input type="email" id="email" name="email" required>
+    <center><input type="email" id="email" name="email" required></center>
   </p>
 
   <p>
     <label for="message">Message</label>
-    <textarea id="message" name="message" rows="6" required></textarea>
+    <center><textarea id="message" name="message" rows="6" required></textarea></center>
   </p>
 
   <p>
@@ -45,9 +46,9 @@ show_excerpts: false
   </p>
 </form>
 
-<p id="form-success" class="form-success" hidden>
+<center><p id="form-success" class="form-success" hidden>
   Thank you! Your message has been sent.
-</p>
+</p></center>
 
 <script>
   const form = document.getElementById('contact-form');
@@ -73,4 +74,3 @@ show_excerpts: false
     }
   });
 </script>
-</center>
