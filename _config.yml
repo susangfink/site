@@ -6,7 +6,7 @@ logo: /images/susangfink-logo.jpg
 
 
 
-google_analytics: G-R445NTQBQN
+google_analytics: UA-R445NTQBQN
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
