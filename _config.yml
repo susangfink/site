@@ -4,8 +4,6 @@ url: "https://susangfink.com/"
 baseurl: ""
 logo: /images/susangfink-logo.jpg
 
-
-
 google_analytics: G-R445NTQBQN
 plugins:
   - jekyll-feed
@@ -13,10 +11,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-redirect-from
-
-
-
-   
 
 collections:
   blog: 
@@ -26,14 +20,10 @@ collections:
     output: true
     permalink: "/recipes/:title/"
 
-  search_full_content: true
-
 footer_links:
   - title: Instagram
     url: https://instagram.com/susanfink
     icon: fab fa-instagram
-
-
 
 markdown: kramdown
 
