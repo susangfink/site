@@ -30,12 +30,14 @@
 
 .contact-form {
   max-width: 600px;
+  margin: 0 auto;
 }
 
 .contact-form label {
   font-weight: 600;
   display: block;
   margin-bottom: 0.3rem;
+  text-align: left;
 }
 
 .contact-form input,
@@ -50,6 +52,7 @@
   box-sizing: border-box;
   margin-top: 0.2rem;
   margin-bottom: 1rem;
+  text-align: left;
 }
 
 .contact-form input:focus,
@@ -80,4 +83,14 @@
   background-color: #c5c7c9;
   color: #3d4247;
   border-radius: 2px;
+}
+
+@media (min-width: 768px) {
+  .contact-form {
+    margin: 0 auto;
+  }
+}
+
+.form-actions {
+text-align: right;
 }
