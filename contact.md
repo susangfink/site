@@ -18,6 +18,7 @@ show_excerpts: false
 </center>
 </div>
 
+<center>
 <form
   action="https://formspree.io/f/xgoebyya"
   method="POST"
@@ -72,21 +73,4 @@ show_excerpts: false
     }
   });
 </script>
-
-<!-- modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/xgoebyya"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-<input type="hidden" name="_redirect" value="/thank-you/">
-</form>
+</center>
