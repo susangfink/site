@@ -4,6 +4,13 @@ title: "Contact Me"
 permalink: /contact/
 show_excerpts: false
 ---
+
+<div>
+<center>
+  <p>Follow me on Instagram 
+    <a href="http://www.instagram.com/susanfink">@susanfink</a> </p>
+</center>
+</div>
 <div>
 <center>
   <p>Send me an email at 
