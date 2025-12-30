@@ -1,9 +1,8 @@
 ---
 title: "Contact Me"
-layout: collection
+layout: page
 permalink: /contact/
 show_excerpts: false
-entries_layout: list
 ---
 
 <p>Send me an email at hello@susangfink.com or use the form below</p>
