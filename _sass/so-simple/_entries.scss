@@ -63,9 +63,9 @@
 
 /* Smaller size for images in post previews */
 .entry-image {
-  max-width: 100px;        /* Make the image smaller in previews */
-  height: auto;            /* Maintain aspect ratio */
-  object-fit: cover;
+  max-width: 100%;        /* Make the image smaller in previews */
+  height: auto;           /* Maintain aspect ratio */
+  display: block;         /*object-fit: cover;*/
 }
 
 /* Larger images for full posts 
