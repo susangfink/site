@@ -63,7 +63,7 @@
 
 /* Smaller size for images in post previews */
 .entry-image {
-  max-width: 200px;        /* Make the image smaller in previews */
+  max-width: 100px;        /* Make the image smaller in previews */
   height: auto;            /* Maintain aspect ratio */
   object-fit: cover;
 }
