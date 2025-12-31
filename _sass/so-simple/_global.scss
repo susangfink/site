@@ -162,10 +162,10 @@
 }
 
 .taxonomy-section {
-  margin-bottom: 0.5em;
+  margin-bottom: 1em;
   padding-bottom: 1em;
-  border-top: 1em; 
-  border-bottom: solid 3px; 
+  //border-top: 1em; 
+  border-bottom:  3px solid #ccc; 
    
 
   &:not(:last-child) {
