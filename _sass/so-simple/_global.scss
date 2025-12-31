@@ -169,7 +169,7 @@
    
 
   &:not(:last-child) {
-    border-bottom: none;
+    border-bottom: 0.5em;
   }
 
   + .taxonomy-section {
