@@ -164,11 +164,12 @@
 .taxonomy-section {
   margin-bottom: 0;
   padding-bottom: 1em;
+  border-top: none; 
   border-bottom: none; 
    
 
   &:not(:last-child) {
-    border-bottom: solid 1px;;
+    border-bottom: none;
   }
 
   + .taxonomy-section {
