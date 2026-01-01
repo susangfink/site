@@ -6,6 +6,18 @@
 
 <article class="entry h-entry">
   <header class="entry-header">
+
+{% if entry.image.thumbnail %}
+      {% assign entry_image = entry.image.thumbnail %}
+      {% unless entry_image contains '://' %}
+        {% assign entry_image = entry_image | relative_url %}
+      {% endunless %}
+      {% assign entry_image = entry_image | escape %}
+      <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
+    {% endif %}
+    
+
+    
 <div class="entry-date p-time">
     {% if entry.date %}
       {% include entry-date.html %}
@@ -27,14 +39,7 @@
     </div>
   {% endunless %}
     
-    {% if entry.image.thumbnail %}
-      {% assign entry_image = entry.image.thumbnail %}
-      {% unless entry_image contains '://' %}
-        {% assign entry_image = entry_image | relative_url %}
-      {% endunless %}
-      {% assign entry_image = entry_image | escape %}
-      <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
-    {% endif %}
+    
   </header>
   
   <section id="total" class= "taxonomy-section"></section> 
