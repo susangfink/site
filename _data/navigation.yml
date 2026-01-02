@@ -2,13 +2,11 @@
 
 - title: Home
   url: /
-  
 - title: About
   url: /about/
- 
 - title: Blog
-  url: #
-  sublinks:
+  url: /blog/
+  children:
     - title: House
     url: /blog/house/
     - title: Health
