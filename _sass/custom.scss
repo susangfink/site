@@ -151,7 +151,7 @@ text-align: right;
 
 /* Show dropdown on hover */
 .site-nav ul.menu > li:hover > ul {
-  display: block;
+  display: flex;
 }
 
 /* Optional: add small fade-in effect */
