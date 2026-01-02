@@ -1,18 +1,39 @@
 {% if site.data.navigation %}
   <div class="navigation-wrapper">
     <a href="#menu-toggle" id="menu-toggle">{{ site.data.text[site.locale].menu_label | default: 'LINKS' }}</a>
-    <nav id="primary-nav" class="site-nav animated drop">
-      <ul>
-        {%- for link in site.data.navigation -%}
-          {%- if link.url contains '://' -%}
-            {%- assign url = link.url -%}
-          {%- else -%}
-            {%- assign url = link.url | relative_url -%}
-          {%- endif -%}
-          <li><a href="{{ url }}">{{ link.title }}</a></li>
+<nav class="site-nav" role="navigation">
+  <ul class="menu">
+
+    {{/* Loop through top-level menu items only */}}
+    {{ range .Site.Menus.main }}
+      {{ if not .Parent }}
+
+        <li class="menu-item {{ if .HasChildren }}has-dropdown{{ end }}">
+          <a href="{{ link.url | relative_url }}">
+            {{ .Name }}
+          </a>
+
+          {{/* Dropdown items */}}
+          {{ if .HasChildren }}
+            <ul class="dropdown">
+              {{ range .Children }}
+                <li class="dropdown-item">
+                  <a href="{{ link.url | relative_url }}">
+                    {{ .Name }}
+                  </a>
+                </li>
+              {{ end }}
+            </ul>
+          {{ end }}
+
+        </li>
+
+      {{ end }}
+    {{ end }}
+
+  </ul>
+</nav>
+
     
-        {%- endfor -%}
-      </ul>
-    </nav>
   </div><!-- /.navigation-wrapper -->
 {% endif %}
