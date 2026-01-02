@@ -10,6 +10,21 @@
             {%- assign url = link.url | relative_url -%}
           {%- endif -%}
           <li><a href="{{ url }}">{{ link.title }}</a></li>
+
+      <li class="has-dropdown">
+      <a href="#">Blog</a>
+      <ul class="dropdown">
+        <li><a href="{{ "/blog/house/" | relURL }}">House</a></li>
+        <li><a href="{{ "/blog/health/" | relURL }}">Health</a></li>
+        <li><a href="{{ "/blog/family/" | relURL }}">Family</a></li>
+        <li><a href="{{ "/blog/food/" | relURL }}">Food</a></li>
+        <li><a href="{{ "/blog/travel/" | relURL }}">Travel</a></li>
+        <li><a href="{{ "/blog/reflections/" | relURL }}">Reflections</a></li>
+      </ul>
+    </li>
+
+
+        
         {%- endfor -%}
       </ul>
     </nav>
