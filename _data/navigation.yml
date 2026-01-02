@@ -6,27 +6,19 @@
   url: /about/
 - title: Blog
   url: /blog/
-  id: blog
-  
+  subitems:
     - title: House
       url: /blog/house/
-      parent: blog
     - title: Health
-      url: /blog/health/
-      parent: blog
+      url: /blog/health
     - title: Family
-      url: /blog/family/
-      parent: blog
+      url: /blog/family/ 
     - title: Food
       url: /blog/food/
-      parent: blog
     - title: Travel
       url: /blog/travel/
-      parent: blog
     - title: Reflections
       url: /blog/reflections/
-      parent: blog
-
 - title: Categories
   url: /categories/
 - title: Contact
