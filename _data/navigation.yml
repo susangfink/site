@@ -6,25 +6,26 @@
   url: /about/
 - title: Blog
   url: /blog/
-  dropdown:
+  id: blog
+  
     - title: House
-      parent: blog
       url: /blog/house/
+      parent: blog
     - title: Health
-      parent: blog
       url: /blog/health/
+      parent: blog
     - title: Family
-      parent: blog
       url: /blog/family/
+      parent: blog
     - title: Food
-      parent: blog
       url: /blog/food/
+      parent: blog
     - title: Travel
-      parent: blog
       url: /blog/travel/
-    - title: Reflections
       parent: blog
+    - title: Reflections
       url: /blog/reflections/
+      parent: blog
 
 - title: Categories
   url: /categories/
