@@ -5,7 +5,7 @@
   <ul class="menu">
 
     {{/* Loop through top-level menu items */}}
-    {{ range .Site.Menus.main }}
+    {{ range .Site.Menus.navigation }}
       {{ if not .Parent }}
 
         <li class="menu-item {{ if .HasChildren }}has-dropdown{{ end }}">
