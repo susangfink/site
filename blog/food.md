@@ -6,3 +6,6 @@ collection: recipes
 entries_layout: list
 parent: blog
 ---
+
+<!-- Include Pagination -->
+{% include posts-category.html %}
