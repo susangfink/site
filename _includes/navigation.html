@@ -11,14 +11,6 @@
             {%- assign url = link.url | relative_url -%}
           {%- endif -%}
           <li><a href="{{ url }}">{{ link.title }}</a></li>
- {%- if link.url contains '/blog/' -%}
-           <ul class="dropdown">
-              {{ range .Children }}
-                <li class="dropdown-item">
-                  <a href="{{ .url | relative_url }}">{{ link.title }}</a>
-                </li>
-              {{ end }}
-            </ul>    
   {%- endfor -%}
 
        
