@@ -1,6 +1,6 @@
 ---
 layout: page
-title: family
+title: Family
 paginate: 3
 paginate_path: "/blog/family/page:num/"
 permalink: /blog/family/
