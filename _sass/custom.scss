@@ -106,12 +106,12 @@ text-align: right;
    ============================== */
 
 /* Ensure parent <li> is positioned relative */
-nav .menu > li {
+nav .primary-nav > li {
   position: relative;
 }
 
 /* Hide dropdown by default */
-nav .menu li ul {
+nav .primary-nav li ul {
   display: none;
   position: absolute;
   top: 100%; /* directly below parent */
@@ -127,12 +127,12 @@ nav .menu li ul {
 }
 
 /* Dropdown list items */
-nav .menu li ul li {
+nav .primary-nav li ul li {
   display: block;
 }
 
 /* Dropdown links */
-nav .menu li ul li a {
+nav .primary-nav li ul li a {
   display: block;
   padding: 10px 20px; /* match So Simple spacing */
   color: #333333;     /* default link color */
@@ -143,29 +143,29 @@ nav .menu li ul li a {
 }
 
 /* Hover effect for dropdown links */
-nav .menu li ul li a:hover {
+nav .primary-nav li ul li a:hover {
   background-color: #f0f0f0;
   color: #000000;
 }
 
 /* Show dropdown on hover */
-nav .menu li:hover > ul {
+nav .primary-nav li:hover > ul {
   display: block;
 }
 
 /* Optional: add small fade-in effect */
-nav .menu li ul {
+nav .primary-nav li ul {
   opacity: 0;
   transition: opacity 0.3s ease;
 }
 
-nav .menu li:hover > ul {
+nav .primary-nav li:hover > ul {
   opacity: 1;
 }
 
 /* Optional: mobile support (click toggle) */
 @media (max-width: 768px) {
-  nav .menu li ul {
+  nav .primary-nav li ul {
     position: static;
     box-shadow: none;
     border-radius: 0;
