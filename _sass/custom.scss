@@ -130,7 +130,10 @@ text-align: right;
 
 /* Dropdown list items */
 .site-nav ul.menu > li > ul > li {
-  display: block;
+  display: block; 
+  position: absolute;
+  top: 100%;
+  left: 0;
 }
 
 /* Dropdown links */
