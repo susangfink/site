@@ -1,31 +1,31 @@
 # Sample site navigation bar links
 
-- title: Home
-  url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
-  children:
-    - title: House
-    url: /blog/house/
-    - title: Health
-    url: /blog/health/
-   - title: Family
-    url: /blog/family/
-    - title: Food
-    url: /blog/food/
-    - title: Travel
-    url: /blog/travel/
-    - title: Reflections
-    url: /blog/reflections/
-- title: Categories
-  url: /categories/
-- title: Contact
-  url: /contact/
+#- title: Home
+#  url: /
+#- title: About
+#  url: /about/
+#- title: Blog
+#  url: /blog/
+#  children:
+#    - title: House
+#    url: /blog/house/
+#    - title: Health
+#    url: /blog/health/
+#   - title: Family
+#    url: /blog/family/
+#    - title: Food
+#    url: /blog/food/
+#    - title: Travel
+#    url: /blog/travel/
+#    - title: Reflections
+#    url: /blog/reflections/
+#- title: Categories
+#  url: /categories/
+#- title: Contact
+#  url: /contact/
   
-- title: Search
-  url: /search/
+#- title: Search
+#  url: /search/
 
   
 #- title: Work With Me
