@@ -8,23 +8,23 @@
   url: /blog/
   children:
     - title: House
-    parent: blog
-    url: /blog/house/
+      parent: blog
+      url: /blog/house/
     - title: Health
-    parent: blog
-    url: /blog/health/
+      parent: blog
+      url: /blog/health/
     - title: Family
-    parent: blog
-    url: /blog/family/
+      parent: blog
+      url: /blog/family/
     - title: Food
-    parent: blog
-    url: /blog/food/
+      parent: blog
+      url: /blog/food/
     - title: Travel
-    parent: blog
-    url: /blog/travel/
-   - title: Reflections
-    parent: blog
-    url: /blog/reflections/
+      parent: blog
+      url: /blog/travel/
+    - title: Reflections
+      parent: blog
+      url: /blog/reflections/
 
 - title: Categories
   url: /categories/
