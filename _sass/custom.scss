@@ -111,7 +111,7 @@ text-align: right;
 }
 
 /* Hide dropdown by default */
-.site-nav li ul.menu > li > ul {
+.site-nav li > ul.menu > li > ul {
   display: none;
   position: absolute;
   top: 100%; /* directly below parent */
@@ -136,7 +136,7 @@ text-align: right;
 .site-nav ul.menu > li > ul > li > a {
   display: block;
   padding: 10px 20px; /* match So Simple spacing */
-  color: #333333;     /* default link color */
+  color: #ffffff;     /* default link color */
   text-decoration: none;
   white-space: nowrap;
   font-weight: 500;
