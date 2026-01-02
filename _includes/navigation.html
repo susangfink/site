@@ -1,29 +1,33 @@
 {% if site.data.navigation %}
   <div class="navigation-wrapper">
     <a href="#menu-toggle" id="menu-toggle">{{ site.data.text[site.locale].menu_label | default: 'LINKS' }}</a>
-<nav id="primary-nav" class="site-nav animated drop">
-<ul class="navbar-nav">
-    {% for link in site.data.navigation %}
-      {% if link.dropdown %}
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="{{ link.url }}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            {{ link.title }}
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            {% for subitem in link.dropdown %}
-              <a class="dropdown-item" href="{{ subitem.url }}">{{ subitem.title }}</a>
-            {% endfor %}
-          </div>
+<nav id="site-nav" class="site-nav animated drop">
+  <ul class="menu">
+
+    {{/* Loop through top-level menu items */}}
+    {{ range .Site.Menus.main }}
+      {{ if not .Parent }}
+
+        <li class="menu-item {{ if .HasChildren }}has-dropdown{{ end }}">
+          <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+
+          {{/* Only render dropdown if there are children */}}
+          {{ if .HasChildren }}
+            <ul class="dropdown">
+              {{ range .Children }}
+                <li class="dropdown-item">
+                  <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+                </li>
+              {{ end }}
+            </ul>
+          {{ end }}
+
         </li>
-      {% else %}
-        <li class="nav-item">
-          <a class="nav-link" href="{{ link.url }}">{{ link.title }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
+
+      {{ end }}
+    {{ end }}
+
   </ul>
-
-
 </nav>
 
     
