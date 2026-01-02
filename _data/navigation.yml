@@ -5,7 +5,26 @@
 - title: About
   url: /about/
 - title: Blog
-  url: /blog/ 
+  url: /blog/
+  hasChildren: true
+    - name: "House"
+    url: /blog/house/
+    weight: 1
+    - name: "Health"
+    url: /blog/health/
+    weight: 2
+    - name: "Family"
+    url: /blog/family/
+    weight: 3
+    - name: "Food"
+    url: /blog/food/
+    weight: 4
+    - name: "Travel"
+    url: /blog/travel/
+    weigth: 5
+    - name: "Refelctions"
+    url: /blog/refelctions/
+    weight: 6
 - title: Categories
   url: /categories/
 - title: Contact
