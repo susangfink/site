@@ -11,25 +11,18 @@
   sublinks:
     - title: House
     url: /blog/house/
-    weight: 1
     - title: Health
     url: /blog/health/
-    weight: 2
-    - title: Family
+   - title: Family
     url: /blog/family/
-    weight: 3
     - title: Food
     url: /blog/food/
-    weight: 4
     - title: Travel
     url: /blog/travel/
-    weigth: 5
     - title: Reflections
     url: /blog/reflections/
-    weight: 6
 - title: Categories
   url: /categories/
-  
 - title: Contact
   url: /contact/
   
