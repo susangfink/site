@@ -1,10 +1,12 @@
 ---
-layout: collection
+layout: page
 title: Food
 permalink: /blog/food/
 collection: recipes
-entries_layout: list
-parent: blog
+pagination:
+  enabled: true
+  categroy: food
+  per_page: 3
 ---
 
 <!-- Include Pagination -->
