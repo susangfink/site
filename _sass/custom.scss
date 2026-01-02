@@ -100,4 +100,74 @@ text-align: right;
     text-align: right;
   }  
 }
-  
+
+/* ==============================
+   So Simple 3.2.0 Blog Dropdown
+   ============================== */
+
+/* Ensure parent <li> is positioned relative */
+nav .menu > li {
+  position: relative;
+}
+
+/* Hide dropdown by default */
+nav .menu li ul {
+  display: none;
+  position: absolute;
+  top: 100%; /* directly below parent */
+  left: 0;
+  background-color: #ffffff; /* white background */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* subtle shadow */
+  z-index: 999;
+  min-width: 180px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  border-radius: 4px; /* optional rounded corners */
+}
+
+/* Dropdown list items */
+nav .menu li ul li {
+  display: block;
+}
+
+/* Dropdown links */
+nav .menu li ul li a {
+  display: block;
+  padding: 10px 20px; /* match So Simple spacing */
+  color: #333333;     /* default link color */
+  text-decoration: none;
+  white-space: nowrap;
+  font-weight: 500;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* Hover effect for dropdown links */
+nav .menu li ul li a:hover {
+  background-color: #f0f0f0;
+  color: #000000;
+}
+
+/* Show dropdown on hover */
+nav .menu li:hover > ul {
+  display: block;
+}
+
+/* Optional: add small fade-in effect */
+nav .menu li ul {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+nav .menu li:hover > ul {
+  opacity: 1;
+}
+
+/* Optional: mobile support (click toggle) */
+@media (max-width: 768px) {
+  nav .menu li ul {
+    position: static;
+    box-shadow: none;
+    border-radius: 0;
+  }
+}
