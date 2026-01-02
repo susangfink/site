@@ -8,8 +8,10 @@
   weight: 2
 - title: Blog
   url: /blog/
+  identifier: "blog"
   weight: 3
   hasChildren: true
+  children:
     - name: "House"
     url: /blog/house/
     weight: 1
