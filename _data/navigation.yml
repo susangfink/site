@@ -6,24 +6,26 @@
   url: /about/
 - title: Blog
   url: /blog/
-- title: House
-  parent: blog
-  url: /blog/house/
-- title: Health
-  parent: blog
-  url: /blog/health/
-- title: Family
-  parent: blog
-  url: /blog/family/
-- title: Food
-  parent: blog
-  url: /blog/food/
-- title: Travel
-  parent: blog
-  url: /blog/travel/
-- title: Reflections
-  parent: blog
-  url: /blog/reflections/
+  dropdown:
+    - title: House
+    parent: blog
+    url: /blog/house/
+    - title: Health
+    parent: blog
+    url: /blog/health/
+    - title: Family
+    parent: blog
+    url: /blog/family/
+    - title: Food
+    parent: blog
+    url: /blog/food/
+    - title: Travel
+    parent: blog
+    url: /blog/travel/
+   - title: Reflections
+    parent: blog
+    url: /blog/reflections/
+
 - title: Categories
   url: /categories/
 - title: Contact
