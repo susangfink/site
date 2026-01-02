@@ -1,1 +1,7 @@
-
+---
+layout: page
+title: House
+paginate: 3
+paginate_path: "/blog/house/page:num/"
+permalink: /blog/house/
+---
