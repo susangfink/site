@@ -11,28 +11,17 @@
             {%- assign url = link.url | relative_url -%}
           {%- endif -%}
           <li><a href="{{ url }}">{{ link.title }}</a></li>
-    
-  {%- endfor -%}
-
-        <li class="menu-item {{ if .HasChildren }}has-dropdown{{ end }}">
-          <a href="{{ .url | relative_url }}">{{ link.title }}</a>
-
-          {{/* Only render dropdown if there are children */}}
-          {{ if link.title .HasChildren }}
-            <ul class="dropdown">
+ {%- if link.url contains '/blog/' -%}
+           <ul class="dropdown">
               {{ range .Children }}
                 <li class="dropdown-item">
                   <a href="{{ .url | relative_url }}">{{ link.title }}</a>
                 </li>
               {{ end }}
-            </ul>
-          {{ end }}
+            </ul>    
+  {%- endfor -%}
 
-        </li>
-
-      {{ end }}
-    {{ end }}
-
+       
   </ul>
 </nav>
 
