@@ -1,5 +1,6 @@
 ---
 layout: page
+category: food
 title: "Chocolate Chip Cookies"
 image: 
   path: /images/chocolate-chip-cookies-lg.jpg
