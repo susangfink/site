@@ -8,23 +8,23 @@
  
 - title: Blog
   url: #
-  dropdown:
-    - name: "House"
+  sublinks:
+    - title: House
     url: /blog/house/
     weight: 1
-    - name: "Health"
+    - title: Health
     url: /blog/health/
     weight: 2
-    - name: "Family"
+    - title: Family
     url: /blog/family/
     weight: 3
-    - name: "Food"
+    - title: Food
     url: /blog/food/
     weight: 4
-    - name: "Travel"
+    - title: Travel
     url: /blog/travel/
     weigth: 5
-    - name: "Reflections"
+    - title: Reflections
     url: /blog/reflections/
     weight: 6
 - title: Categories
