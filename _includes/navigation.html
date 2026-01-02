@@ -4,14 +4,14 @@
 <nav id="primary-nav" class="site-nav animated drop">
   <ul class="menu">
 
-    {% for item in site.data.navigation.main %}
-      <li class="menu-item {% if item.children %}has-dropdown{% endif %}">
+    {% for link in site.data.navigation %}
+      <li class="menu-link {% if link.children %}has-dropdown{% endif %}">
 
-        <a href="{{ item.url }}">{{ item.title }}</a>
+        <a href="{{ link.url }}">{{ relative_url }}</a>
 
-        {% if item.children %}
+        {% if link.children %}
           <ul class="dropdown">
-            {% for child in item.children %}
+            {% for child in link.children %}
               <li class="dropdown-item">
                 <a href="{{ child.url }}">{{ child.title }}</a>
               </li>
