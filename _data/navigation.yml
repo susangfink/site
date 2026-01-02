@@ -22,8 +22,8 @@
     - name: "Travel"
     url: /blog/travel/
     weigth: 5
-    - name: "Refelctions"
-    url: /blog/refelctions/
+    - name: "Reflections"
+    url: /blog/reflections/
     weight: 6
 - title: Categories
   url: /categories/
