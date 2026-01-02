@@ -6,7 +6,7 @@
   url: /about/
 - title: Blog
   url: /blog/
-  children:
+  dropdown:
     - title: House
       parent: blog
       url: /blog/house/
