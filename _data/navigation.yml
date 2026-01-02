@@ -2,10 +2,13 @@
 
 - title: Home
   url: /
+  weight: 1
 - title: About
   url: /about/
+  weight: 2
 - title: Blog
   url: /blog/
+  weight: 3
   hasChildren: true
     - name: "House"
     url: /blog/house/
@@ -27,10 +30,13 @@
     weight: 6
 - title: Categories
   url: /categories/
+  weight: 4
 - title: Contact
   url: /contact/
+  weight: 5
 - title: Search
   url: /search/
+  weight: 6
 #- title: Work With Me
 #  url: /workwithme/
 #- title: Recipes
