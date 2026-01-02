@@ -9,14 +9,14 @@
       {{ if not .Parent }}
 
         <li class="menu-item {{ if .HasChildren }}has-dropdown{{ end }}">
-          <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+          <a href="{{ .url | relative_url }}">{{ link.title }}</a>
 
           {{/* Only render dropdown if there are children */}}
           {{ if .HasChildren }}
             <ul class="dropdown">
               {{ range .Children }}
                 <li class="dropdown-item">
-                  <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+                  <a href="{{ .url | relative_url }}">{{ link.title }}</a>
                 </li>
               {{ end }}
             </ul>
