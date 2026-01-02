@@ -10,8 +10,7 @@
         <li class="menu-item">
           <a href="{{ item.url }}">{{ item.title }}</a>
 
-          {%- assign children = site.data.navigation.main
-            | where: "parent", item.id -%}
+          {%- assign children = site.data.navigation.main | where: "parent", item.id -%}
 
           {% if children.size > 0 %}
             <ul class="dropdown">
