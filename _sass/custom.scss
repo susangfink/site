@@ -221,6 +221,18 @@ display: block;
     z-index: 9999;
   }
 
+.has-submenu:hover > .sub-menu,
+.has-submenu:focus-within > .sub-menu {
+  display: block;
+}
+
+.sub-menu {
+  display: none;
+}
+
+
+
+
 //.site-nav:hover .dropdown .dropdown-content{
 //  display: block;
 //}
