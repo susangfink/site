@@ -106,11 +106,19 @@ text-align: right;
    ============================== */
 
 .site-nav >li {
-   display: inline-block;
-  vertical-align: middle;
+  position: relative;
 }
 
+.site-menu li ul {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left 0;
+}
 
+.site-menu li:hoover > ul {
+   display: block;
+}
 
 /* Ensure parent <li> is positioned relative */
 .site-nav ul.menu > li {
