@@ -200,6 +200,8 @@ display: block;
 /* Dropdown items */
 .site-nav ul > li > ul > li {
   display: block;
+  position: absolute;
+  z-index: 2000;
 }
 
 .site-nav ul > li > ul > li > a {
@@ -213,7 +215,6 @@ display: block;
 
 
 /* Show dropdown on hover */
-
 .site-nav ul > li:hover > ul {
     display: block;
     box-shadow: none;
