@@ -202,11 +202,19 @@ display: block;
   display: block;
 }
 
+.site-nav ul > li > ul > li > a {
+  color: #333; /* dark text */
+  padding: 0.5em 0.75em;
+  display: block;
+  white-space: nowrap;
+  text-decoration: none;
+}
 
 
 /* Show dropdown on hover */
 
 .site-nav ul > li:hover > ul {
+    display: block;
     box-shadow: none;
     border-radius: 0;
   }
