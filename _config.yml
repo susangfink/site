@@ -20,6 +20,9 @@ collections:
   recipes:
     output: true
     permalink: "/recipes/:title/"
+  categories:
+    output: true
+    permalink: "/categories/:month/:day/:year/:title/"
 
 footer_links:
   - title: Instagram
