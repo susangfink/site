@@ -27,7 +27,6 @@
   display: none;
   margin-bottom: 1em;
   text-align: center;
-  z-index: 9999; 
 
   ul {
     display: block;
@@ -70,8 +69,6 @@
   @include clearfix;
   margin-bottom: 3em;
   text-align: center;
-  z-index: 1000; 
-  overflow: visible !important;
 }
 
 .site-title {
