@@ -137,8 +137,17 @@ text-align: right;
 /* Dropdown items */
 .site-nav ul > li > ul > li {
   display: block;
+  width: 100%;
 }
 
+/* Dropdown links */
+.site-nav ul > li > ul > li > a {
+  display: block;
+  width: 100%;
+  padding: 0.5em 0.75em;
+  white-space: nowrap;
+}
+  
 /* Show dropdown on hover */
 .site-nav ul > li:hover > ul {
 display: block;
