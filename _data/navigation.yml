@@ -8,19 +8,10 @@
   url: /blog/
 - title: Categories
   url: /categories/  
-  subitems:
-    - title: House
-      url: /categories/house/
-    - title: Health
-      url: /categories/health
-    - title: Family
-      url: /categories/family/ 
-    - title: Food
-      url: /categories/food/
-    - title: Travel
-      url: /categories/travel/
-    - title: Reflections
-      url: /categories/reflections/
+- title: Tags
+  url: /tags/
+- title: Topics
+  url: /Topics/
 - title: Contact
   url: /contact/
 - title: Search
