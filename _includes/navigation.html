@@ -6,10 +6,10 @@
     {% for link in site.data.navigation %}
       <li class="nav-item {% if link.subitems %}has-dropdown{% endif %}">
         
-       <!-- <a href="{{ link.url | relative_url }}">{{ link.title }}</a> -->
-         <button class="nav-toggle" aria-expanded="false" aria-controls="submenu-docs"> </button>
+       <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+        <!-- <button class="nav-toggle" aria-expanded="false" aria-controls="submenu-docs"> </button>
         <a href="{{ link.url }}"{% if link.subitems %} aria-haspopup="true" aria-expanded="false"{% endif %}>
-       {{ link.title }} </a>
+       {{ link.title }} </a> -->
         
         {% if link.subitems %}
         <ul class="dropdown-menu" id="submenu-docs" hidden>
