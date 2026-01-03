@@ -27,6 +27,7 @@
   display: none;
   margin-bottom: 1em;
   text-align: center;
+  z-index: 2000; 
 
   ul {
     display: block;
@@ -78,7 +79,7 @@
   padding: 0;
   @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
   font-weight: 400;
-  z-index: 1000; 
+  z-index: 10; 
 
   a {
     text-decoration: none;
