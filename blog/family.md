@@ -2,7 +2,7 @@
 layout: page
 title: Family
 paginate: 3
-paginate_path: "/blog/family/page:num/"
-permalink: /blog/family/
+paginate_path: "/categories/family/page:num/"
+permalink: /categories/family/
 parent: blog
 ---
