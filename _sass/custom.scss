@@ -106,7 +106,6 @@ text-align: right;
    ============================== */
 
 /* Top-level nav list */
-
 .site-nav ul {
   list-style: none;
   margin: 0;
@@ -135,15 +134,12 @@ text-align: right;
   z-index: 999;
 }
 
-
-
 /* Dropdown items */
 .site-nav ul > li > ul > li {
   display: block;
 }
 
 /* Show dropdown on hover */
-
 .site-nav ul > li:hover > ul {
 display: block;
 }
@@ -152,15 +148,9 @@ display: block;
 @media (max-width: 768px) {
   .site-nav li ul {
     position: static;/* Top-level nav list */
-
-.site-nav ul {
-
-  list-style: none;
-
+    list-style: none;
   margin: 0;
-
   padding: 0;
-
 }
 
 
@@ -168,13 +158,9 @@ display: block;
 /* Top-level menu items */
 
 .site-nav ul > li {
-
   display: inline-block;
-
   position: relative;
-
   vertical-align: top;
-
 }
 
 
@@ -182,35 +168,22 @@ display: block;
 /* Dropdown menu */
 
 .site-nav ul > li > ul {
-
   display: none;
-
   position: absolute;
-
   top: 100%;
-
   left: 0;
-
   background: #fff;
-
   min-width: 180px;
-
   padding: 0;
-
   margin: 0;
-
   z-index: 999;
-
 }
 
 
 
 /* Dropdown items */
-
 .site-nav ul > li > ul > li {
-
   display: block;
-
 }
 
 
