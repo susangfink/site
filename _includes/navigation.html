@@ -8,7 +8,9 @@
         <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
         
         {% if link.subitems %}
-          <ul class="dropdown-menu">
+           aria-haspopup="true"
+           aria-expanded="false"
+        <ul class="dropdown-menu">
             {% for sublink in link.subitems %}
               <li><a href="{{ sublink.url | relative_url }}">{{ sublink.title }}</a></li>
             {% endfor %}
