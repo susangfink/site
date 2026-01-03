@@ -2,7 +2,7 @@
 layout: page
 title: Travel
 paginate: 3
-paginate_path: "/blog/travel/page:num/"
-permalink: /blog/travel/
-parent: blog
+paginate_path: "/categories/travel/page:num/"
+permalink: /categories/travel/
+parent: categories
 ---
