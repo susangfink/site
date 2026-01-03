@@ -120,6 +120,10 @@ text-align: right;
    display: block;
 }
 
+.site-menu > ul >li {
+  vertical-align: unset;
+}
+
 /* Ensure parent <li> is positioned relative */
 .site-nav ul.menu > li {
   position: relative;
