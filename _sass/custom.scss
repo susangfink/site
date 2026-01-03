@@ -105,75 +105,119 @@ text-align: right;
    So Simple 3.2.0 Blog Dropdown
    ============================== */
 
-.site-nav >li {
-  position: relative;
+/* Top-level nav list */
+
+.site-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-.site-nav li ul {
+/* Top-level menu items */
+
+.site-nav ul > li {
+  display: inline-block;
+  position: relative;
+  vertical-align: top;
+}
+
+/* Dropdown menu */
+
+.site-nav ul > li > ul {
   display: none;
   position: absolute;
   top: 100%;
   left: 0;
-}
-
-.site-nav li:hover > ul {
-   display: block;
-}
-
-.site-nav > ul >li {
-  vertical-align: unset;
-}
-
-/* Ensure parent <li> is positioned relative */
-.site-nav ul.menu > li {
-  position: relative;
+  background: #fff;
+  min-width: 180px;
+  padding: 0;
+  margin: 0;
+  z-index: 999;
 }
 
 
-/* Dropdown list items */
-.site-nav ul.menu > li > ul > li {
-  display: block; 
-  position: absolute;
-  top: 100%;
-  left: 0;
-}
 
-/* Dropdown links */
-.site-nav ul.menu > li > ul > li > a {
+/* Dropdown items */
+.site-nav ul > li > ul > li {
   display: block;
-  padding: 10px 20px; /* match So Simple spacing */
-  color: #ffffff;     /* default link color */
-  text-decoration: none;
-  white-space: nowrap;
-  font-weight: 500;
-  transition: background-color 0.2s ease, color 0.2s ease;
-}
-
-/* Hover effect for dropdown links */
-.site-nav li ul.menu li a:hover {
-  background-color: #f0f0f0;
-  color: #000000;
 }
 
 /* Show dropdown on hover */
-.site-nav ul.menu > li:hover > ul {
-  display: flex;
-}
 
-/* Optional: add small fade-in effect */
-.site-nav li ul {
-  opacity: 0;
-  transition: opacity 0.3s ease;
-}
-
-.site-nav li:hover > ul {
-  opacity: 1;
+.site-nav ul > li:hover > ul {
+display: block;
 }
 
 /* Optional: mobile support (click toggle) */
 @media (max-width: 768px) {
   .site-nav li ul {
-    position: static;
+    position: static;/* Top-level nav list */
+
+.site-nav ul {
+
+  list-style: none;
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+
+
+/* Top-level menu items */
+
+.site-nav ul > li {
+
+  display: inline-block;
+
+  position: relative;
+
+  vertical-align: top;
+
+}
+
+
+
+/* Dropdown menu */
+
+.site-nav ul > li > ul {
+
+  display: none;
+
+  position: absolute;
+
+  top: 100%;
+
+  left: 0;
+
+  background: #fff;
+
+  min-width: 180px;
+
+  padding: 0;
+
+  margin: 0;
+
+  z-index: 999;
+
+}
+
+
+
+/* Dropdown items */
+
+.site-nav ul > li > ul > li {
+
+  display: block;
+
+}
+
+
+
+/* Show dropdown on hover */
+
+.site-nav ul > li:hover > ul {
     box-shadow: none;
     border-radius: 0;
   }
