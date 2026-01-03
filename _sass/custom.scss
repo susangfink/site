@@ -105,6 +105,12 @@ text-align: right;
    So Simple 3.2.0 Blog Dropdown
    ============================== */
 
+.site-nav >li {
+   display: inline-block;
+  vertical-align: middle;
+}
+
+
 
 /* Ensure parent <li> is positioned relative */
 .site-nav ul.menu > li {
