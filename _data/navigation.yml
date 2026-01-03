@@ -6,21 +6,21 @@
   url: /about/
 - title: Blog
   url: /blog/
+- title: Categories
+  url: /categories/  
   subitems:
     - title: House
-      url: /blog/house/
+      url: /categories/house/
     - title: Health
-      url: /blog/health
+      url: /categories/health
     - title: Family
-      url: /blog/family/ 
+      url: /categories/family/ 
     - title: Food
-      url: /blog/food/
+      url: /categories/food/
     - title: Travel
-      url: /blog/travel/
+      url: /categories/travel/
     - title: Reflections
-      url: /blog/reflections/
-- title: Categories
-  url: /categories/
+      url: /categories/reflections/
 - title: Contact
   url: /contact/
 - title: Search
