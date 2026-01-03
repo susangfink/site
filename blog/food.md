@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Food
-permalink: /blog/food/
+permalink: /categories/food/
 collection: recipes
 pagination:
   enabled: true
