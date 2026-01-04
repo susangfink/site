@@ -22,7 +22,7 @@ collections:
     permalink: "/recipes/:title/"
   travel:
     output: true
-    permalink: "/travel/:title/"
+    
   family:
     output: true
     permalink: "/family/:title/"
