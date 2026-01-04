@@ -22,7 +22,7 @@ excerpt_separator: "<!--more-->"
 
 <!--more-->
 
-{% include posts-paginated.html %}
+{% include topics-grid.html %}
 
 <!--
 {% if page.gallery %}
