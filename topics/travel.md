@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: collection
 title: Travel
 paginate: 3
 paginate_path: "/topics/travel/page:num/"
