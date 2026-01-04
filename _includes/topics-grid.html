@@ -9,10 +9,10 @@
 <div class="topics-grid">
   {% for topic in site.data.topics %}
     <a href="/topics/{{ topic.slug }}/" class="topic-item">
-      <img
-        src="{{ topic.image }}"
-        alt="{{ topic.title }} topics">
+      <div class="topic-image-wrapper">
+      <img src="{{ topic.image }}" alt="{{ topic.title }} topics">
       <span class="topic-label">{{ topic.title }}</span>
+      </div>
     </a>
   {% endfor %}
 </div>
