@@ -147,3 +147,30 @@ text-align: right;
   background-color: rgba(0, 0, 0, 0.05);
   border-radius: 4px;
 }
+
+.topics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+
+.topic-item {
+  text-decoration: none;
+  color: inherit;
+  text-align: center;
+}
+
+.topic-item img {
+  width: 100%;
+  aspect-ratio: 1 / 1;   /* forces square */
+  object-fit: cover;    /* crops nicely */
+  border-radius: 8px;   /* optional */
+  display: block;
+}
+
+/* Label below image */
+.topic-label {
+  display: block;
+  margin-top: 0.5rem;
+  font-weight: 500;
+}
