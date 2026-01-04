@@ -1,1 +1,24 @@
+- title: Huse
+  slug: house
+  image: /assets/images/topicimages/susangfink-topics-home-thumbnail.jpg
+
+- title: Health
+  slug: health
+  image: /assets/images/topicimages/susangfink-topics-health-gym-thumbnail.jpg
+
+- title: Reflection
+  slug: reflection
+  image: /assets/images/topicimages/susangfink-topics-reflection-thumbnail.jpg
+
+- title: Family
+  slug: family
+  image: /assets/images/topicimages/susangfink-topics-family-thumbnail.jpg
+
+- title: Food
+  slug: food
+  image: /assets/images/topicimages/susangfink-topics-food-thumbnail.jpg
+
+- title: Travel
+  slug: travel
+  image: /assets/images/topicimages/susangfink-topics-travel-thumbnail.jpg
 
