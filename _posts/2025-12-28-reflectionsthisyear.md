@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Reflections This Year"
+permalink: /blog/2025-12-28-reflectionsthisyear.html
 image:
   path: /assets/images/welcome-hero-image.jpg
   thumbnail: /assets/images/welcome-hero-image-small.jpg
