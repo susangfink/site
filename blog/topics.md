@@ -22,6 +22,9 @@ excerpt_separator: "<!--more-->"
 
 <!--more-->
 
+{% include posts-paginated.html %}
+
+<!--
 {% if page.gallery %}
 <div class="photo-journal">
   {% for photo in page.gallery %}
@@ -36,3 +39,4 @@ excerpt_separator: "<!--more-->"
   {% endfor %}
 </div>
 {% endif %}
+-->
