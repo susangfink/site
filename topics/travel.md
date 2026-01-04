@@ -1,7 +1,7 @@
 ---
-layout: collection
+layout: topic
 title: Travel
-collection: travel
+category: travel
 paginate: 3
 paginate_path: "/topics/travel/page:num/"
 show_excerpts: true
