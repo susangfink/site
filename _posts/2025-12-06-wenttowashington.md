@@ -13,7 +13,7 @@ tags:
   - Washington DC
 thumbnail: "/assets/images/nationalarchivesusa-small.jpg"
 category:
- - travel
+ - Travel
 ---
 
 Seize the weekend! That was the theme of this trip. 
