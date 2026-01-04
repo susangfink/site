@@ -23,6 +23,15 @@ collections:
   travel:
     output: true
     permalink: "/travel/:title/"
+  family:
+    output: true
+    permalink: "/family/:title/"
+  health:
+    output: true
+    permalink: "/health/:title/"
+  house:
+    output: true
+    permalink: "/house/:title/"
 
 footer_links:
   - title: Instagram
