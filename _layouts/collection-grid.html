@@ -1,6 +1,8 @@
 ---
 layout: page
 ---
+<p>Collection name: {{ page.collection }}</p>
+<p>Items count: {{ site[page.collection] | size }}</p>
 
 <div class="topics-grid">
   {% assign items = site[page.collection] %}
