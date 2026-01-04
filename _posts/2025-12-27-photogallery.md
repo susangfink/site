@@ -20,7 +20,9 @@ gallery:
 excerpt_separator: "<!--more-->"  
 categories: 
 - Travel
-- Food 
+- Food
+category: travel
+   
 ---
 
 <!--more-->
