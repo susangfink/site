@@ -43,13 +43,3 @@ markdown: kramdown
 
 paginate: 3
 paginate_path: "/blog/page:num/"
-
-pagination:
-  enabled: true
-  per_page: 3
-  permalink: '/category/:name/page/:num/'
-  title: ':title - page :num'
-  trail:
-    before: 2
-    after: 2
-    
