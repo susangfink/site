@@ -2,6 +2,6 @@
 layout: page
 title: House
 paginate: 3
-paginate_path: "/categories/house/page:num/"
-permalink: /blog/house/
+paginate_path: "/topics/house/page:num/"
+permalink: /topics/house/
 ---
