@@ -1,0 +1,15 @@
+---
+layout: page
+---
+
+<h1>{{ page.title }}</h1>
+
+<div class="topics-grid">
+  {% assign items = site[page.collection] %}
+  {% for item in items %}
+    <a href="{{ item.url }}" class="topic-item">
+      <img src="{{ item.image }}" alt="{{ item.title }}">
+      <span class="topic-label">{{ item.title }}</span>
+    </a>
+  {% endfor %}
+</div>
