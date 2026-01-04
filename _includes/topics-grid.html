@@ -1,6 +1,18 @@
-<div class="topics-grid">
+<!--<div class="topics-grid">
   <a href="/topics/family" class="topic-item">
     <img src="/assets/images/topics/family.jpg" alt="Family topics">
     <span class="topic-label">Family</span>
   </a>
+</div>
+-->
+
+<div class="topics-grid">
+  {% for topic in site.data.topics %}
+    <a href="/topics/{{ topic.slug }}/" class="topic-item">
+      <img
+        src="/assets/images/topics/{{ topic.image }}"
+        alt="{{ topic.title }} topics">
+      <span class="topic-label">{{ topic.title }}</span>
+    </a>
+  {% endfor %}
 </div>
