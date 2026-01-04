@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Tag Archive
-permalink: /tagarchive/
+permalink: /blog/tagarchive/
 ---
