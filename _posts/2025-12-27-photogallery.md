@@ -21,7 +21,8 @@ excerpt_separator: "<!--more-->"
 categories: 
 - Travel
 - Food
-category: travel
+category:
+- Travel
    
 ---
 
