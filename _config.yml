@@ -20,6 +20,9 @@ collections:
   recipes:
     output: true
     permalink: "/recipes/:title/"
+  travel:
+    output: true
+    permalink: "/travel/:title/"
 
 footer_links:
   - title: Instagram
