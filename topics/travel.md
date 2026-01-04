@@ -1,6 +1,7 @@
 ---
 layout: collection
 title: Travel
+collection: travel
 paginate: 3
 paginate_path: "/topics/travel/page:num/"
 show_excerpts: true
