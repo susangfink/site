@@ -2,8 +2,6 @@
 layout: page
 ---
 
-<h1><center>{{ page.title }}</center></h1>
-
 {% assign topic_posts = site.posts | where: "categories", page.category %}
 
 {% for post in paginator.posts %}
