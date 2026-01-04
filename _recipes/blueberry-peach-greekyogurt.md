@@ -6,6 +6,8 @@ image:
   path: /assets/images/foodimages/blueberry-peach-greek-yogurt-lg.jpg
   thumbnail: /assets/images/food/images/bllueberry-peach-greek-yogurt-400x200.jpg
   caption: "Blueberry Peach Greek Yogurt"
+categories: food
+tags: breakfast
 ---
 
 A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
