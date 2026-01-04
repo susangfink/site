@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Travel
-permalink: /travel/
-collection: travel
-entries_layout: grid
+paginate: 3
+paginate_path: "/topics/house/page:num/"
 ---
