@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: collection
 title: Reflections
-paginate: 3
-paginate_path: "/topics/reflections/page:num/"
+collection: reflections
+entries_layout: grid
 ---
-
