@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: collection
 title: Family
-paginate: 3
-paginate_path: "/topics/family/page:num/"
+collection: family
+entries_layout: grid
 ---
