@@ -3,7 +3,7 @@ layout: page
 title: Subscribe
 ---
 
-
+<head>
 <style type="text/css">@import url("https://assets.mlcdn.com/fonts.css?version=1766132");</style>
     <style type="text/css">
     /* LOADER */
@@ -723,4 +723,4 @@ title: Subscribe
         <script>
             fetch("https://assets.mailerlite.com/jsonp/2017575/forms/175730722586232274/takel")
         </script>
-    
+    </head>
