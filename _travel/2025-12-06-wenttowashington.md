@@ -20,4 +20,3 @@ Seize the weekend! That was the theme of this trip.
 <!--more-->
 ![Susan Fink Metro](/assets/images/susangfink-metro-silverline-small.jpg)
 
-The family and I spent a weekend in Washington, D.C. and arrived at Dulles Airport.
