@@ -882,7 +882,7 @@ title: Subscribe
               
                 <h4>Thank you!</h4>
                 
-                  <p>You have successfully joined our subscriber list.</p>
+                  <p>Please check your email to verify your email address. You have successfully joined our subscriber list.</p>
                 
               
             </div>
