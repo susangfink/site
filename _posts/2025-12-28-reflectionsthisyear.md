@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Reflections This Year"
-permalink: /blog/2025-12-28-reflectionsthisyear.html
+title: "A New Year Wish for You in 2026"
+permalink: /blog/2026-01-01-anewyearwishforyouin2026.html
 image:
   path: /assets/images/welcome-hero-image.jpg
   thumbnail: /assets/images/welcome-hero-image-small.jpg
