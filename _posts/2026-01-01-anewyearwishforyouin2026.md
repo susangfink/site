@@ -4,7 +4,7 @@ title: "A New Year Wish for You in 2026"
 permalink: /blog/2026-01-01-anewyearwishforyouin2026.html
 image:
   path: /assets/images/susangfink-newyearwish-fireworks.jpg
-  thumbnail: /assets/images/susangfink-newyearwish-thumbnail.jpg
+  thumbnail: /assets/images/susangfink-newyear-wish-thumbnail.jpg
   caption: "Happy New Year 2026"
 excerpt_separator: "<!--more-->"  
 categories: 
