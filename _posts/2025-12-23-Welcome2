@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Welcome2"
+permalink: /blog/2025-12-23-welcome2.html
+image:
+  path: /assets/images/welcome-hero-image.jpg
+  thumbnail: /assets/images/welcome-hero-image-small.jpg
+  caption: "Desert Path"
+excerpt_separator: "<!--more-->"  
+categories: 
+- Reflection
+thumbnail: /assets/images/welcome-hero-image-small.jpg
+
+---
+<!--more-->
+Test
