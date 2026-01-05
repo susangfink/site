@@ -675,7 +675,7 @@ title: Subscribe
               
                 <h4>Thank you!</h4>
                 
-                  <p>You have successfully joined susangfink subscriber list.</p>
+                  <p>You have successfully joined susangfink subscriber list. Please check your email to verify your email address.</p>
                 
               
             </div>
