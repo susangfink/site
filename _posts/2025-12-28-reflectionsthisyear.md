@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Reflections This Year"
+permalink: /blog/2025-12-28-reflectionsthisyear.html
+image:
+  path: /assets/images/welcome-hero-image.jpg
+  thumbnail: /assets/images/welcome-hero-image-small.jpg
+  caption: "Desert Path"
+excerpt_separator: "<!--more-->"  
+categories: 
+- Reflection
+thumbnail: /assets/images/welcome-hero-image-small.jpg
+---
+<!--more-->
+Welcome to my new blog and website. 
+
+I have something to admit. I've been blogging for 15 years now. I've written and posted about new mom life, photography, family portrait sessions, food, organizing, gardening, running and fitness. 
+
+So where are all those posts? They're everywhere as micro-posts on Instagram and exist as lengthy captions on Facebook photos. Most of my posts, unfortunately, disappeared when I terminated subscription-based hosted blog sites. I'm excited for this new setup because it's simpler and straightforward to maintain which means focusing on content will be easier!
+
+I realized it was time to stop limiting myself to one topic when what I really wanted to write about is my lifestyle, reflections, and go into much more detail than captions allow. I have a lot to share! 
+
+<a href="/images/susanfink-hike2-welcome.jpg" data-lightbox="gallery" data-title="Taking the Road Less Traveled">
+<img src="/images/susanfink-hike2-welcome.jpg" alt="Solo Picture Susan G Fink Blog Welcome">
+</a>
