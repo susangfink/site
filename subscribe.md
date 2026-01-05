@@ -3,11 +3,11 @@ layout: page
 title: Subscribe
 ---
 <head>
-<style type="text/css">@import url("https://assets.mlcdn.com/fonts.css?version=1766132");</style>
+    <style type="text/css">@import url("https://assets.mlcdn.com/fonts.css?version=1766132");</style>
     <style type="text/css">
-</head>   
-
-/* LOADER */
+</head>
+    
+    /* LOADER */
     .ml-form-embedSubmitLoad {
       display: inline-block;
       width: 20px;
@@ -594,17 +594,182 @@ title: Subscribe
 
       }
     </style>
+
+    
+  
+    
+    
+
+    
+    
+
+    
+    
+
+    
+
+      
+        
+        
+      
+
+      
+        
+        
+      
+
+      
+
+            
+            
+            
+            
+            
+            
+      
+
+      
+
+      
+        
+        
+         
+        
+        
+      
+
+        
+        
+        
+        
+        
+        
+      
+
+       
+
+        
+        
+        
+        
+        
+        
+        
+       
+
+
+      
+        
+        
+        
+        
+  
+
+
+
+  
+        
+        
+        
+      
+
+
+      
+    
+    
+    
+    
+    
+    
+    
+  
+
+  
+        
+        
+        
+        
+        
+      
+
+      
+        
+        
+        
+        
+        
+      
+
+      
+        
+        
+        
+        
+        
+      
+
+       
+
+        
+        
+        
+        
+       
+
+       
+        
+        
+        
+        
+      
+
+      
+        
+        
+        
+        
+        
+        
+        
+       
+
+    
+
+    
+
+
+      
+
+
+      
+
+      
+      
+
+      
+
+      
+
+
+
+
+
+    
+
       
     <div id="mlb2-35329841" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-35329841">
       <div class="ml-form-align-center ">
         <div class="ml-form-embedWrapper embedForm">
+
+          
+          
 
           <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
 
             <div class="ml-form-embedContent" style=" ">
               
                 <h4>Stay in the loop</h4>
-                <p>Signup for new blogs and announcements!</p>
+                <p>Signup for new blog posts and announcements</p>
               
             </div>
 
@@ -643,14 +808,56 @@ title: Subscribe
                       
                       <!-- /countries -->
 
+
+
+
+
                     </div>
                   </div>
                 
               </div>
 
+              
+
               <!-- Privacy policy -->
               
               <!-- /Privacy policy -->
+
+              
+
+              
+
+              
+
+
+
+<div class="ml-form-recaptcha ml-validate-required" style="float: left;">
+                <style type="text/css">
+  .ml-form-recaptcha {
+    margin-bottom: 20px;
+  }
+
+  .ml-form-recaptcha.ml-error iframe {
+    border: solid 1px #ff0000;
+  }
+
+  @media screen and (max-width: 480px) {
+    .ml-form-recaptcha {
+      width: 220px!important
+    }
+    .g-recaptcha {
+      transform: scale(0.78);
+      -webkit-transform: scale(0.78);
+      transform-origin: 0 0;
+      -webkit-transform-origin: 0 0;
+    }
+  }
+</style>
+  <script src="https://www.google.com/recaptcha/api.js"></script>
+  <div class="g-recaptcha" data-sitekey="6Lf1KHQUAAAAAFNKEX1hdSWCS3mRMv4FlFaNslaD"></div>
+</div>
+
+
               
               <input type="hidden" name="ml-submit" value="1">
 
@@ -675,7 +882,7 @@ title: Subscribe
               
                 <h4>Thank you!</h4>
                 
-                  <p>You have successfully joined susangfink subscriber list. Please check your email to verify your email address.</p>
+                  <p>You have successfully joined our subscriber list.</p>
                 
               
             </div>
@@ -685,6 +892,9 @@ title: Subscribe
       </div>
     </div>
 
+  
+
+  
   
   <script>
     function ml_webform_success_35329841() {
