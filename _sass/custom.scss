@@ -109,6 +109,9 @@ text-align: right;
   gap: 1.5rem;           /* space between links */
   padding: 0;
   margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 /* Footer links */
@@ -118,6 +121,7 @@ text-align: right;
   font-weight: 500;       /* optional, matches header */
   padding: 0.5rem 0;
   transition: color 0.2s ease;
+  margin: 0.5em;
 }
 
 /* Hover / focus state */
@@ -126,6 +130,16 @@ text-align: right;
   color: #007acc;         /* same as header hover */
   outline: none;          /* optional: handled by browser default */
   text-decoration: underline; /* optional */
+}
+
+@media (max-width: 480px){
+  footer {
+    padding: 0.5em;
+    font-size: 0.9em;
+  }
+  footer nav a {
+    margin: 0.25em;
+  }
 }
 
 /* Footer container */
