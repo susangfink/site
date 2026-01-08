@@ -15,4 +15,6 @@ thumbnail: /assets/images/welcome-hero-image-small.jpg
 ---
 <!--more-->
 
-As the calendar turns and a fresh year begins, I like to take a moment to reflect—not just on resolutions or goals, but on who we truly want to be. 
+If you're like most people, you've probably already made a few New Year's Resolutions. Naturally, we want to grow and make changes. In addition to your own New Year's resolutions, I'd like to make a wish for you! 
+
+For 2026, I hope you become the most genuine version of yourself! 
