@@ -21,7 +21,7 @@ This blog
 
 The kids were in school and I was folding laundry. Jay, looking at his work schedule for December, randomly said "Do you want to go to D.C.?" Whenever he says Do you want to go to --insert--city--, the kids and I usually say yes. 
 
-I was do amazed by how clean, accessible, and safe Washington, D.C. was! 
+I was so amazed by how clean, accessible, and safe Washington, D.C. was! 
 
 ![Susan Fink Metro](/assets/images/susangfink-metro-silverline-small.jpg)
 
