@@ -4,7 +4,7 @@ title: "Reflecting Back on 2025"
 permalink: /blog/2025-12-31-reflecting-back-on-2025.html
 image:
   path: /assets/images/reflecting-back-2025-sunset.jpg
-  thumbnail: /assets/images/reflecting-back-2025-sunset.jpg
+  thumbnail: /assets/images/reflecting-back-2025-thumbnail.jpg
   caption: "2025 Sunset"
 excerpt_separator: "<!--more-->"  
 categories: 
