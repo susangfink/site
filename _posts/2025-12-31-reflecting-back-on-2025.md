@@ -4,13 +4,13 @@ title: "Reflecting Back on 2025"
 permalink: /blog/2025-12-31-reflecting-back-on-2025.html
 image:
   path: 
-  thumbnail: 
-  caption: ""
+  thumbnail: /assets/images/reflecting-back-2025-sunset.jpg
+  caption: "2025 Sunset"
 excerpt_separator: "<!--more-->"  
 categories: 
 - Reflection
 - Travel
-thumbnail: 
+thumbnail: /assets/images/reflecting-back-2025-thumbnail.jpg
 ---
 <!--more-->
 
