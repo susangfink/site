@@ -4,7 +4,7 @@ layout: default
 
 <main id="main" class="main-content" aria-label="Content">
   <article>
-    {% if page.image == false %}
+    {% if page.header == false %}
        {% assign page.image = nil %}
     {% else %}
     {% include page-image.html %}
