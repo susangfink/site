@@ -2,10 +2,7 @@
 layout: page
 category: food
 title: "Blueberry Peach Greek Yogurt"
-header:
-   overlay_image: null
-   image: null
-   caption: null
+header: false
 permalink: /food/blueberry-peach-greekyogurt.html
 image:
    thumbnail: /assets/images/foodimages/blueberry-peach-greek-yogurt-thumbnail.jpg
