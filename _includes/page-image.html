@@ -1,5 +1,6 @@
-{%- if page.header == false -%}
-  {%- assign page_image = nil -%}
+{% if page.header == false %}
+  {% assign page_image = nil %}
+  {% assign page-image-caption = nil %}
 {% else %}
 {% if page.image %}
   {% assign page_image = page.image.path | default: page.image %}
