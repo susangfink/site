@@ -4,7 +4,7 @@ category: food
 title: "Blueberry Peach Greek Yogurt"
 image: 
   path: /assets/images/foodimages/blueberry-peach-greek-yogurt-lg.jpg
-  thumbnail: /assets/images/foodimages/blueberry-peach-greek-yogurt-400x200.jpg
+  thumbnail: /assets/images/foodimages/blueberry-peach-greek-yogurt-thumbnail.jpg
   caption: "Blueberry Peach Greek Yogurt"
 categories: food
 tags: breakfast
