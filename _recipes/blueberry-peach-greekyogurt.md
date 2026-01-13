@@ -6,6 +6,10 @@ header: false
 permalink: /food/blueberry-peach-greekyogurt.html
 image:
    thumbnail: /assets/images/foodimages/blueberry-peach-greek-yogurt-thumbnail.jpg
+   path: null
+header:
+   overlay_image: null
+   image: null
 categories: food
 tags: breakfast
 excerpt_separator: "<!--more-->" 
