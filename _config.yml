@@ -22,6 +22,9 @@ collections:
   travel:
     output: true
     permalink: "/travel/:title/"
+  reflections:
+    ouput: true
+    permalink: "/reflections/:title/"
     
   family:
     output: true
