@@ -16,9 +16,9 @@ collections:
   blog: 
     output: true
     permalink: "/blog/:year/:month/:day/:title/"
-  food:
+  recipes:
     output: true
-    permalink: "/food/:title/"
+    permalink: "/recipes/:title/"
   travel:
     output: true
     permalink: "/travel/:title/"
