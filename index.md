@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+header: false
 show_excerpts: false
 ---
 
