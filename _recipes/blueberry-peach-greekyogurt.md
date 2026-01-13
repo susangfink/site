@@ -3,7 +3,8 @@ layout: page
 category: food
 title: "Blueberry Peach Greek Yogurt"
 permalink: /food/blueberry-peach-greekyogurt.html
-thumbnail: /assets/images/foodimages/blueberry-peach-greek-yogurt-thumbnail.jpg
+image:
+   thumbnail: /assets/images/foodimages/blueberry-peach-greek-yogurt-thumbnail.jpg
 categories: food
 tags: breakfast
 excerpt_separator: "<!--more-->" 
