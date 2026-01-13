@@ -18,11 +18,11 @@ As 2025 comes to a close, my heart is overflowing with gratitude. It was a year 
 
 <b><u> Chasing Personal Bests, One Mile at a Time</u></b>
 
-From January to March, I trained for and completed the most miles I’ve ever finished in training. Every week’s long run felt like a challenge, but finishing each one became a mini accomplishment. For someone like me, who’s never been a fast runner, the hours spent logging miles felt both grueling and incredibly rewarding.
+From January to March, I trained for and completed the most miles I’ve ever finished in training. Every week’s long run felt like a challenge, but finishing each one became a mini accomplishment. For someone like me, who has never been a fast runner, the hours spent logging miles felt both grueling and incredibly rewarding.
 
-Showing up at the start line of the LA Marathon on March 16, healthy and injury-free, was a moment I’ll never forget. After living in California for most of my life, I never imagined I’d see Los Angeles on my own two feet in a race. Every mile was a reminder of the memories tied to the city and the personal growth along the way.
+Showing up at the start line of the LA Marathon on March 16, healthy and injury-free, was a moment I’ll never forget. After living in California for most of my life, I never imagined I’d see Los Angeles on my own two feet participating in a race. Every mile was a reminder of the memories tied to the city and the personal growth along the way.
 
-If you’ve ever trained for something that felt just a little beyond your reach, you know the mix of doubt and excitement that comes with it. Showing up, even on the days you’re tired or unsure, is where growth really happens. The marathon does't start at the start line. It was a marathon all along during the months of training. 
+If you’ve ever trained for something that felt just a little beyond your reach, you know the mix of doubt and excitement that comes with it. Showing up, even on the days you’re tired, is where growth really happens. The marathon doesn't start at the start line because it was a marathon all along throughout the months of training. 
 
 <b><u>A Year of Unplanned Adventures</u></b>
 
@@ -32,7 +32,7 @@ Our bags were never fully unpacked before being repacked for the next trip. I dr
 
 <b><u>The Lessons in Recovery</u></b>
 
-October wasn’t easy. I spent the month sick with the flu and also had a shoulder injury. Four weeks of slowed momentum were humbling. Recovering reminded me that health is not guaranteed and that the small gains we often take for granted are actually victories.
+October wasn’t easy. I spent the entire month sick with the flu and also had a shoulder injury. Four weeks of slowed momentum were humbling. Recovering reminded me that health is not guaranteed and that the small gains we often take for granted are actually victories.
 
 This month of sickness also validated the decision to cancel my December marathon. While it was disappointing, I was grateful for the ability to rest, recover, and even get a refund. Sometimes, letting go is the bravest choice we can make for ourselves.
 
