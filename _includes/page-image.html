@@ -1,3 +1,6 @@
+{%- if page.image == false -%}
+  {%- assign page_image = nil -%}
+
 {% if page.image %}
   {% assign page_image = page.image.path | default: page.image %}
   {% unless page_image contains '://' %}
