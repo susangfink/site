@@ -25,7 +25,6 @@ collections:
   reflections:
     ouput: true
     permalink: "/reflections/:title/"
-    
   family:
     output: true
     permalink: "/family/:title/"
