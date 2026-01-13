@@ -3,6 +3,7 @@ layout: page
 title: "Contact Me"
 permalink: /contact/
 show_excerpts: false
+header: false
 ---
 
 <div>
