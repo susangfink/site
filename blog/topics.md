@@ -2,6 +2,7 @@
 layout: page
 title: Topics
 permalink: /topics/
+header: false
 gallery:
   - image: /assets/images/topic-thumbnails/susangfink-topics-home-thumbnail.jpg
     alt: "Image AA"
