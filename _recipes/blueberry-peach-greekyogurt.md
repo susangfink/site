@@ -6,14 +6,11 @@ permalink: /food/blueberry-peach-greekyogurt.html
 image: 
   path: null
   thumbnail: /assets/images/foodimages/blueberry-peach-greek-yogurt-thumbnail.jpg
-  caption: 
+  caption: null
 categories: food
 tags: breakfast
 excerpt_separator: "<!--more-->" 
 ---
-This blueberry, peach and yogurt combo is one of my quick breakfast recipes. You can substitute with any fruit but peach and blueberries have been our favorite lately. 
-
-<!--more-->
 
 ![Blueberry Peach Greek Yogurt](/assets/images/foodimages/blueberry-peach-greek-yogurt-thumbnail.jpg)
 
