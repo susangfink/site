@@ -4,6 +4,7 @@ category: food
 title: "Blueberry Peach Greek Yogurt"
 permalink: /food/blueberry-peach-greekyogurt.html
 image: 
+  path: /assets/images/foodimages/blueberry-peach-greekyogurt-lg.jpg
   thumbnail: /assets/images/foodimages/blueberry-peach-greek-yogurt-thumbnail.jpg
   caption: "Blueberry Peach Greek Yogurt"
 categories: food
