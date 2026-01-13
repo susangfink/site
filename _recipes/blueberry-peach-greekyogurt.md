@@ -11,13 +11,13 @@ categories: food
 tags: breakfast
 excerpt_separator: "<!--more-->" 
 ---
-This blueberry, peach and yogurt combo is one of my quick breakfast recipes. You can substitute with any fruit but peach and blueberries has been our favorite lately. 
+This blueberry, peach and yogurt combo is one of my quick breakfast recipes. You can substitute with any fruit but peach and blueberries have been our favorite lately. 
 
 <!--more-->
 
 ![Blueberry Peach Greek Yogurt](/assets/images/foodimages/blueberry-peach-greek-yogurt-lg.jpg)
 
-This blueberry, peach and yogurt combo is one of my quick breakfast recipes. You can substitute with any fruit but peach and blueberries has been our favorite lately. We throw this all together in less than a minute and hopefully it works for your family too!
+This blueberry, peach and yogurt combo is one of my quick breakfast recipes. You can substitute with any fruit but peach and blueberries have been our favorite lately. We throw this all together in less than a minute and hopefully it works for your family too!
 
 ## Ingredients
 
