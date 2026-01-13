@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: collection
 title: Health
-paginate: 3
-paginate_path: "/topics/health/page:num/"
+collection: health
+show_excerpts: true
+entries_layout: grid
 header: false
 ---
 
