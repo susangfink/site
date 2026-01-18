@@ -13,10 +13,8 @@ tags:
   - Washington DC
 category:
  - Travel
-hideExcerpt: true
+excerpt: The useful logistical details of this trip to Washington D.C. made me want to document our travels for good.
 ---
-
-The useful logistical details of this trip to Washington D.C. made me want to document our travels for good.
 <!--more-->
 
 It was the week right after Thanksgiving and Jay, looking at his work schedule for December, randomly said "Do you want to go to D.C.?" Whenever he says Do you want to go to --insert--city--, the kids and I usually say yes without really thinking twice. W
