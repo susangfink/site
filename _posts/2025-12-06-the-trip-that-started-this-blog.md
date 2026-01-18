@@ -23,7 +23,7 @@ Coming from Phoenix and flying on Southwest Airlines, it was a direct flight fro
 
 I was so amazed by how clean, accessible, safe, and affordable Washington, D.C. was! We were able to do so much in less than 2 days. We went to the Udvar-Hazy Center to see the NASA Space Shuttle Discovery on display, The US Capitol Building, The National Archives for the Declaration of Independence and the US Constitution, Downtown DC Market, Washington Monument, The White House, The Reflection Pool and The Lincoln Memorial all in the same day!
 
-Everything was so accessible because of the Silver Line Metro from Dulles to National Mall which was a 45 minute train ride. With all these in mind, I knew I had to come up with a blog to document all these helpful info not only for this trip, but also for all the previous family trips we've taken all along. 
+Everything was so accessible because of the Silver Line Metro from Dulles to National Mall which was a 45 minute train ride. With all these in mind, I knew I had to come up with a blog to document all these helpful info not only for this trip, but also for all the previous family trips we've taken in the past. 
 
 ![Susan Fink Metro](/assets/images/susangfink-metro-silverline-small.jpg)
 
