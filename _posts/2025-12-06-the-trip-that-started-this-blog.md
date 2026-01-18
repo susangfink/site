@@ -17,7 +17,7 @@ excerpt: The useful logistical details of this trip to Washington D.C. made me w
 ---
 <!--more-->
 
-It was the week right after Thanksgiving and Jay, looking at his work schedule for December, randomly said "Do you want to go to D.C.?" Whenever he says Do you want to go to --insert--city--, the kids and I usually say yes without really thinking twice. W
+It was the week right after Thanksgiving and Jay, looking at his work schedule for December, randomly said "Do you want to go to D.C.?" Whenever he says Do you want to go to --insert--city--, the kids and I usually say yes without really thinking twice. We know we can work around it and seizing the day takes priority in most cases. 
 
 Coming from Phoenix and flying on Southwest Airlines, it was a direct flight from Sky Harbor to Dulles. We stayed at Marriott Washington Dulles Suites and the plaza downstairs literally just steps from our room made for a convenient place to stay. Restaurants were even open late. 
 
