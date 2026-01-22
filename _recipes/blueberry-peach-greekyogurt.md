@@ -4,7 +4,6 @@ category: food
 title: "Blueberry Peach Greek Yogurt"
 header: false
 permalink: /food/blueberry-peach-greekyogurt.html
-header: false
 image:
    thumbnail: /assets/images/foodimages/blueberry-peach-greek-yogurt-thumbnail.jpg
    path: null
