@@ -2,18 +2,15 @@
 layout: post
 title: "Pouring with Intention"
 permalink: /blog/2026-01-22-pouring-with-intention.html
-featured_image:
-  src: /assets/images/susangfink-pouring-with-intention-lg.jpg 
-  alt: "Decanting Espresso"
 image:
   path: /blog/2026-01-22-pouring-with-intention.html
+  featured_image: /assets/images/susangfink-pouring-with-intention-lg.jpg
   thumbnail: /assets/images/susangfink-pouring-with-intention-thumbnail.jpg 
-  caption: "Pouring with Intention"
+  caption: "Decanting Espresso"
 excerpt_separator: "<!--more-->"  
 categories: 
 - Home
 - Reflection
-thumbnail: /assets/images/susangfink-pouring-with-intention-thumbnail.jpg 
 ---
 
 Some days stretch you thin, and it feels like there are more things to do than hours in the day. It’s easy to get caught up in everything going on in our lives and forget that these days are fleeting.
