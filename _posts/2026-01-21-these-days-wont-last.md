@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "These Days Won't Last"
-header: false
 permalink: /blog/2026-01-21-these-days-wont-last.html
 image:
   path: /blog/2026-01-21-these-days-wont-last.html
