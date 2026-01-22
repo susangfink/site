@@ -2,10 +2,10 @@
 layout: post
 title: "These Days Won't Last"
 permalink: /blog/2026-01-21-these-days-wont-last.html
+header: false
 image:
-  path: 
-  thumbnail: 
-  caption: ""
+  thumbnail: /assets/images/susangfink-these-days-wont-last.jpg 
+  path: null
 excerpt_separator: "<!--more-->"  
 categories: 
 - Reflection
