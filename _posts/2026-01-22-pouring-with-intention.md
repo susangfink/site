@@ -26,4 +26,4 @@ Halfway through, I realized I’d forgotten to take a before photo. Instead, I f
 
 This kind of organizing would normally frustrate me—especially when it means discovering bags of stale tortilla chips. But today, I chose to notice the blessings in each pour instead.
 
-Even in the smallest, most ordinary tasks, there are moments where we can feel God’s presence and be reminded that He is with us.
+Even in the smallest, most ordinary tasks, there are moments where we can feel God’s presence. He is with us, always pouring into our hearts. 
