@@ -21,7 +21,7 @@ Every grain of onion powder transferred cleanly to the very top of its spice jar
 Halfway through, I realized I’d forgotten to take a before photo. Instead, I found myself reflecting on a Bible verse and how blessings can appear when things pour just right:
 <blockquote>
 <i>“God’s love has been poured into our hearts through the Holy Spirit who has been given to us.”
-<b>Romans 5:5</i></b>
+<b>Romans 5:5</b></i>
 </blockquote>
 
 This kind of organizing would normally frustrate me—especially when it means discovering bags of stale tortilla chips. But today, I chose to notice the blessings in each pour instead.
