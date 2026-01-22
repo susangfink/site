@@ -3,8 +3,7 @@ layout: post
 title: "Pouring with Intention"
 permalink: /blog/2026-01-22-pouring-with-intention.html
 image:
-  path: /blog/2026-01-22-pouring-with-intention.html
-  featured_image: /assets/images/susangfink-pouring-with-intention-lg.jpg
+  path: /assets/images/susangfink-pouring-with-intention-lg.jpg
   thumbnail: /assets/images/susangfink-pouring-with-intention-thumbnail.jpg 
   caption: "Decanting Espresso"
 excerpt_separator: "<!--more-->"  
