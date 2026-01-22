@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Pouring with Intention"
-heroImage: /assets/images/susangfink-pouring-with-intention-lg.jpg 
 permalink: /blog/2026-01-22-pouring-with-intention.html
+featured_image:
+  src: /assets/images/susangfink-pouring-with-intention-lg.jpg 
+  alt: "Decanting Espresso"
 image:
   path: /blog/2026-01-22-pouring-with-intention.html
   thumbnail: /assets/images/susangfink-pouring-with-intention-thumbnail.jpg 
