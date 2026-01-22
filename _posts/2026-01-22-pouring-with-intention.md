@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pouring with Intention"
-header: false
+heroImage: /assets/images/susangfink-pouring-with-intention-lg.jpg 
 permalink: /blog/2026-01-22-pouring-with-intention.html
 image:
   path: /blog/2026-01-22-pouring-with-intention.html
