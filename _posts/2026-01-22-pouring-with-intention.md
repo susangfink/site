@@ -12,12 +12,17 @@ categories:
 - Reflection
 ---
 
-I went to the pantry today to put away some snacks. It ended up being a 2 hour pantry overhaul where I took out more than half the items to declutter and reorganize. 
-<!--more-->
-I kept moving as fast as I could to see if I could make a difference in tidying. The part that really took me by surprise is that each item I attempted to decant ended up being a perfect pour that did not overflow. If you've tried to organize a pantry before for aesthetics, then you probably know the struggle of not fitting everything when you go to decant. 
+I went to the pantry today to put away a few snacks. It quickly turned into a two-hour overhaul where I cleared out more than half the shelves to declutter and reorganize. I kept moving quickly, as if I were racing myself, curious to see if I could actually make a dent in the mess.
 
-Every grain of the onion powder was transferred exactly to the top of its own spice jar shaker. I kept going and tried it with each other pantry staple I came across. Vinegar poured perfectly from the gallon jar into the smaller jug. The same thing happened with Panko Bread Crumbs, Cocoa Chocolate, and the LavAzza Espresso powder. Halfway through all this pantry work, I realized I forgot to take a before picture. Instead, I ended up reflecting on a bible verse and how blessings happen when we pour perfectly.  
+What surprised me most was what happened when I began to decant. Every single item poured perfectly—nothing overflowed, nothing fell short. If you’ve ever tried to organize a pantry for aesthetics, you know that’s rarely how it goes.
 
-<i>“God’s love has been poured into our hearts through the Holy Spirit who has been given to us.”</i> <b>Romans 5:5</b>
+Every grain of onion powder transferred cleanly to the very top of its spice jar. Vinegar poured seamlessly from a gallon jug into a smaller one. The same happened with panko bread crumbs, cocoa powder, and even the Lavazza espresso. Each pour fit exactly as it was meant to.
 
-This type of organizing would usually make me mad at finidng bags of stale tortilla chips but I chose to feel the blessings of each pour instead. Even in the smallest tasks, we can find that there are ways to feel God's presence and know that He is with us.
+Halfway through, I realized I’d forgotten to take a before photo. Instead, I found myself reflecting on a Bible verse and how blessings can appear when things pour just right:
+
+“God’s love has been poured into our hearts through the Holy Spirit who has been given to us.”
+Romans 5:5
+
+This kind of organizing would normally frustrate me—especially when it means discovering bags of stale tortilla chips. But today, I chose to notice the blessings in each pour instead.
+
+Even in the smallest, most ordinary tasks, there are moments where we can feel God’s presence and be reminded that He is with us.
