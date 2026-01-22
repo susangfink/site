@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "These Days Won't Last"
-permalink: /blog/2026-01-21-these-days-wont-last.html
+title: "Pouring with Intention"
+header: false
+permalink: /blog/2026-01-22-pouring-with-intention.html
 image:
-  path: 
-  thumbnail: 
-  caption: ""
+  path: /blog/2026-01-22-pouring-with-intention.html
+  thumbnail: /assets/images/susangfink-pouring-with-intention-thumbnail.jpg 
+  caption: "Pouring with Intention"
 excerpt_separator: "<!--more-->"  
 categories: 
+- Home
 - Reflection
-- Family
+thumbnail: /assets/images/susangfink-pouring-with-intention-thumbnail.jpg 
 ---
 
 Some days stretch you thin, and it feels like there are more things to do than hours in the day. It’s easy to get caught up in everything going on in our lives and forget that these days are fleeting.
