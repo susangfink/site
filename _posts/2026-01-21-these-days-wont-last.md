@@ -2,9 +2,8 @@
 layout: post
 title: "These Days Won't Last"
 permalink: /blog/2026-01-21-these-days-wont-last.html
-header: false
 image:
-  thumbnail: /assets/images/susangfink-these-days-wont-last.jpg 
+  thumbnail: /assets/images/susangfink-these-days-wont-last-thumbnail.jpg 
   path: /blog/2026-01-21-these-days-wont-last.html
   caption: "These Days Won't Last"
 excerpt_separator: "<!--more-->"  
