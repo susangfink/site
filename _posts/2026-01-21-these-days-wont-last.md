@@ -4,13 +4,14 @@ title: "These Days Won't Last"
 header: false
 permalink: /blog/2026-01-21-these-days-wont-last.html
 image:
-  thumbnail: /assets/images/susangfink-these-days-wont-last-thumbnail.jpg 
   path: /blog/2026-01-21-these-days-wont-last.html
+  thumbnail: /assets/images/susangfink-these-days-wont-last-thumbnail.jpg 
   caption: "These Days Won't Last"
 excerpt_separator: "<!--more-->"  
 categories: 
 - Reflection
 - Family
+thumbnail: /assets/images/susangfink-these-days-wont-last-thumbnail.jpg
 ---
 
 Some days stretch you thin, and it feels like there are more things to do than hours in the day. It’s easy to get caught up in everything going on in our lives and forget that these days are fleeting.
