@@ -22,7 +22,8 @@ Halfway through, I realized I’d forgotten to take a before photo. Instead, I f
 <blockquote>
 <i>“God’s love has been poured into our hearts through the Holy Spirit who has been given to us.”
 <b>Romans 5:5</i></b>
-</blockquote>  
+</blockquote>
+
 This kind of organizing would normally frustrate me—especially when it means discovering bags of stale tortilla chips. But today, I chose to notice the blessings in each pour instead.
 
 Even in the smallest, most ordinary tasks, there are moments where we can feel God’s presence and be reminded that He is with us.
