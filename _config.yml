@@ -31,7 +31,7 @@ collections:
   health:
     output: true
     permalink: "/health/:title/"
-  house:
+  home:
     output: true
     permalink: "/house/:title/"
 
