@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: House
-collection: house
+title: Home
+collection: home
 show_excerpts: true
 entries_layout: grid
 header: false
