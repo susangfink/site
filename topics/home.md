@@ -7,4 +7,4 @@ entries_layout: grid
 header: false
 ---
 
-Check back soon for posts on Home, Organizing, Cleaning, and DIY.
+<center>Check back soon for posts on Home, Organizing, Cleaning, and DIY.</center>
