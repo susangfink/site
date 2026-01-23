@@ -25,9 +25,9 @@ I was so amazed by how clean, accessible, safe, and affordable Washington, D.C. 
 
 Everything was so accessible because of the Silver Line Metro from Dulles to National Mall which was a 45 minute train ride. With all these in mind, I knew I had to come up with a blog to document all these helpful info not only for this trip, but also for all the previous family trips we've taken in the past. 
 
-With all these details in mind, I started this blog the very next week. 
+With all these details in mind, I started this blog the very next week. I'm looking forward to helping you and your family navigate cities through the experiences we've had. In the meantime, here's a 1981 photo of me in Washington DC and a recent family photo from this trip. 
 
-![Susan Fink 1981 First Trip to Washington DC](/assets/images/susangfink-washingtondc-babypic-1981-small.jpg)
+![Susan Fink 1981 First Trip to Washington DC](/assets/images/susangfink-washingtondc-babypic-1981-small.jpg){: .align-center}
 
-![Susan Fink 2025 The Trip that Started this Blog](/assets/images/susangfink-trip-to-dc-washington-monument.jpg)
+![Susan Fink 2025 The Trip that Started this Blog](/assets/images/susangfink-trip-to-dc-washington-monument.jpg){: .align-center}
 
