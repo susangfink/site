@@ -27,5 +27,7 @@ Everything was so accessible because of the Silver Line Metro from Dulles to Nat
 
 With all these details in mind, I started this blog the very next week. 
 
-![Susan Fink Metro](/assets/images/susangfink-metro-silverline-small.jpg)
+![Susan Fink 1981 First Trip to Washington DC](/assets/images/susangfink-washingtondc-babypic-1981-small.jpg)
+
+![Susan Fink 2025 The Trip that Started this Blog](/assets/images/susangfink-trip-to-dc-washington-monument.jpg)
 
