@@ -25,5 +25,7 @@ I was so amazed by how clean, accessible, safe, and affordable Washington, D.C. 
 
 Everything was so accessible because of the Silver Line Metro from Dulles to National Mall which was a 45 minute train ride. With all these in mind, I knew I had to come up with a blog to document all these helpful info not only for this trip, but also for all the previous family trips we've taken in the past. 
 
+With all these details in mind, I started this blog the very next week. 
+
 ![Susan Fink Metro](/assets/images/susangfink-metro-silverline-small.jpg)
 
