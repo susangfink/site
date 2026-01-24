@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "These Days Won't Last"
-permalink: /blog/2026-01-21-these-days-wont-last.html
+title: "Started This Blog"
+permalink: /blog/2025-12-06-the-trip-that-started-this-blog.html
 image:
    thumbnail: /assets/images/susangfink-these-days-wont-last-thumbnail.jpg 
 excerpt_separator: "<!--more-->"  
