@@ -26,8 +26,11 @@ I wanted to just reply, "Terrible! I am having a terrible day!" But of course I 
 
 Asking the 3 dreaded words in return made me want to lose my lunch. Here I am mindlessly uttering the same thing back. I hated that I was being part of society's scripted exchange and that made my stomach turn some more. 
 
-I was lost in the monotony of the register's beeping as all the items went by on the conveyor belt. Why do we ask each other this question if we really doing care to get an honest answer? Is there something else we can ask that's not as triggering? 
+I was lost in the monotony of the register's beeping as all the items went by on the conveyor belt. Why do we ask each other this question if we really don't care to get an honest answer? Maybe we do care to get an honest answer but we've been trained as a society to pretend everything is fine. Is there something else we can ask that's not as triggering? 
 
 That's when it occurred to me that every single person you encounter is going through something. Everyone has something that is weighing them down whether it's big or small and it matters to them. I don't currently have an alternate greeting to propose but when I do have something less provoking I will make sure to write a blog post on that. In the meantime, we need to remind ourselves to have more patience and understanding with the people we encounter. Although we say we're doing well, everyone is not 'good.'
 
- 
+ <blockquote>
+ <i> “with all humility and gentleness, with patience, bearing with one another through love,<b>Ephesians 4:2</b>
+ </i>
+ </blockquote>
