@@ -13,7 +13,7 @@ categories:
 excerpt: Everyone everywhere everyday is asking this question. 
 ---
 <!--more-->
-![Shopping Cart with Roses](/assets/images/susangfink-the-question-we-all-ask-roses.jpg){: .align-left}
+![Shopping Cart with Roses](/assets/images/susangfink-the-question-we-all-ask-roses.jpg){: .align-center}
 <br>
 Everyone everywhere everyday is asking this question. 
 
