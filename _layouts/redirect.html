@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecting…</title>
+
+    <!-- Immediate redirect -->
+    <meta http-equiv="refresh" content="0; url={{ page.redirect_to }}">
+
+    <!-- Fallback for JS-enabled browsers -->
+    <script>
+      window.location.replace("{{ page.redirect_to }}");
+    </script>
+
+    <!-- Optional: SEO-friendly canonical -->
+    <link rel="canonical" href="{{ page.redirect_to }}">
+  </head>
+  <body>
+    <p>
+      Redirecting…  
+      <a href="{{ page.redirect_to }}">Click here if you’re not redirected.</a>
+    </p>
+  </body>
+</html>
