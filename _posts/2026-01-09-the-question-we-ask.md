@@ -28,6 +28,6 @@ Asking the 3 dreaded words in return made me want to lose my lunch. Here I am mi
 
 I was lost in the monotony of the register's beeping as all the items went by on the conveyor belt. Why do we ask each other this question if we really doing care to get an honest answer? Is there something else we can ask that's not as triggering? 
 
-That's when it occurred to me that every single person you encounter is going through something. Everyone has something that is weighing them down whether it's big or small, it matters to them. I don't currently have an alternate greeting to propose but when I do have something less triggering I will make sure to write a blog post on that. In the meantime, we need to remind ourselves to have more patience and understanding with the people we encounter. Although we say we're doing well, everyone is not 'good.'
+That's when it occurred to me that every single person you encounter is going through something. Everyone has something that is weighing them down whether it's big or small and it matters to them. I don't currently have an alternate greeting to propose but when I do have something less provoking I will make sure to write a blog post on that. In the meantime, we need to remind ourselves to have more patience and understanding with the people we encounter. Although we say we're doing well, everyone is not 'good.'
 
  
