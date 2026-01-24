@@ -14,7 +14,7 @@ excerpt: Everyone everywhere everyday is asking this question.
 ---
 <!--more-->
 ![Shopping Cart with Roses](/assets/images/susangfink-the-question-we-all-ask-roses.jpg){: .align-left}
-
+<br>
 Everyone everywhere everyday is asking this question. 
 
 "How are you?" Or "How ya doin'?" Or "How's your day going?" 
