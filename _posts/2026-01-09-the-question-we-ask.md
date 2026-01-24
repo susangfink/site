@@ -2,15 +2,16 @@
 layout: post
 title: "The Question We Ask But Don't Expect An Honest Answer"
 permalink: /blog/2026-01-09-the-question-we-ask.html
+header: false
 image:
-  path: /assets/images/susangfink-the-question-we-all-ask-roses.jpg
   thumbnail: /assets/images/susangfink-the-question-we-all-ask-roses-thumbnail.jpg
   caption: ""
 excerpt_separator: "<!--more-->"  
 categories: 
 - Reflection
-
 ---
+![Shopping Cart with Roses](susangfink-the-question-we-all-ask-roses.jpg)
+
 Everyone everywhere everyday is asking this question. 
 <!--more-->
 "How are you?" Or "How ya doin'?" Or "How's your day going?" 
