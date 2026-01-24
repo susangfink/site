@@ -6,5 +6,3 @@ image:
   thumbnail: /assets/images/nationalarchivesusa-small.jpg
 excerpt_separator: "<!--more-->"
 ---
-It was the week after Thanksgiving and he asked, "Do you want to go to Washington D.C.?"
-<!--more-->
