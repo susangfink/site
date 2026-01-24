@@ -2,8 +2,8 @@
 layout: post
 title: Photo Gallery
 image:
-  path: /assets/images/nationalarchiesusa.jpg
-  thumbnail: /assets/images/nationalarchiesusa-small.jpg
+  path: /assets/images/nationalarchivesusa.jpg
+  thumbnail: /assets/images/nationalarchivesusa-small.jpg
 gallery:
   - image: /assets/images/washDC_gallery/washDC-1.jpg
     alt: "Image AA"
