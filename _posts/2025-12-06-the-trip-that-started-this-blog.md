@@ -11,8 +11,6 @@ categories:
   - Travel
 tags:
   - Washington DC
-category:
- - Travel
 excerpt: The useful logistical details of this trip to Washington D.C. made me want to document our travels for good.
 ---
 <!--more-->
