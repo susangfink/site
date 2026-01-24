@@ -21,19 +21,14 @@ collections:
     permalink: "/recipes/:title/"
   travel:
     output: true
-    permalink: "/travel/:title/"
   reflections:
     ouput: true
-    permalink: "/reflections/:title/"
   family:
     output: true
-    permalink: "/family/:title/"
   health:
     output: true
-    permalink: "/health/:title/"
   home:
     output: true
-    permalink: "/home/:title/"
 
 footer_links:
   - title: Instagram
