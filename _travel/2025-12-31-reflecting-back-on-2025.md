@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Reflecting Back on 2025"
-permalink: blog/2025-12-31-reflecting-back-on-2025.html
+permalink: /blog/2025-12-31-reflecting-back-on-2025.html
 image:
    thumbnail: /assets/images/susangfink-reflecting-back-2025-thumbnail.jpg
 excerpt_separator: "<!--more-->"  
