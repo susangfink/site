@@ -33,5 +33,6 @@ That's when it occurred to me that every single person you encounter is going th
  <i> “with all humility and gentleness, with patience, bearing with one another through love"<b> Ephesians 4:2</b>
  </i>
  </blockquote>
-![Shopping Cart with Roses](susangfink-the-question-we-all-ask-roses.jpg)
+ <br>
+![Shopping Cart with Roses](/assets/images/susangfink-the-question-we-all-ask-roses.jpg)
 *shopping cart with roses*
