@@ -3,8 +3,8 @@ layout: post
 title: "The Trip That Started This Blog"
 permalink: "/blog/2025/12/06/2025-12-06-the-trip-that-started-this-blog.html"
 image:
-  path: /assets/images/nationalarchiesusa.jpg
-  thumbnail: /assets/images/nationalarchiesusa-small.jpg
+  path: /assets/images/nationalarchivesusa.jpg
+  thumbnail: /assets/images/nationalarchivesusa-small.jpg
   caption: "Natl Archives Bldg"
 excerpt_separator: "<!--more-->"  
 categories:
