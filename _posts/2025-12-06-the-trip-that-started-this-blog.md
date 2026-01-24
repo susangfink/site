@@ -19,13 +19,13 @@ excerpt: The useful logistical details of this trip to Washington D.C. made me w
 
 It was the week right after Thanksgiving and Jay, looking at his work schedule for December, randomly said "Do you want to go to D.C.?" Whenever he asks "Do you want to go to --insert--city--?" the kids and I usually say yes because seizing the day takes priority in most cases. 
 
-Coming from Phoenix and flying on Southwest Airlines, it was a direct flight from Sky Harbor to Dulles. We stayed at Marriott Washington Dulles Suites and the plaza downstairs literally just steps from our room made for a convenient place to stay. Restaurants were even open late. 
+Coming from Phoenix and flying on Southwest Airlines, it was a direct flight from Sky Harbor to Dulles. We stayed at Marriott Washington Dulles Suites and the plaza downstairs literally just steps from our room made for a convenient place to stay. Restaurants were even open late after we returned from a long day of sightseeing. 
 
-I was so amazed by how clean, accessible, safe, and affordable Washington, D.C. was! We were able to do so much in less than 2 days. We went to the Udvar-Hazy Center to see the NASA Space Shuttle Discovery on display, The US Capitol Building, The National Archives for the Declaration of Independence and the US Constitution, Downtown DC Market, Washington Monument, The White House, The Reflection Pool and The Lincoln Memorial all in the same day!
+I was so amazed by how clean, safe, and affordable Washington, D.C. was! We were able to do so much in less than 2 days. We went to the Udvar-Hazy Center to see the NASA Space Shuttle Discovery on display, The US Capitol Building, The National Archives for the Declaration of Independence and the US Constitution, Downtown DC Market, Washington Monument, The White House, The Reflection Pool and The Lincoln Memorial all in the same day! It was just a little over 13 miles of walking but everyone was up for the adventure. 
 
-Everything was so accessible because of the Silver Line Metro from Dulles to National Mall which was a 45 minute train ride. With all these in mind, I knew I had to come up with a blog to document all these helpful info not only for this trip, but also for all the previous family trips we've taken in the past. 
+Everything was so accessible riding on the Silver Line Metro from Dulles to National Mall which was a 45 minute train ride. With all these in mind, I knew I had to come up with a blog to document all this useful info not only for this trip, but also for all the previous family trips we've taken in the past. 
 
-With all these details in mind, I started this blog the very next week. I'm looking forward to helping you and your family navigate cities through the experiences we've had. In the meantime, here's a 1981 photo of me in Washington DC and a recent family photo from this trip. 
+I started this blog the next week. I'm looking forward fiture blog posts to help you and your family navigate the cities we've visited. In the meantime, here's a 1981 photo of me in Washington DC and a recent family photo from this trip. 
 
 ![Susan Fink 1981 First Trip to Washington DC](/assets/images/susangfink-washingtondc-babypic-1981-small.jpg){: .align-center}
 
