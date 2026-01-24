@@ -10,8 +10,6 @@ excerpt_separator: "<!--more-->"
 categories: 
 - Reflection
 ---
-![Shopping Cart with Roses](susangfink-the-question-we-all-ask-roses.jpg)
-
 Everyone everywhere everyday is asking this question. 
 <!--more-->
 "How are you?" Or "How ya doin'?" Or "How's your day going?" 
@@ -31,6 +29,8 @@ I was lost in the monotony of the register's beeping as all the items went by on
 That's when it occurred to me that every single person you encounter is going through something. Everyone has something that is weighing them down whether it's big or small and it matters to them. I don't currently have an alternate greeting to propose but when I do have something less provoking I will make sure to write a blog post on that. In the meantime, we need to remind ourselves to have more patience and understanding with the people we encounter. Although we say we're doing well, everyone is not 'good.'
 
  <blockquote>
- <i> “with all humility and gentleness, with patience, bearing with one another through love,<b>Ephesians 4:2</b>
+ <i> “with all humility and gentleness, with patience, bearing with one another through love"<b> Ephesians 4:2</b>
  </i>
  </blockquote>
+![Shopping Cart with Roses](susangfink-the-question-we-all-ask-roses.jpg)
+*shopping cart with roses*
