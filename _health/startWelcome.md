@@ -6,5 +6,5 @@ image:
   thumbnail: /assets/images/welcome-hero-image-small.jpg
 excerpt_separator: <!--more-->  
 ---
-Test Welcome
+Welcome to my new blog and website. I have something to admit. I’ve been blogging for 15 years now.
 <!--more-->
