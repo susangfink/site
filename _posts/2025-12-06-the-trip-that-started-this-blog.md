@@ -25,7 +25,7 @@ I was so amazed by how clean, safe, and affordable Washington, D.C. was! We were
 
 Everything was so accessible riding on the Silver Line Metro from Dulles to National Mall which was a 45 minute train ride. With all these in mind, I knew I had to come up with a blog to document all this useful info not only for this trip, but also for all the previous family trips we've taken in the past. 
 
-I started this blog the next week after returning from D.C. I'm looking forward future blog posts to help you and your family navigate the cities we've visited. In the meantime, here's a 1981 photo of me in Washington DC and a recent, full-circle-moment family photo from this trip. 
+I started this blog the next week after returning from D.C. I'm looking forward to future blog posts to help you and your family navigate the cities we've visited. In the meantime, here's a 1981 photo of me in Washington DC and a recent, full-circle-moment family photo from this trip. 
 
 ![Susan Fink 1981 First Trip to Washington DC](/assets/images/susangfink-washingtondc-babypic-1981-small.jpg){: .align-center}
 
