@@ -7,5 +7,5 @@ image:
 excerpt_separator: "<!--more-->"  
 
 ---
-Let's Go to Washington D.C.
+It was the week right after Thanksgiving and Jay, looking at his work schedule for December, randomly said “Do you want to go to D.C.?”
 <!--more-->
