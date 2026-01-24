@@ -6,3 +6,4 @@ image:
   thumbnail: /assets/images/nationalarchivesusa-small.jpg
 excerpt_separator: "<!--more-->"
 ---
+<p>URL: {{ page.url }}</p>
