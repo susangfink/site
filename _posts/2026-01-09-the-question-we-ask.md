@@ -10,9 +10,15 @@ image:
 excerpt_separator: "<!--more-->"  
 categories: 
 - Reflection
+excerpt: Everyone everywhere everyday is asking this question. 
 ---
-Everyone everywhere everyday is asking this question. 
 <!--more-->
+![Shopping Cart with Roses](/assets/images/susangfink-the-question-we-all-ask-roses.jpg){: .align-center}
+<br>
+*shopping cart with roses*
+
+Everyone everywhere everyday is asking this question. 
+
 "How are you?" Or "How ya doin'?" Or "How's your day going?" 
 
 Do you ever wish you could just reply honestly? Last week, I went to the grocery store and got ready to check out. I cringed and waited for the cashier to, on cue, ask it. 
@@ -33,6 +39,3 @@ That's when it occurred to me that every single person you encounter is going th
  <i> “with all humility and gentleness, with patience, bearing with one another through love"<b> Ephesians 4:2</b>
  </i>
  </blockquote>
- <br>
-![Shopping Cart with Roses](/assets/images/susangfink-the-question-we-all-ask-roses.jpg)
-*shopping cart with roses*
