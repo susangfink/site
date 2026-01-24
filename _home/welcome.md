@@ -1,8 +1,0 @@
----
-layout: page
-title: "Welcome"
-permalink: /blog/2025-12-26-welcome.html
-image:
-  thumbnail: /assets/images/welcome-hero-image-small.jpg
-excerpt_separator: <!--more-->
----
