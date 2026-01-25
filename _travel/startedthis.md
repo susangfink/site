@@ -6,5 +6,5 @@ image:
   thumbnail: /assets/images/nationalarchivesusa-small.jpg
 excerpt_separator: <!--more-->  
 ---
-Test 
+“Do you want to go to D.C.?” Whenever he asks “Do you want to go to –insert–city–?” the kids and I usually say yes because seizing the day takes priority... 
 <!--more-->
