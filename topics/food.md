@@ -11,4 +11,5 @@ This food section is a collection of my family's favorite dishes to prepare. Mos
 <br>
 I don't use strict measurements and everything is seasoned <i>to taste.</i> Think of these as guides to adjust to your own preferences. 
 <br>
-<h1><center>Dishes</center></h1>
+<h1 style="font-family: 'Merriweather', serif;"><center>Dishes</center></h1>
+
