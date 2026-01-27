@@ -10,7 +10,7 @@ excerpt_separator: "<!--more-->"
 categories: 
 - Reflection
 - Travel
-thumbnail: /assets/images/susangfink-reflecting-back-2025-thumbnail.jpg
+excerpt: As 2025 comes to a close, my heart is overflowing with gratitude. It was a year of personal bests, unforgettable travel, and precious moments with family...
 ---
 <!--more-->
 
