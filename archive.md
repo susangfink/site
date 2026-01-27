@@ -33,3 +33,21 @@ permalink: /archive/
     {% endfor %}
   </ul>
 {% endfor %}
+
+<!--Collapsilbe Years-->
+<!--
+{% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+
+{% for year in posts_by_year %}
+<details>
+  <summary><strong>{{ year.name }}</strong></summary>
+  <ul>
+    {% for post in year.items %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</details>
+{% endfor %}
+-->
