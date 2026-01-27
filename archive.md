@@ -1,5 +1,6 @@
 ---
 layout: page
+header: false
 title: "Post Archive"
 taxonomy: year
 permalink: /archive/
