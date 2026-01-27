@@ -25,7 +25,7 @@ This split works so well because you will always know what to work on without co
 
 <h3><b>Even-numbered day:</b></h3>
 * AM Upper Body strength training
-* PM High Intensity Cardio (run, HIIT, )
+* PM High Intensity Cardio (run, HIIT)
 
 <h3><b>Weekly Add Ons:</b></h3>
 Mon/Wed/Fri: Core
@@ -34,4 +34,4 @@ Sunday: Rest
 
 If two-a-days aren't realistic, combine the sessions to just AM or PM workouts. On busy days just remember to "Do One Thing Daily" and free yourself up from the guilt. Even 20 minutes is enough on busy days. We are aiming for more frequent workouts to protect the habit of staying consistent. 
 
-![Susan G Fink Running Shoes On](/assets/images/susangfink-easiest-workout-splits-small.jpg)
+![Susan G Fink Running Shoes On](/assets/images/susangfink-easiest-workout-splits-smallest.jpg)
