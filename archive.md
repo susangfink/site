@@ -5,7 +5,6 @@ title: "Post Archive"
 taxonomy: year
 permalink: /archive/
 ---
-<!--
 {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 
 {% for year in posts_by_year %}
@@ -19,7 +18,7 @@ permalink: /archive/
     {% endfor %}
   </ul>
 {% endfor %}
--->
+
 <!--
 {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 
@@ -35,7 +34,7 @@ permalink: /archive/
 {% endfor %}
 -->
 <!--Collapsilbe Years-->
-
+<!--
 {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 
 {% for year in posts_by_year %}
@@ -50,3 +49,4 @@ permalink: /archive/
   </ul>
 </details>
 {% endfor %}
+-->
