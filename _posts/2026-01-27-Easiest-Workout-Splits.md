@@ -29,7 +29,9 @@ This split works so well because you will always know what to work on without co
 
 <h3><b>Weekly Add Ons:</b></h3>
 Mon/Wed/Fri: Core
+<br>
 Tues/Thur/Sat: Stretch/Mobility
+<br>
 Sunday: Rest
 
 If two-a-days aren't realistic, combine the sessions to just AM or PM workouts. For example, 20 mins cardio and 20 mins strength back to back. On busy days just remember to <i><b>"Do One Thing Daily"</b></i> and free yourself up from the guilt. Even 30 minutes is enough on busy days. We are aiming for more frequent workouts to protect the habit of staying active. 
