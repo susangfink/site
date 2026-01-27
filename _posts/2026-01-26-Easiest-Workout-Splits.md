@@ -14,9 +14,7 @@ tags:
 - Fitness
 - Workout Plans
 ---
-<!--more-->
-
-After several revisions of my workout splits, I've designed the easiest one to follow which makes it easy to stay on track. This set up erases all decision fatigue or the mental load of debating what workout is up next?
+After several revisions of my workout splits, I've designed the easiest one to follow which makes it effortless to stay on track. This set up erases all decision fatigue or the mental load of debating what workout is up next?
 <!--more-->
 
 This split works so well because you will always know what to work on without consulting a chart or thinking twice. Every high intensity cardio workout alternates with enough time to recover instead of competing with lifting. Even if you miss a day, you don't have to make up a workout. Pick up from where you are based on the date. This never-ending, split-by-date format gives you an indefinite mindset. We want to think of working out as an ongoing for-the-rest-of-my-life mindset.
@@ -35,3 +33,5 @@ Tues/Thur/Sat: Stretch/Mobility
 Sunday: Rest
 
 If two-a-days aren't realistic, combine the sessions to just AM or PM workouts. On busy days just remember to "Do One Thing Daily" and free yourself up from the guilt. Even 20 minutes is enough on busy days. We are aiming for more frequent workouts to protect the habit of staying consistent. 
+
+![Susan G Fink Running Shoes On](/assets/images/susangfink-easiest-workout-splits-small.jpg)
