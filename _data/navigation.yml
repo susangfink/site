@@ -8,8 +8,11 @@
   url: /blog/
 - title: Topics
   url: /topics/
+- title: Archive
+  url: /archive/
 - title: Contact
   url: /contact/
+
 
 #- title: Work With Me
 #  url: /workwithme/
