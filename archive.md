@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomy
+layout: archive
 title: "Post Archive"
 taxonomy: year
 permalink: /archive/
