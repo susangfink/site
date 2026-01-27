@@ -12,10 +12,10 @@ categories:
 ---
 <!--more-->
 
-After several revisions of my workout splits, I've designed the easiest one to follow which helps you stay on track. This set up erases all decision fatigue or the mental load of having to think of what workout is next?
+After several revisions of my workout splits, I've designed the easiest one to follow which makes it easy to stay on track. This set up erases all decision fatigue or the mental load of debating what workout is up next?
 <!--more-->
 
-This split works so well because you will always know what to work on without consulting a chart or thinking twice. Every high intensity cardio workout alternates with enough time to recover instead of competing with lifting. Even if you miss a day, you don't have to make up a workout. Pick up from where you are based on the date. This never-ending split-by-date format gives you an indefinite mindset. 
+This split works so well because you will always know what to work on without consulting a chart or thinking twice. Every high intensity cardio workout alternates with enough time to recover instead of competing with lifting. Even if you miss a day, you don't have to make up a workout. Pick up from where you are based on the date. This never-ending, split-by-date format gives you an indefinite mindset. We want to think of working out as an ongoing for-the-rest-of-my-life mindset.
 
 <h3><b>Odd-numbered day:</b></h3>
 * AM Lower Body strength training
