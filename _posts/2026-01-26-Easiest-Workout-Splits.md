@@ -2,13 +2,17 @@
 layout: post
 title: "A No-Stress Workout Split for Staying Consistent"
 permalink: /blog/2026-01-26-The-Easiest-Workout-Splits-to-Stay-Consistent.html
+header: false
 image:
-  path: 
-  thumbnail: 
+  path: /assets/images/susangfink-easiest-workout-splits-small.jpg
+  thumbnail: /assets/images/susangfink-easiest-workout-splits-thumbnail.jpg
   caption: ""
 excerpt_separator: "<!--more-->"  
 categories: 
-- Reflection
+- Health
+tags:
+- Fitness
+- Workout Plans
 ---
 <!--more-->
 
