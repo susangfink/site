@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A No-Stress Workout Split for Staying Consistent"
-permalink: /blog/2026-01-26-The-Easiest-Workout-Splits-to-Stay-Consistent.html
+permalink: /blog/2026-01-27-The-Easiest-Workout-Splits-to-Stay-Consistent.html
 header: false
 image:
   path: /assets/images/susangfink-easiest-workout-splits-small.jpg
@@ -32,6 +32,6 @@ Mon/Wed/Fri: Core
 Tues/Thur/Sat: Stretch/Mobility
 Sunday: Rest
 
-If two-a-days aren't realistic, combine the sessions to just AM or PM workouts. On busy days just remember to "Do One Thing Daily" and free yourself up from the guilt. Even 20 minutes is enough on busy days. We are aiming for more frequent workouts to protect the habit of staying consistent. 
+If two-a-days aren't realistic, combine the sessions to just AM or PM workouts. On busy days just remember to <i><b>"Do One Thing Daily"</b></i> and free yourself up from the guilt. Even 20 minutes is enough on busy days. We are aiming for more frequent workouts to protect the habit of staying active and consistent. 
 
 ![Susan G Fink Running Shoes On](/assets/images/susangfink-easiest-workout-splits-smallest.jpg)
