@@ -29,7 +29,7 @@
 {% endif %}
 
 {% if page.url == "/blog/" or page.url == "/blog" %}
-  {% assign share_image = '/assets/images/social/blog-share.jpg' %}
+  {% assign share_image = '/assets/images/SusanGFink-Blog-Home.jpg' %}
 {% endif %}
 
 {% if page.image %}
@@ -37,7 +37,7 @@
 {% endif %} 
 
 {% unless share_image %}
-  {% assign share_image = '/assets/images/social/blog-default.jpg' %}
+  {% assign share_image = '/assets/images/SusanGFink-Blog-Home.jpg' %}
 {% endunless %}
 
 <meta property="og:image" content="{{ share_image | absolute_url }}">
