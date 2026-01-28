@@ -17,36 +17,30 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
   {% endif %}
 
-{% if page.url == "/" %}
-<meta property="og:image" content="{{ '/assets/images/SusanGFink-Blog-Home.jpg' | absolute_url }}">
-{% endif %}
-  
-{% if page.image %}
-<meta property="og:image" content="{{ page.image | absolute_url }}">
-<meta property="og:title" content="{{ page.title }}">
-<meta property="og:description" content="{{ page.description | default: site.description }}">
-<meta property="og:type" content="article">
-{% endif %}
+{%- assign share_image = nil -%}
 
-{% if page.url == "/blog/" or page.url == "/blog" %}
-  {% assign share_image = '/assets/images/SusanGFink-Blog-Home.jpg' %}
-{% endif %}
+{%- if page.url == "/" -%}
+  {%- assign share_image = '/assets/images/SusanGFink-Blog-Home.jpg' -%}
+{%- endif -%}
 
-{% if page.image %}
-  {% assign share_image = page.image %}
-{% endif %} 
+{%- if page.url == "/blog/" or page.url == "/blog" -%}
+  {%- assign share_image = '/assets/images/SusanGFink-Blog-Home.jpg' -%}
+{%- endif -%}
 
-{% unless share_image %}
-  {% assign share_image = '/assets/images/SusanGFink-Blog-Home.jpg' %}
-{% endunless %}
+{%- if page.url == "/topics/" or page.url == "/topics" -%}
+  {%- assign share_image = '/assets/images/SusanGFink-Blog-Home.jpg' -%}
+{%- endif -%}
+
+{%- if page.image -%}
+  {%- assign share_image = page.image -%}
+{%- endif -%}
+
+{%- unless share_image -%}
+  {%- assign share_image = '/assets/images/SusanGFink-Blog-Home.jpg' -%}
+{%- endunless -%}
 
 <meta property="og:image" content="{{ share_image | absolute_url }}">
 <meta name="twitter:image" content="{{ share_image | absolute_url }}">
-
-<meta name="twitter:card" content="summary_large_image">
-{% if page.image %}
-<meta name="twitter:image" content="{{ page.image | absolute_url }}">
-{% endif %}
   
 <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon-16x16.png' | relative_url }}">
