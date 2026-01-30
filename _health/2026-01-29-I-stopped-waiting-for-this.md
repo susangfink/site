@@ -1,6 +1,6 @@
 ---
 layout: redirect
-title: ""
+title: "The One Thing I Stopped Waiting For -- and Found Consistency in Fitness"
 redirect_to: /blog/2026-01-29-I-stopped-waiting-for-this.html
 image:
   thumbnail: /assets/images/susangfink-becoming-an-active-person-thumbnail.jpg
