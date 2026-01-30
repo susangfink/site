@@ -13,9 +13,7 @@ categories:
 - Fitness
 
 ---
-<!--more-->
-
-I kept procrastinating fitness until all the stars would align. I had to have all the laundry done, folded and put away. All the dishes had to be washed, every weekly rotating chore had to be marked off. Only after all of those were complete would I allow myself to workout. 
+I kept procrastinating fitness until all the stars would align. I had to have all the laundry done, folded and put away. <!--more--> All the dishes had to be washed, every weekly rotating chore had to be marked off. Only after all of those were complete would I allow myself to workout. 
 
 This all-or-nothing mindset ended up being a hurdle that held me back for years. 
 
