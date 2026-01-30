@@ -4,8 +4,8 @@ title: "The One Thing I Stopped Waiting For -- and Found Consistency in Fitness"
 header: false
 permalink: /blog/2026-01-29-I-stopped-waiting-for-this.html
 image:
-  path: 
-  thumbnail: 
+  path: /assets/images/susangfink-becoming-an-active-person.jpg
+  thumbnail: /assets/images/susangfink-becoming-an-active-person-thumbnail.jpg
   caption: ""
 excerpt_separator: "<!--more-->"  
 categories: 
