@@ -27,7 +27,7 @@ The reality is, the house is never going to be perfect. If I waited for that mom
 
 Fitness and your health won't wait but the chores will still be there. This is your sign to start before everything else is done. 
 
-![Susan G Fink Running](/assets/images/susangfink-becoming-an-active-person.jpg)
+![Susan G Fink Running](/assets/images/susangfink-becoming-an-active-person-thumbnail.jpg)
 
 
 
