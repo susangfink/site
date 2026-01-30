@@ -1,26 +1,14 @@
-- title: Home
-  slug: home
-  image: /assets/images/topic-thumbnails/susangfink-topics-home-thumbnail.jpg
-  overlay: Home
-  description: "Habits, Routines, and the little things"
-
-- title: Health
-  slug: health
-  image: /assets/images/topic-thumbnails/susangfink-topics-health-gym-thumbnail.jpg
-  overlay: Health
-  description: "Fitness, Wellness, & Mindful Living"
-
 - title: Reflections
   slug: reflections
   image: /assets/images/topic-thumbnails/susangfink-topics-reflection-thumbnail.jpg
   overlay: Reflection
   description: "Thoughts & Growth"
 
-- title: Family
-  slug: family
-  image: /assets/images/topic-thumbnails/susangfink-topics-family-thumbnail.jpg
-  overlay: Family Life
-  description: "Parenting, Family Routines, and togetherness"
+- title: Health
+  slug: health
+  image: /assets/images/topic-thumbnails/susangfink-topics-health-gym-thumbnail.jpg
+  overlay: Health
+  description: "Fitness, Wellness, & Mindful Living"
 
 - title: Food
   slug: food
@@ -33,3 +21,15 @@
   image: /assets/images/topic-thumbnails/susangfink-topics-travel-thumbnail.jpg
   overlay: Travel
   description: "Exploring Cities & Recommendations for Traveling as a family"
+
+  #- title: Family
+  #slug: family
+  #image: /assets/images/topic-thumbnails/susangfink-topics-family-thumbnail.jpg
+  #overlay: Family Life
+  #description: "Parenting, Family Routines, and togetherness"
+
+  #- title: Home
+  #slug: home
+  #image: /assets/images/topic-thumbnails/susangfink-topics-home-thumbnail.jpg
+  #overlay: Home
+  #description: "Habits, Routines, and the little things"
