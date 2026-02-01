@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+description: "Lifestyle, Reflection & Fitness Blog"
 header: false
 show_excerpts: false
 ---
