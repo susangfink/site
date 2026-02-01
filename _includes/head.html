@@ -3,6 +3,15 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% if page.layout == "home" %}
+<meta property="og:title" content="{{ page.title | escape }}" />
+<meta property="og:description" content="{{ page.description | escape }}" />
+<meta property="og:image" content="{{ page.image | absolute_url }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+{% endif %}
+  
   {% if site.owner.google.verify %}<meta name="google-site-verification" content="{{ site.owner.google.verify }}">{% endif %}
   {% if site.owner.bing-verify %}<meta name="msvalidate.01" content="{{ site.owner.bing-verify }}">{% endif %}
 
