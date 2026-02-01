@@ -2,6 +2,7 @@
 layout: home
 title: Home
 description: "Lifestyle, Reflection & Fitness Blog"
+image: /assets/images/SusanGFink-Blog-Home.jpg
 header: false
 show_excerpts: false
 ---
