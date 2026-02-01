@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-image: /assets/images/SusanGFink-Blog-Home.jpg
+#image: /assets/images/SusanGFink-Blog-Home.jpg
 header: false
 show_excerpts: false
 ---
