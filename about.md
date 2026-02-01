@@ -13,7 +13,7 @@ In my 45 years, I’ve lived in many places and moved over a dozen times. Before
 
 I don't believe life is about doing things perfectly. It's about living, learning, and growing along the way. Our stories and insights are worth documenting. My hope is that you’ll find these posts informational, inspirational, entertaining, and—most of all—relatable. The G is for my maiden name initial, the many goofy stories I have to share, and because I’m genuinely grateful you’re here.
 
-I believe in aging well, moving often, and growing with intention. I’m learning to make space for myself, show up authentically, and celebrate all the things that make life meaningful—and to connect with you along the way.
+I’m learning to make space for myself, show up authentically, and celebrate all the things that make life meaningful—and to connect with you along the way.
 
 Thanks for joining me!
 
