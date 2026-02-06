@@ -22,7 +22,7 @@ I started cheering for them when they lost in the most devastating, unforgettabl
 
 It was end of January 2015 and Jay, the kids, and I were in the middle of a permanent change of station (PCS) with the military. We had just arrived in Spokane with 2 toddlers and a doberman, no place to live, and time was quickly ticking by for us to find a home. We were living in Temporary Lodging Facility (TLF) and everything to us at Fairchild AFB was new. 
 
-Jay asked, "Did you know the Seahawks are in the Super Bowl this year? We <i>are in</i> the Pacific Northwest <i>in</i> Seahawks Territory?" I thought it was pretty cool to be in the midst of all the Seahawks fans everywhere we went and to see all the logos all over town, but at that time, finding a home was the priority. 
+Jay asked, "Did you know the Seahawks are in the Super Bowl this year? We <i>are in</i> the Pacific Northwest <i>in</i> Seahawks Territory?" I thought it was pretty cool to see of all the Seahawks fans everywhere we went and spot the logo all over town, but at that time, finding a home was the priority. 
 
 Super Bowl Sunday arrived and it was February 1. The days were cold and gloomy with very little sunlight. I was pregnant with morning sickness and drained from the daily house hunting but I still felt like we should put together an impromptu Super Bowl party for ourselves at TLF. I got both James and Isla bundled up in all their snow gear and took them to the commissary. I can't remember what exactly my morning sickness allowed me to eat that day. Maybe I had Cup of Noodles and I don't remember what everyone else ate. 
 
