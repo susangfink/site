@@ -12,6 +12,7 @@ categories:
 - Reflections
 tags:
 - Seahawks
+excerpt: With Super Bowl LX this weekend, and the Seahawks being one of the teams playing, I thought it would be a great time to reminisce on how I became a Seattle football fan.
 ---
 <!--more-->
 ![Seahawks Football in Snow](/assets/images/susangfink-how-became-seahawks-fan.jpg)
