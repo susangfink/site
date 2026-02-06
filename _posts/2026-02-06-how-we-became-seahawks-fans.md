@@ -22,11 +22,11 @@ I started cheering for them when they lost in the most devastating, unforgettabl
 
 It was end of January 2015 and Jay, the kids, and I were in the middle of a permanent change of station (PCS) with the military. We had just arrived in Spokane with 2 toddlers and a doberman, no place to live, and time was quickly ticking by for us to find a home. We were living in Temporary Lodging Facility (TLF) and everything to us at Fairchild AFB was new. 
 
-Jay asked, "Did you know the Seahawks are in the Super Bowl this year? We <i>are in</i> the Pacific Northwest <i>in</i> Seahawks Territory?" I thought it was pretty cool to see of all the Seahawks fans everywhere we went and spot the logo all over town, but at that time, finding a home was the priority. 
+Jay asked, "Did you know the Seahawks are in the Super Bowl this year? We <i>are in</i> the Pacific Northwest <i>in</i> Seahawks Territory!" I thought it was pretty cool to see the Seahawks fans each time we went out and spot the logo around town but, at that time, finding a place to live was the only thing I could focus on. 
 
-Super Bowl Sunday arrived and it was February 1. The days were cold and gloomy with very little sunlight. I was pregnant with morning sickness and drained from the daily house hunting but I still felt like we should put together an impromptu Super Bowl party for ourselves at TLF. I got both James and Isla bundled up in all their snow gear and took them to the commissary. I can't remember what exactly my morning sickness allowed me to eat that day. Maybe I had Cup of Noodles and I don't remember what everyone else ate. 
+The following week, February 1, 2015, was Super Bowl Sunday. The days were cold and gloomy with very little sunlight. I was pregnant with morning sickness and drained from the daily house hunting but I still felt like we should put together an impromptu just-us Super Bowl party for ourselves at TLF. I got both James and Isla bundled up in all their snow gear and took them to the commissary. I can't remember what exactly my morning sickness allowed me to eat that day. I probably had Cup of Noodles and I don't remember what everyone else ate. 
 
-What I do remember is watching the entire game from start to finish. This was a big deal for me. I was one of those girls that would say "I'm just watching for the Halftime Show." Somehow, living there and being there made me feel a sense of belonging in the midst of looking for something to call home. 
+What I do remember is watching the entire game from start to finish. This was a big deal for me. I used to be one of those girls that would say "I'm just watching for the Halftime Show." Somehow, living there and being in the Seattle area made me feel a sense of belonging in the midst of looking for something to call home. 
 
 If you're a football fan, you'll most likely remember this infamous Super Bowl XLIX ending because it is universally considered one of the craziest Super Bowl finishes ever. 
 
@@ -48,9 +48,9 @@ Everyone thought for sure Marshawn Lynch AKA Beast Mode would get the ball again
 
 Instead, what actually happened: 
 <br>
-Russell Wilson threw the ball. It was intercepted by Patriots Malcolm Butler and, just like that, it was over. Marshawn Lynch was open. He was uncovered and no defender on him. No back-to-back Super Bowl titles for the Seahawks. To this day, that play is debated: run vs throw? And HE WAS OPEN! 
+With only 20 seconds left, Russell Wilson threw the ball. It was intercepted by Patriots Malcolm Butler and, just like that, it was over. Marshawn Lynch was open. He was uncovered and no defender on him. The chance at back-to-back Super Bowl titles for the Seahawks vanished that second. To this day, that play is debated: run vs throw? BEAST MODE WAS OPEN! 
 
-I know I speak for every Seahawks fan that ever since Super Bowl XLIX, every goal-line pass hits with flashbacks to this very moment. If you're a Seahawks fan, it has been permanently seared into your brain for the last decade. 
+I know I speak for every Seahawks fan that ever since Super Bowl XLIX, every goal-line pass hits with flashbacks to this very moment. If you're a Seahawks fan, it has been permanently seared into your brain for the last 11 years. 
 
 That very moment of loss, the polar opposite of bandwagoning, is what made me feel connected to the team. I didn't join when it was fun. I joined when the team and fans were hurt from such a soul-crushing loss. For that, I feel like I've earned my fan status. I find it interesting to hear other people's stories of how long they have been fans and what connects them to their teams. <b>Cheering for someone, even when they're down, teaches loyalty, empathy, and resilience. It makes a more meaningful connection going through ups and downs together-- whether in sports or in life in general.</b>
 
