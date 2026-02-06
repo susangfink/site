@@ -14,6 +14,8 @@ categories:
 <!--more-->
 With Super Bowl LX this weekend, and the Seahawks being one of the teams playing, I thought it would be a great time to reminisce on how I became a Seattle football fan. 
 
+I started cheering for them when they lost in the most devastating, unforgettable way possible. That's when I knew I was a fan. 
+
 It was end of January 2015 and Jay, the kids, and I were in the middle of a permanent change of station (PCS) with the military. We had just arrived in Spokane with 2 toddlers and a doberman, no place to live, and time was quickly ticking by for us to find a home. We were living in Temporary Lodging Facility (TLF) and everything to us at Fairchild AFB was new. 
 
 Jay asked, "Did you know the Seahawks are in the Super Bowl this year? And we ARE IN the Pacific Northwest IN Seahawks Territory?" I thought it was pretty cool to be in the midst of all the Seahawks fans everywhere we went, but at that time, finding a home was the priority. 
