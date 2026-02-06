@@ -38,17 +38,19 @@ I was on the edge of my seat! This was turning into a real nail-biter.
 
 <b><u>1st-and-goal at the 1-yard line</u></b>
 <br>
-Seattle handed the ball to Marshawn Lynch but was stopped at just inches. 
+Russell Wilson handed the ball to Marshawn Lynch but was stopped at just inches. 
 
-In the midst of all this suspense, I remember declaring to Jay and the kids: <i>"We are Seahawks fans after this whether or not they win!!!"</i>
+In the middle of all this suspense, I remember declaring to Jay and the kids: <i>"We are Seahawks fans after this whether or not they win!!!"</i>
 
 <b><u>2nd-and-goal at the 1-yard line</u></b>
 <br>
-Everyone thought for sure Marshawn Lynch AKA Beast Mode gets the ball again!
+Everyone thought for sure Marshawn Lynch AKA Beast Mode would get the ball again!
 
-Instead what actually happened: Russell Wilson threw the ball. It was intercepted by Malcolm Butler and, just like that, it was over. Marshawn Lynch was open. He was uncovered and no defender on him. No back-to-back Super Bowl titles for the Seahawks. To this day, that play is debated: run vs throw? And HE WAS OPEN! 
+Instead, what actually happened: 
+<br>
+Russell Wilson threw the ball. It was intercepted by Patriots Malcolm Butler and, just like that, it was over. Marshawn Lynch was open. He was uncovered and no defender on him. No back-to-back Super Bowl titles for the Seahawks. To this day, that play is debated: run vs throw? And HE WAS OPEN! 
 
-I know I speak for every Seahawks fan that ever since Super Bowl XLIX, every goal-line pass hits with flashbacks to this very moment. If you're a Seahawks fan, it's permanently seared into your brain for the last decade. 
+I know I speak for every Seahawks fan that ever since Super Bowl XLIX, every goal-line pass hits with flashbacks to this very moment. If you're a Seahawks fan, it has been permanently seared into your brain for the last decade. 
 
 That very moment of loss, the polar opposite of bandwagoning, is what made me feel connected to the team. I didn't join when it was fun. I joined when the team and fans were hurt from such a soul-crushing loss. For that, I feel like I've earned my fan status. I find it interesting to hear other people's stories of how long they have been fans and what connects them to their teams. <b>Cheering for someone, even when they're down, teaches loyalty, empathy, and resilience. It makes a more meaningful connection going through ups and downs together-- whether in sports or in life in general.</b>
 
