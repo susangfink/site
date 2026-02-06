@@ -2,6 +2,7 @@
 layout: post
 title: "The Ironic Story of How We Became Seahawks Fans"
 header: false
+teaser: /assets/images/susangfink-how-became-seahawks-fan.jpg
 permalink: /blog/2026-02-06-how-we-became-seahawks-fans.html
 image:
   path: /assets/images/susangfink-how-became-seahawks-fan.jpg  
