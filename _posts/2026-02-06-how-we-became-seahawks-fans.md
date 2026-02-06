@@ -30,19 +30,19 @@ What I do remember is watching the entire game from start to finish. This was a 
 
 If you're a football fan, you'll most likely remember this infamous Super Bowl XLIX ending because it is universally considered one of the craziest Super Bowl finishes ever. 
 
-<u>1st-and-goal at the Patriots' 5-yard line</u> 
+<b><u>1st-and-goal at the Patriots' 5-yard line</u></b> 
 <br>
 Russell Wilson threw to Jermaine Kearse. Kearse miraculously juggled and secured it while falling to the ground. 
 
 I was on the edge of my seat! This was turning into a real nail-biter.
 
-<u>1st-and-goal at the 1-yard line</u>
+<b><u>1st-and-goal at the 1-yard line</u></b>
 <br>
 Seattle handed the ball to Marshawn Lynch but was stopped at just inches. 
 
-In the midst of all this suspense, I remember declaring Jay and the kids: "We are Seahawks fans after this whether or not they win!!!"
+In the midst of all this suspense, I remember declaring to Jay and the kids: <i>"We are Seahawks fans after this whether or not they win!!!"</i>
 
-<u>2nd-and-goal at the 1-yard line</u>
+<b><u>2nd-and-goal at the 1-yard line</u></b>
 <br>
 Everyone thought for sure Marshawn Lynch AKA Beast Mode gets the ball again!
 
