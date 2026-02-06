@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Funny Story of How We Became Seahawks Fans"
+title: "The Ironic Story of How We Became Seahawks Fans"
 header: false
 permalink: /blog/2026-02-06-how-we-became-seahawks-fans.html
 image:
