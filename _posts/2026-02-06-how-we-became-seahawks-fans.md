@@ -47,9 +47,9 @@ In the middle of all this suspense, I remember declaring to Jay and the kids: <i
 <br>
 Everyone thought for sure Marshawn Lynch AKA Beast Mode would get the ball again!
 
-Instead, what actually happened: 
+<b><u>Instead, what actually happened:</u></b> 
 <br>
-With only 20 seconds left, Russell Wilson threw the ball. It was intercepted by Patriots Malcolm Butler and, just like that, it was over. Marshawn Lynch was open. He was uncovered and no defender on him. The chance at back-to-back Super Bowl titles for the Seahawks vanished that second. To this day, that play is debated: run vs throw? BEAST MODE WAS OPEN! 
+With only 20 seconds left and the score 28-24 Patriots in the lead, Russell Wilson threw the ball. It was intercepted by Patriots Malcolm Butler and, just like that, it was over. Marshawn Lynch was open. He was uncovered and no defender on him. The chance at back-to-back Super Bowl titles for the Seahawks vanished that second. To this day, that play is debated: run vs throw? BEAST MODE WAS OPEN! 
 
 I know I speak for every Seahawks fan that ever since Super Bowl XLIX, every goal-line pass hits with flashbacks to this very moment. If you're a Seahawks fan, it has been permanently seared into your brain for the last 11 years. 
 
@@ -59,4 +59,4 @@ I started wearing Seahawks gear for the rest of 2015. A Seattle 12s jersey was o
 
 Because of the Seahawks, our years living in the Pacific Northwest will be with us no matter where we go. It's a coincidence that Super Bowl LX, and Seahawks' return to the Super Bowl is against the Patriots again. Even if Denver had won, that would be reminiscent of Super Bowl XLVIII. Win or Lose this Sunday, I will be an 11 years-and-counting Seahawks fan! 
 
-![Susan Seahawks Pregnancy Jersey](/assets/images/susangfink-seahawks-pregnancy-fan-thumbnail.jpg)
+![Susan Seahawks Pregnancy Jersey](/assets/images/susangfink-seahawks-pregnancy-fan.jpg)
