@@ -59,4 +59,4 @@ I started wearing Seahawks gear for the rest of 2015. A Seattle 12s jersey was o
 
 Because of the Seahawks, our years living in the Pacific Northwest will be with us no matter where we go. It's a coincidence that Super Bowl LX, and Seahawks' return to the Super Bowl is against the Patriots again. Even if Denver had won, that would be reminiscent of Super Bowl XLVIII. Win or Lose this Sunday, I will be an 11 years-and-counting Seahawks fan! 
 
-![Susan Seahawks Pregnancy Jersey](/assets/images/susangfink-seahawks-pregnancy-fan.jpg)
+![Susan Seahawks Pregnancy Jersey](/assets/images/susangfink-seahawks-pregnancy-fan.jpg){: width="75%"}
