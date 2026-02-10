@@ -12,3 +12,4 @@ categories:
 ---
 <!--more-->
 
+![Cherry Blossoms](https://susangfink.github.io/assets/susangfink-cherry-blossom.jpg)
