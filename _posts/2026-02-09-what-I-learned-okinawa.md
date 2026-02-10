@@ -12,4 +12,4 @@ categories:
 ---
 <!--more-->
 
-![Cherry Blossoms](https://susangfink.github.io/site-images/assets/susangfink-cherry-blossom.jpg)
+![Okinawa](https://susangfink.github.io/site-images/assets/susangfink-cherry-blossom.jpg)
