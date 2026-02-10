@@ -3,7 +3,7 @@ layout: post
 title: "What I Learned About Longevity Living in Okinawa"
 permalink: /blog/2026-02-09-what-I-learned-okinawa.html
 image:
-  path: susangfink.github.io/site-images/assets/images/susangfink-cherry-blossom.jpg
+  path: https://susangfink.github.io/site-images/assets/images/susangfink-cherry-blossom.jpg
   thumbnail: /assets/images/.jpg
   caption: "Cherry Blossoms Okinawa"
 excerpt_separator: "<!--more-->"  
