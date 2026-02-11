@@ -2,6 +2,11 @@
   {% assign page_image = nil %}
   {% assign page-image-caption = nil %}
 {% else %}
+{% if page.external_image %}
+  <img src="{{ page.image }}" alt="{{ page.title }}">
+{% else %}
+  <img src="{{ page.image | asset_path }}" alt="{{ page.title }}">
+{% endif %}
 {% if page.image %}
   {% assign page_image = page.image.path | default: page.image %}
   {% unless page_image contains '://' %}
