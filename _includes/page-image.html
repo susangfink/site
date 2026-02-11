@@ -1,7 +1,11 @@
 {% if page.header == false %}
   {% assign page_image = nil %}
   {% assign page-image-caption = nil %}
-{% else %}
+{% elseif %}
+
+{% if page.externalimage == true %}
+   <img src="{{ page.image }}" alt="{{ page.title }}">
+
 <!--
 {% if page.external_image %}
   <img src="{{ page.image }}" alt="{{ page.title }}">
@@ -9,6 +13,7 @@
   <img src="{{ page.image | asset_path }}" alt="{{ page.title }}">
 {% endif %}
 -->
+{% else %}
 {% if page.image %}
   {% assign page_image = page.image.path | default: page.image %}
   {% unless page_image contains 'https://' %}
