@@ -11,4 +11,7 @@ categories:
   - Health
 ---
 <!--more-->
-Test Cherry Blossoms
+
+Test Japan Cherry Blossoms
+
+![Cherry Blossoms Japan Test](https://susangfink.github.io/site-images/assets/susangfink-cherry-blossom.jpg)
