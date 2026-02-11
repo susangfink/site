@@ -1,10 +1,10 @@
 {% if page.header == false %}
   {% assign page_image = nil %}
   {% assign page-image-caption = nil %}
-{% else if %}
+{% elsif %}
 
 {% if page.externalimage == true %}
-   <img src="{{ page.image }}" alt="{{ page.title }}">
+   {% assign page_image = page_image | relative_url %} 
 
 <!--
 {% if page.external_image %}
