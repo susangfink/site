@@ -2,12 +2,13 @@
   {% assign page_image = nil %}
   {% assign page-image-caption = nil %}
 {% else %}
+
 {% if page.image %}
-  {% assign page_image = page.image.path | default: page.image %}
-  {% unless page_image contains '://' %}
-    {% assign page_image = page_image | relative_url %}
-  {% endunless %}
-  {% assign page_image = page_image | escape %}
+  {% assign is_external = page.image | slice: 0,4 %}
+  {% if is_external == "http" %}
+    <img src="{{ page.image }}" alt="{{ page.title }}">
+  {% else %}
+    <img src="{{ page.image | asset_path }}" alt="{{ page.title }}">
 {% endif %}
   <div class="page-image">
     <img src="{{ page_image }}" class="entry-feature-image u-photo" alt="{{ page.title }}" {% unless site.logo %}style="margin-top: 0;"{% endunless %}>
