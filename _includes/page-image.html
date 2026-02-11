@@ -1,7 +1,7 @@
 {% if page.header == false %}
   {% assign page_image = nil %}
   {% assign page-image-caption = nil %}
-
+{% else %}
 {% if page.externalimage == true %}
    {% assign page_image = page_image | relative_url %} 
 
@@ -20,6 +20,7 @@
    {% assign page_image = page_image | relative_url %} 
   {% endunless %}-->
   {% assign page_image = page_image | escape %}
+{% endif %}
 {% endif %}
 
 <div class="page-image">
