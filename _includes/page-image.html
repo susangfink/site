@@ -10,6 +10,7 @@
   {% else %}
     <img src="{{ page.image | asset_path }}" alt="{{ page.title }}">
 {% endif %}
+{% endif %}
   <div class="page-image">
     <img src="{{ page_image }}" class="entry-feature-image u-photo" alt="{{ page.title }}" {% unless site.logo %}style="margin-top: 0;"{% endunless %}>
     {% if page.image.caption %}
