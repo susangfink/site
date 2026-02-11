@@ -1,0 +1,16 @@
+{% assign thumb = nil %}
+
+{% if post.image and post.image.thumbnail %}
+  {% assign thumb = post.image.thumbnail %}
+{% elsif post.image %}
+  {% assign thumb = post.image %}
+{% endif %}
+
+{% if thumb %}
+  {% assign first_four = thumb | slice: 0,4 %}
+  {% if first_four == "http" %}
+    <img src="{{ thumb }}" alt="">
+  {% else %}
+    <img src="{{ thumb | relative_url }}" alt="">
+  {% endif %}
+{% endif %}
