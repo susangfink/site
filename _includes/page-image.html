@@ -3,16 +3,19 @@
   {% assign page-image-caption = nil %}
 {% else %}
 
-{% if page.image_url %}
-    {% assign page_image = page.image_url %}
-  {% endif %}
-{% if page.thumbnail_url %}
-    {% assign page_image = page.thumbnail_url %}
+{% if page.image %}
+  {% assign image_url = page.image %}
+
+{% if page.thumbnail %}
+    {% assign thumbnail_url = page.thumbnail %}
+  {% else %}
+    {% assign thumbnail_url = image_url %}
   {% endif %}
 
-{% if page.image %}
-  {% assign page_image = page.image.path | default: page.image %}
-  {% assign page_image = page_image | escape %}
+  <a href="{{ image_url | relative_url }}">
+    <img src="{{ thumbnail_url | relative_url }}" alt="{{ page.title }}">
+  </a>
+
 {% endif %}
 
 
