@@ -11,9 +11,12 @@
   {% assign page_image = page_image | escape %}
 {% endif %}
 
+ {% if page.image_url %}
+    {% assign page_image = page.image_url | relative_url %}
+  {% endif %}
+
 
   {% if page.thumbnail_url %}
-    {% assign page_image = page.thumbnail_url | relative_url %}
     {% assign page.image.thumbnail = page.thumbnail_url | relative_url %}
   {% endif %}
 
