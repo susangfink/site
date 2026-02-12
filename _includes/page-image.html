@@ -17,8 +17,8 @@
 
 
   {% if page.thumbnail_url %}
-    {% assign page_image.thumbnail = page.thumbnail_url | relative_url %}
-<div class="page-thumbnail"><img scr="{{ page_image.thumbnail }}" class="entry-feature-image u-photo" alt="{{ page.title }}">
+    {% assign page.thumbnail = page.thumbnail_url | relative_url %}
+<div class="page-thumbnail"><img scr="{{ page.thumbnail }}" class="entry-feature-image u-photo" alt="{{ page.title }}">
 </div>
 {% endif %}
 
