@@ -37,7 +37,11 @@
       <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
     {% endif %}
     
-
+{% if entry.thumbnail_url %}
+  <div class="entry-thumbnail">
+    <img src="{{ post.thumbnail_url }}" alt="{{ post.title }}">
+  </div>
+{% endif %}
     
     
   </header>
