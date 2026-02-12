@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Temp Fitness List"
-permalink: /blog/2026-02-11-ListTemp.html
-Header: false
+permalink: /blog/2026-02-11-temp-fitness-list.html
+header: false
 thumbnail_url: "https://susangfink.github.io/site-images/assets/post1/susangfink-monday-weights-thumbnail.jpg"
 image:
   - https://susangfink.github.io/site-images/assets/post1/susangfink-monday-weights.jpg
