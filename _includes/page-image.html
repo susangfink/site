@@ -11,12 +11,10 @@
   {% assign page_image = page_image | escape %}
 {% endif %}
 
-<div class="post-content">
+
   {% if page.thumbnail_url %}
     {% assign page_image = page.thumbnail_url | relative_url %}
-    <img src="{{ page_image }}" alt="{{ page.title }} thumbnail">
   {% endif %}
-</div>
 
 
 
