@@ -2,6 +2,7 @@
   {% assign page_image = nil %}
   {% assign page-image-caption = nil %}
 {% else %}
+
 {% if page.image %}
   {% assign page_image = page.image.path | default: page.image %}
   {% unless page_image contains '://' %}
@@ -9,7 +10,8 @@
   {% endunless %}
   {% assign page_image = page_image | escape %}
 {% endif %}
-  <div class="page-image">
+
+<div class="page-image">
     <img src="{{ page_image }}" class="entry-feature-image u-photo" alt="{{ page.title }}" {% unless site.logo %}style="margin-top: 0;"{% endunless %}>
     {% if page.image.caption %}
       <div class="page-image-caption">{{ page.image.caption | markdownify }}</div>
