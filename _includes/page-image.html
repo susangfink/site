@@ -13,7 +13,8 @@
 
 <div class="post-content">
   {% if page.thumbnail_url %}
-    <img src="{{ page.thumbnail_url }}" alt="{{ page.title }} thumbnail">
+    {% assign page_image = page.thumbnail_url | relative_url %}
+    <img src="{{ page_image }}" alt="{{ page.title }} thumbnail">
   {% endif %}
 </div>
 
