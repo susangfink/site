@@ -3,6 +3,10 @@
   {% assign page-image-caption = nil %}
 {% else %}
 
+{% if page.thumbnail_url %}
+    <img src="{{ page.thumbnail_url }}" alt="{{ page.title }} thumbnail">
+  {% endif %}
+
 {% if page.image %}
   {% assign page_image = page.image.path | default: page.image %}
   {% unless page_image contains '://' %}
