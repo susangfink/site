@@ -5,9 +5,8 @@ permalink: /blog/2026-02-11-temp-fitness-list.html
 header: false
 thumbnail_url: "https://susangfink.github.io/site-images/assets/post1/susangfink-monday-weights-thumbnail.jpg"
 images:
-   - https://susangfink.github.io/site-images/assets/post1/susangfink-monday-weights.jpg
-   - https://susangfink.github.io/site-images/assets/post1/susangfink-monday-weights-thumbnail.jpg
-   caption: "Temp List"
+  - https://susangfink.github.io/site-images/assets/post1/susangfink-monday-weights.jpg
+  - https://susangfink.github.io/site-images/assets/post1/susangfink-monday-weights-thumbnail.jpg
 excerpt_separator: "<!--more-->"  
 categories: 
   - Health
