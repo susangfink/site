@@ -19,12 +19,12 @@ I remember sitting on the curb waiting for the parade to start and the adults to
 
 At that age, and maybe because it was the 1980s, I didn't experience anything that wasn't kid-friendly. 
 
-We attended family parties and had lunches at school where King Cake was served. If you've never had King Cake before, it's an oval-shaped, cinnamon roll cake that's decorated in bright green (for faith), purple (for justice), and gold (for power) sugar with a white, cream cheese frosting drizzle. After it's baked, a tiny plastic Baby Jesus was hidden inside. When slicing and serving it, a lucky individual would get the piece with the Baby Jesus. 
+We attended family parties and had lunches at school where King Cake was served. If you've never had King Cake before, it's an oval-shaped, cinnamon brioche cake that's decorated in bright green (for faith), purple (for justice), and gold (for power) sugar with a white, cream cheese frosting drizzle. After it's baked, a tiny plastic Baby Jesus was hidden inside. When slicing and serving it, a lucky individual would get the piece with the Baby Jesus. Every time I had King Cake, I always wished to get the Baby Jesus at the same time praying not to choke on it. Whoever received it would have good luck for the next year. 
 
-Every time I had King Cake, I always wished to get the Baby Jesus at the same time praying not to choke on it. Whoever received it would have good luck for the next year. 
+Mardi Gras, also known as Shrove Tuesday is an opportunity to use up meat, eggs, dairy, before the start of the 40-day fasting season. It's also referred to as Pancake Tuesday to use up all the rich ingredients before Lent. 
 
-Shrove Tuesday is an opportunity to use up meat, eggs, dairy, before the start of the 40-day fasting season. It's also referred to as Pancake Tuesday to use up all the rich ingredients before Lent. Through the indulgences, we keep in mind that the season of fasting, prayer and almsgiving are upon us. 
+It's unfortunate that this day has evolved to carry such a negative connotation. At its core and traditional meaning, it is about community gathering, celebration before the reflective season, and spiritual preparation. New Orleans culture, jazz music, and art all come together this Tuesday and it does not have to be about wild partying and excess. <i>Mardi Gras can be celebratory without being destructive.</i> When we view Mardi Gras through the eyes of a 5 year old, we can keep in mind that the Lenten season of fasting, prayer and almsgiving are upon us. 
 
-Forty years later, my memories of Mardi Gras are still as vivid as the colors from those parties. Happy Mardi Gras!
+Happy Mardi Gras!
 
 <img src="https://susangfink.github.io/site-images/assets/images/2026-02-17-mardi-gras-post/susangfink-mardi-gras-door-mask.jpg" alt="Mardi Gras Mask">
