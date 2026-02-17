@@ -2,7 +2,7 @@
 layout: post
 title: "Mardi Gras Through the Eyes of a 5 Year Old"
 permalink: /blog/2026-02-17-mardi-gras-through-the-eyes.html
-image_url: "https://susangfink.github.io/site-images/assets/images/2026-02-17-mardi-gras-post/susangfink-mardi-gras-mantel.jpg"
+image_url: "https://susangfink.github.io/site-images/assets/images/2026-02-17-mardi-gras-post/susangfink-mardi-gras-mantle.jpg"
 thumbnail_url: "https://susangfink.github.io/site-images/assets/images/2026-02-17-mardi-gras-post/susangfink-mardi-gras-beads-porch.jpg"
 image:
   caption: "Mardi Gras"
