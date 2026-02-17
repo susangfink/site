@@ -23,7 +23,11 @@ We attended family parties and had lunches at school where King Cake was served.
 
 Mardi Gras, also known as Shrove Tuesday is an opportunity to use up meat, eggs, dairy, before the start of the 40-day fasting season. It's also referred to as Pancake Tuesday to use up all the rich ingredients before Lent. 
 
-It's unfortunate that this day has evolved to carry such a negative connotation. At its core and traditional meaning, it is about community gathering, celebration before the reflective season, and spiritual preparation. New Orleans culture, jazz music, and art all come together this Tuesday and it does not have to be about wild partying and excess. <i>Mardi Gras can be celebratory without being destructive.</i> When we look at Fat Tuesday through a traditional sense, we can keep in mind that it marks the transition into the Lenten season of fasting, prayer and almsgiving. 
+It's unfortunate that this day has evolved to carry such a negative connotation. At its core, it is about community gathering, celebration before the reflective season, and spiritual preparation. New Orleans culture, jazz music, and art all come together this Tuesday and it does not have to be about wild partying and excess. Because of my experience living in New Orleans as a child, I choose the spiritual, cultural, and community-based version. 
+<br>
+<i>Mardi Gras can be celebratory without being destructive.</i> 
+<br>
+When we look at Fat Tuesday through a traditional sense, we can keep in mind that it marks the transition into Ash Wednesday and the Lenten season of fasting, prayer and almsgiving.
 
 Happy Mardi Gras!
 
