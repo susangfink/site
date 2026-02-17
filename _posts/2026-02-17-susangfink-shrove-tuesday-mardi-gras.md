@@ -2,8 +2,8 @@
 layout: post
 title: "Mardi Gras Through the Eyes of a 5 Year Old"
 permalink: /blog/2026-02-17-mardi-gras-through-the-eyes.html
-image_url: "https://susangfink.github.io/site-images/assets/images/susangfink-mardi-gras-mantel.jpg"
-thumbnail_url: "https://susangfink.github.io/site-images/assets/susangfink-mardi-gras-beads-porch.jpg"
+image_url: "https://susangfink.github.io/site-images/assets/images/2026-02-17-mardi-gras-post/susangfink-mardi-gras-mantel.jpg"
+thumbnail_url: "https://susangfink.github.io/site-images/assets/images/2026-02-17-mardi-gras-post/susangfink-mardi-gras-beads-porch.jpg"
 image:
   caption: "Mardi Gras"
 excerpt_separator: "<!--more-->"  
@@ -27,4 +27,4 @@ Shrove Tuesday is an opportunity to use up meat, eggs, dairy, before the start o
 
 Forty years later, my memories of Mardi Gras are still as vivid as the colors from those parties. Happy Mardi Gras!
 
-<img src="https://susangfink.github.io/site-images/assets/susangfink-mardi-gras-door-mask.jpg" alt="Mardi Gras Mask">
+<img src="https://susangfink.github.io/site-images/assets/images/2026-02-17-mardi-gras-post/susangfink-mardi-gras-door-mask.jpg" alt="Mardi Gras Mask">
