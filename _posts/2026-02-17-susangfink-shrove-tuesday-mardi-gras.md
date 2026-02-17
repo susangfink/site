@@ -5,7 +5,7 @@ permalink: /blog/2026-02-17-mardi-gras-through-the-eyes.html
 image_url: "https://susangfink.github.io/site-images/assets/images/2026-02-17-mardi-gras-post/susangfink-mardi-gras-mantle.jpg"
 thumbnail_url: "https://susangfink.github.io/site-images/assets/images/2026-02-17-mardi-gras-post/susangfink-mardi-gras-beads-porch.jpg"
 image:
-  path: /assets/images/susangfink-mardi-gras-door-mask-square.jpg"
+  path: /assets/images/susangfink-mardi-gras-door-mask-square.jpg
   caption: "Mardi Gras"
 excerpt_separator: "<!--more-->" 
 excerpt: I was a 5 year old the first time I experienced a Mardi Gras celebration. I know you’re probably thinking who takes a child to Mardi Gras? I lived in New Orleans as a kindergartener... 
