@@ -23,7 +23,7 @@ We attended family parties and had lunches at school where King Cake was served.
 
 Every time I had King Cake, I always wished to get the Baby Jesus at the same time praying not to choke on it. Whoever received it would have good luck for the next year. 
 
-In terms of the Lent season, Carnival means "saying farewell to meat" and Shrove Tuesday is an opportunity to use up meat, eggs, dairy, before the start of the 40-day fasting season. It's also referred to as Pancake Tuesday to use up all the rich ingredients before Lent. Through the indulgences, we keep in mind that the season of fasting, prayer and almsgiving are upon us. 
+Shrove Tuesday is an opportunity to use up meat, eggs, dairy, before the start of the 40-day fasting season. It's also referred to as Pancake Tuesday to use up all the rich ingredients before Lent. Through the indulgences, we keep in mind that the season of fasting, prayer and almsgiving are upon us. 
 
 Forty years later, my memories of Mardi Gras are still as vivid as the colors from those parties. Happy Mardi Gras!
 
