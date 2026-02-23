@@ -10,6 +10,7 @@ excerpt_separator: "<!--more-->"
 categories: 
   - Reflection
   - Fitness
+excerpt: As someone who grew up without joining school sports, I had an epiphany one day in my early 40s when it came to fitness. I saw an eye-opening picture of myself and was disappointed in the way I looked and felt that day. My 20s and 30s were filled with...
 ---
 <!--more-->
 
