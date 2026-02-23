@@ -30,28 +30,28 @@ I had been overweight in my mid-twenties and mid-thirties too. In the past, I de
 <b>2. Simple Daily Tasks & Mobility</b>
 <br>
 <br>
-In those stay-home years of COVID, I was all-in with gardening and home cooking. Yes, I was staying active by hauling bags of soil and citrus trees to and from the garden. At the same time, I knew that squatting to pick up a 5 pound cast iron pan from the bottom cabinet shouldn't have been making me unbalanced on the way up! If simple day-to-day tasks like these were making me ever-so-slightly lose balance, I was in desperate need of building strength. 
+In those stay-home years of COVID, I was all-in with gardening and home cooking. Yes, I was staying active by hauling bags of soil and citrus trees to and from the garden. At the same time, I knew that squatting to pick up a 5 pound cast iron pan from the bottom cabinet shouldn't have been making me unbalanced on the way up! If simple, day-to-day tasks like these were making me ever-so-slightly lose balance, I was in desperate need of building strength. 
 
 <b>3. My Kids Need Me to Be a Good Example</b>
 <br>
 <br>
-It is true when they say having kids changes your perspective on life. My life was no longer about me. It instantly became about the little people that look up to me and call me Mom. Being a mom has taught me more about leadership than any corporate-world course. The examples we leave with our kids, the ones they recall when they're middle aged, become part of our legacy as parents. If you're not a parent, inspiring the younger generation around you matters just as much as parenting. 
+It is true when they say having kids changes your perspective on life. My life was no longer about me. It instantly became about the little people that look up to me and call me Mom. Being a mom has taught me more about leadership than any corporate-world course. The examples we leave with our kids, the ones they'll recall when they're middle aged, become part of our legacy as parents. If you're not a parent, inspiring the younger generation around you matters just as much as parenting. 
 
 I knew I needed to be a fitness mentor for my kids and hopefully they'll adopt an active and fit lifestyle as well. 
 
 <b>4. The Fear of Never Achieving My Peak</b>
 <br>
 <br>
-Somewhere in the back of my mind, I knew I was maybe capable of more. Mid-life 40s makes you really look at how little time you have left and the fear of never experiencing my body at its best was terrifying. I had a feeling I was selling myself short. I remember having an ongoing challenge with one of my cousins in the early 2000s. He lives in the midwest and I lived in Los Angeles but every reunion we would challenge each other, "Whoever has 6 pack abs first is the winner!" I would wonder back then how many sit ups it would take me claim victory unknowing that overall body fat had to be reduced first before 6 pack abs would make a grand appearance! 
+Somewhere in the back of my mind, I knew I was maybe capable of more. Mid-life 40s makes you really look at how little time you have left and the fear of never experiencing my body at its best was terrifying. I had a feeling I was selling myself short. I remember having an ongoing challenge with one of my cousins in the early 2000s. He lives in the midwest and I lived in Los Angeles but every reunion we would challenge each other, "Whoever has 6 pack abs first is the winner!" I would wonder back then how many sit ups it would take me claim victory. Little did I realize back then that <i>overall body fat had to be reduced first</i> before 6 pack abs would make a grand appearance! 
 
 There was never an end-date to that competition. What if I never achieve my best, leanest, and strongest version of myself? This is still definitely on my bucket list. 
 
 <b>5. My Genetics & Lab Results</b>
 <br>
 <br>
-You know that saying, "it's just genetics." Well, that saying can definitely go either way. Your genetics can give you an advantage or it can be something you have to work against. My bloodwork from Jan 2022, after years of eating whatever I felt like eating, came back at the very lower end of pre-diabetic. All along I had been telling myself <i>I am still young</i> and even my new primary care doctor didn't seem too alarmed. She also accepted that it's just because Type 2 Diabetes runs in your family.
+You know that saying, "it's just genetics." Well, that saying can definitely go either way. Your genetics can give you an advantage or it can be something you have to work against. My bloodwork from Jan 2022, after years of eating whatever I felt like eating, came back at the lower threshold of pre-diabetic. All along I had been telling myself <i>I am still young</i> and even my new primary care doctor didn't seem too alarmed. She also accepted that and said "it's just because Type 2 Diabetes runs in your family."
 
-It was up to me to feel the urgency to do something about this now because I could either become fully Type 2 Diabetic or I could fix it now before it gets worse. 
+It was up to me to feel the urgency, fuel the fire myself and to do something about this now because I could either become fully Type 2 Diabetic or I could fix it  before it gets worse. 
 
 This list is my personal experience and reality check which, in turn, nagged me to change my way of life. We all have a different fitness journey. I don't share this to compare but maybe this list was relatable and helpful. 
 
