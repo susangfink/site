@@ -52,5 +52,5 @@ It was up to me to feel the urgency to do something about this now because I cou
 
 I hope this list was relatable or inspiring in some way. What are your Top 5 Reasons that Fitness should be lifelong? 
 
-<img src="https://susangfink.github.io/site-images/assets/post1/susangfink-sherpa-march2022.jpg" width= 50% alt="Sherpa Picture">
-<img src="https://susangfink.github.io/site-images/assets/post1/susangfink-top-5-reasons.jpg" width= 50% alt="Top 5 Reasons Picture">
+<img src="https://susangfink.github.io/site-images/assets/post1/susangfink-sherpa-march2022.jpg" alt="Sherpa Picture" height= "25%">
+<img src="https://susangfink.github.io/site-images/assets/post1/susangfink-top-5-reasons.jpg" alt="Top 5 Reasons Picture" height= "25%">
