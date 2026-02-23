@@ -4,7 +4,7 @@ title: "5 Things That Convinced Me Fitness is for Life"
 permalink: /blog/2026-02-23-fitness-is-for-life-five-things.html
 header: false
 image:
-  path: /assets/images/susangfink-fitness-and-faith.jpg
+  path: /assets/images/susangfink-fitness-and-faith-thumbnail.jpg
   thumbnail: /assets/images/susangfink-fitness-and-faith-thumbnail.jpg
   caption: ""
 excerpt_separator: "<!--more-->"  
