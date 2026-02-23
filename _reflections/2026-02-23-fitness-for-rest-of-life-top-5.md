@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mardi Gras Through the Eyes of a 5 Year Old"
+title: "5 Things That Convinced Me Fitness is for Life"
 permalink: /blog/2026-02-23-fitness-is-for-life-five-things.html
 thumbnail_url: "https://susangfink.github.io/site-images/assets/post1/susangfink-fitness-and-faith.jpg"
 excerpt_separator: "<!--more-->"  
