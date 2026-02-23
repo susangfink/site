@@ -19,12 +19,14 @@ excerpt: As someone who grew up without playing school sports, I had an epiphany
 
 As someone who grew up without playing school sports, I had an epiphany about fitness in my early 40s. One day I saw a picture of myself that was eye-opening. I was disappointed not only in how I looked, but also in how I felt that day. My 20s and 30s were filled with many random attempts at working out. A month here, a few times a week there, but never consistent enough to make meaningful and lasting progress. 
 
-These are the 5 most convincing reasons <i>I finally accepted that fitness had to be a part of the rest of my life.</i> Whenever I have days of nonexistent motivation (they come and go), I go back to these reasons and it quickly jumpstarts the need to workout! A quick memory jog of this list and, suddenly, fitness becomes non-negotiable. Movement becomes necessary! I am sharing this personal list to hopefully inspire you or let you know you're not alone in your fitness journey.
+These are the 5 most convincing reasons <i>I finally accepted that fitness had to be a part of the rest of my life.</i> 
+
+Whenever I have days of nonexistent motivation (they come and go), I go back to these reasons and it quickly jumpstarts the need to workout! A quick memory jog of this list and, suddenly, fitness becomes non-negotiable. Movement becomes necessary! I am sharing this personal list to hopefully inspire you or let you know you're not alone in your fitness journey.
 
 <b>1. A Picture from March 2022</b>
 <br>
 <br>
-My husband, kids, and I were dining out and eating by the campfire. We asked a stranger to take a picture of our family. When I got the phone back, I despised every picture of me from that dinner. I tried to convince myself that maybe it was just the frumpy sherpa coat? In reality, I knew I just had to face that I looked overweight and that was not the look I was going for. That dinner, and for the rest of the night, I had to reassure myself that fitness-for-the-rest-of-my-life is the only way to deal with this. 
+My husband, kids, and I were dining out and eating by the campfire. We asked a stranger to take a picture of our family. When I got the phone back, I despised every picture of me from that dinner. I tried to convince myself that maybe it was just the frumpy sherpa coat? In reality, I knew I just had to face that I looked overweight and that was not the look I was going for. That dinner, and for the rest of the night, I had to silently reassure myself that fitness-for-the-rest-of-my-life is the only way to deal with this. 
 
 I had been overweight in my mid-twenties and mid-thirties too. In the past, I dealt with it by starving myself and drastically cutting calories. As expected, that resulted in a severely emaciated skin-and-bones look. Also that time, that was not the look I was going for. 
 
