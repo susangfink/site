@@ -13,11 +13,11 @@ categories:
   - Fitness
 tags:
   - Fitness Motivation
-excerpt: As someone who grew up without joining school sports, I had an epiphany one day in my early 40s when it came to fitness. I saw an eye-opening picture of myself and was disappointed in the way I looked and felt that day. My 20s and 30s were filled with...
+excerpt: As someone who grew up without playing school sports, I had an epiphany about fitness in my early 40s. One day I saw a picture of myself that was eye-opening. I was disappointed not only in how I looked, but also in how I felt that day. My 20s and 30s were filled with...
 ---
 <!--more-->
 
-As someone who grew up without joining school sports, I had an epiphany one day in my early 40s when it came to fitness. I saw an eye-opening picture of myself and was disappointed in the way I looked and felt that day. My 20s and 30s were filled with many random attempts at working out. A month on here and a few times a week there but never consistent enough to make meaningful and lasting progress. 
+As someone who grew up without playing school sports, I had an epiphany about fitness in my early 40s. One day I saw a picture of myself that was eye-opening. I was disappointed not only in how I looked, but also in how I felt that day. My 20s and 30s were filled with many random attempts at working out. A month here, a few times a week there, but never consistent enough to make meaningful and lasting progress. 
 
 These are the 5 most convincing reasons <i>I finally accepted that fitness had to be a part of the rest of my life.</i> Whenever I have days of nonexistent motivation (they come and go), I go back to these reasons and it quickly jumpstarts the need to workout! A quick memory jog of this list and, suddenly, fitness becomes non-negotiable. Movement becomes necessary! I am sharing this personal list to hopefully inspire you or let you know you're not alone in your fitness journey.
 
