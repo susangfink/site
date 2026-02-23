@@ -51,7 +51,9 @@ You know that saying, "it's just genetics." Well, that saying can definitely go 
 
 It was up to me to feel the urgency to do something about this now because I could either become fully Type 2 Diabetic or I could fix it now before it gets worse. 
 
-I hope this list was relatable or inspiring in some way. What are your Top 5 Reasons that Fitness should be lifelong? 
+This list is my personal experience and reality check which, in turn, nagged me to change my way of life. We all have a different fitness journey. I don't share this to compare but I maybe this list was relatable and helpful. 
+
+What are your Top 5 Reasons that Fitness should be lifelong? 
 
 <img src="https://susangfink.github.io/site-images/assets/post1/susangfink-sherpa-march2022.jpg" alt="Sherpa Picture" height= "400px">
 <img src="https://susangfink.github.io/site-images/assets/post1/susangfink-top-5-reasons.jpg" alt="Top 5 Reasons Picture" height= "400px">
