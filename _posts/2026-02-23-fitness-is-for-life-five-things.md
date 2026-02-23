@@ -30,7 +30,7 @@ I had been overweight in my mid-twenties and mid-thirties too. In the past, I de
 <b>2. Simple Daily Tasks & Mobility</b>
 <br>
 <br>
-In those stay-home years of COVID, I was all-in with gardening and home cooking. Yes, I was staying active by hauling bags of soil and citrus trees to and from the garden. At the same time, I knew that squatting to pick up a 5 pound cast iron pan from the bottom cabinet shouldn't have been making me unbalanced on the way up! If simple, day-to-day tasks like these were making me ever-so-slightly lose balance, I was in desperate need of building strength. 
+In those stay-home years of COVID, I was all-in with gardening and home cooking. Yes, I was staying active by hauling bags of soil and citrus trees to and from the garden. At the same time, I knew that squatting to pick up a 5 pound cast iron pan from the bottom cabinet shouldn't have been making me wobbly on the way up! If simple, day-to-day tasks like these were making me ever-so-slightly lose balance, I was in desperate need of building strength and stability training. 
 
 <b>3. My Kids Need Me to Be a Good Example</b>
 <br>
