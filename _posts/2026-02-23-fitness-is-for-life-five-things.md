@@ -2,8 +2,7 @@
 layout: post
 title: "5 Things That Convinced Me Fitness is for Life"
 permalink: /blog/2026-02-23-fitness-is-for-life-five-things.html
-image_url: "https://susangfink.github.io/site-images/assets/post1/susangfink-fitness-and-faith.jpg"
-thumbnail_url: "https://susangfink.github.io/site-images/assets/post1/susangfink-fitness-and-faith-thumbnail.jpg"
+header: false
 image:
   thumbnail: /assets/images/susangfink-fitness-and-faith-thumbnail.jpg
   caption: ""
@@ -43,5 +42,5 @@ It was up to me to feel the urgency to do something about this now because I cou
 
 I hope this list was relatable or inspiring in some way. What are your Top 5 Reasons that Fitness should be lifelong? 
 
-<img src="https://susangfink.github.io/site-images/assets/susangfink-sherpa-march2022.jpg" style="width: 50%; height: auto;"alt="Sherpa Picture">
-<img src="https://susangfink.github.io/site-images/assets/susangfink-top-5-reasons.jpg" style="width: 50%; height: auto;"alt="Top 5 Reasons Picture">
+<img src="https://susangfink.github.io/site-images/assets/post1/susangfink-sherpa-march2022.jpg" style="width: 50%; height: auto;"alt="Sherpa Picture">
+<img src="https://susangfink.github.io/site-images/assets/post1/susangfink-top-5-reasons.jpg" style="width: 50%; height: auto;"alt="Top 5 Reasons Picture">
