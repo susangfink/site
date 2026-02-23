@@ -31,7 +31,13 @@ I had been overweight in my mid-twenties and mid-thirties too. In the past, I de
 <b>2. Simple Daily Tasks & Mobility</b>
 <br>
 <br>
-In those stay-home years of COVID, I was all-in with gardening and home cooking. Yes, I was staying active by hauling bags of soil and citrus trees to and from the garden. At the same time, I knew that squatting to pick up a 5 pound cast iron pan from the bottom cabinet shouldn't have been making me wobbly on the way up! If simple, day-to-day tasks like these were making me ever-so-slightly lose balance, I was in desperate need of building strength and working on stability training. 
+During the stay-at-home years of COVID, I spent a lot of time gardening and cooking. I stayed somewhat active hauling bags of soil and moving citrus trees around the yard. I told myself that was sufficient activity. 
+
+But I also noticed something concerning. 
+
+Squatting down to pick up a 5-pound cast iron pan from the bottom cabinet made me wobble on the way back up. 
+
+If simple, day-to-day tasks like these were making me slightly lose balance, I was in desperate need of building strength and working on stability training not just activity. That realization stuck with me. Strength wasn't optional anymore. It was necessary. 
 
 <b>3. My Kids Need Me to Be a Good Example</b>
 <br>
@@ -49,7 +55,7 @@ Somewhere in the back of my mind, I knew I was maybe capable of more. Mid-life 4
 
 I remember having an ongoing challenge with one of my cousins in the early 2000s. He lives in the Midwest and I lived in Los Angeles but every reunion we would challenge each other, "Whoever has 6 pack abs first is the winner!" I would wonder back then how many sit ups it would take me claim victory. Little did I realize back then that <i>overall body fat had to be reduced first</i> before 6 pack abs would make a grand appearance! 
 
-There was never an end-date to that competition. But the question stayed with me: What if I never achieve my best, leanest, and strongest version of myself? Achieving this and that possibility still motivates me today. 
+There was never an end-date to that competition. But the question stayed with me: What if I never achieve my best, leanest, and strongest version of myself? Achieving this still motivates me today. 
 
 <b>5. My Genetics & Lab Results</b>
 <br>
