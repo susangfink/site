@@ -5,6 +5,7 @@ header: false
 permalink: /blog/2026-03-03-midlife-weight-loss-mistake.html
 image_url: "https://susangfink.github.io/site-images/assets/post1/susangfink_barbell_on_floor.jpg"
 image:
+  path: /assets/images/susangfink_barbell_on_squat_rack.jpg
   thumbnail: /assets/images/susangfink_barbell_on_squat_rack.jpg
   caption: ""
 excerpt_separator: "<!--more-->"  
