@@ -41,9 +41,7 @@ A healthier approach to weight loss includes:
 The goal isn’t just to weigh less. We want to lose fat while preserving the muscle that keeps us strong, capable, and resilient as we age. <b><i>Instead of saying "I want to lose weight" let's shift our mindset and goals to say "I want to lose fat while preserving and building muscle."</i></b> 
 <br>
 <br>
-<br>
 <i>The information shared in this article is for educational and informational purposes only and is not intended as medical advice. Always consult with a qualified healthcare professional before starting any nutrition or exercise program, especially if you have underlying health conditions, are pregnant, postpartum, or taking medications. Results will vary based on individual effort, consistency, and lifestyle factors.</i>
-<br>
 <br>
 <br>
 ![Susan G Fink Squat Rack](/assets/images/susangfink_barbell_on_squat_rack.jpg)
