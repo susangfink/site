@@ -13,10 +13,8 @@ categories:
   - Health
   - Fitness
 ---
-<!--more-->
-
 If you’re in midlife and trying to lose weight, there’s a common mistake you need to avoid:
-
+<!--more-->
 Trying to lose weight without strength training.
 
 It’s easy to assume that if the goal is to lower the number on the scale, the answer is to cut calories and add more cardio. Yes, the scale may drop that way because of the higher calorie burn. I have nothing against cardio. I love endurance running.
