@@ -4,7 +4,6 @@ title: "Don't Make This Midlife Weight Loss Mistake"
 header: false
 permalink: /blog/2026-03-03-midlife-weight-loss-mistake.html
 image_url: "https://susangfink.github.io/site-images/assets/post1/susangfink_barbell_on_floor.jpg"
-thumbnail_url: "https://susangfink.github.io/site-images/assets/post1/susangfink_barbell_on_squat_rack.jpg"
 image:
   thumbnail: /assets/images/susangfink_barbell_on_squat_rack.jpg
   caption: ""
