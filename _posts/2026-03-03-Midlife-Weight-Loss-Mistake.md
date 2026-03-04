@@ -21,17 +21,9 @@ Trying to lose weight without strength training.
 
 It’s easy to assume that if the goal is to lower the number on the scale, the answer is to cut calories and add more cardio. Yes, the scale may drop that way because of the higher calorie burn. I have nothing against cardio. I love endurance running.
 
-But when you lose weight without resistance training, you don’t just lose fat.
+But when you lose weight without resistance training, you don’t just lose fat. You lose muscle too. I’ve been there. In my effort to do whatever it took to bring my weight down, I ended up with deflated glutes, flat calves, and a bony chest. Midlife is not the time to lose muscle mass. After age 30, adults lose approximately 3–8% of muscle mass per decade. This gradual decline is known as sarcopenia. 
 
-You lose muscle too.
-
-I’ve been there. In my effort to do whatever it took to bring my weight down, I ended up with deflated glutes, flat calves, and a bony chest.
-
-Midlife is not the time to lose muscle mass.
-
-After age 30, adults lose approximately 3–8% of muscle mass per decade. This gradual decline is known as sarcopenia. On the bright side, there’s good news. Muscle loss is not inevitable if you strength train. With consistent resistance training, active adults can maintain and build muscle well into midlife.
-
-Weight loss alone makes you smaller. Strength training shapes your body and starting in 30s, 40s, or 50s and beyond isn't too late. 
+On the bright side, there’s good news. Muscle loss is not inevitable if you strength train. With consistent resistance training, active adults can maintain and build muscle well into midlife. Weight loss alone makes you smaller. Strength training shapes your body and starting in 30s, 40s, or 50s and beyond isn't too late. 
 
 A healthier approach to weight loss includes:
 	<br>
