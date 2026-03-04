@@ -42,7 +42,7 @@ The goal isn’t just to weigh less. We want to lose fat while preserving the mu
 <br>
 <br>
 <br>
-<i>The information shared in this article is for educational and informational purposes only and is not intended as medical advice. I am not your physician. Always consult with a qualified healthcare professional before starting any nutrition or exercise program, especially if you have underlying health conditions, are pregnant, postpartum, or taking medications. Results will vary based on individual effort, consistency, and lifestyle factors.</i>
+<i>The information shared in this article is for educational and informational purposes only and is not intended as medical advice. Always consult with a qualified healthcare professional before starting any nutrition or exercise program, especially if you have underlying health conditions, are pregnant, postpartum, or taking medications. Results will vary based on individual effort, consistency, and lifestyle factors.</i>
 <br>
 <br>
 <br>
