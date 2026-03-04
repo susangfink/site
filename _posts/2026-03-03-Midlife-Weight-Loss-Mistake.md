@@ -31,10 +31,16 @@ After age 30, adults lose approximately 3–8% of muscle mass per decade. This g
 Weight loss alone makes you smaller. Strength training shapes your body and starting in 30s, 40s, or 50s and beyond isn't too late. 
 
 A healthier approach to weight loss includes:
+	<br>
 	•	Progressive strength training
+	<br>
 	•	Adequate protein
+	<br>
 	•	Enough rest and recovery
+	<br>
 	•	Patience
-        •       Repeat
+	<br>
+    •   Repeat
+	<br>
 
 The goal isn’t just to weigh less. We want to lose fat while preserving the muscle that keeps us strong, capable, and resilient as we age. Instead of saying "I want to lose weight" let's shift our mindset and goals to say "I want to lose fat and preserve and build muscle." 
