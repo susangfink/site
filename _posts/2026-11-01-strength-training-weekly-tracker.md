@@ -13,7 +13,7 @@ categories:
   - Health
   - Fitness
 ---
-There's still 60 days left of 2026 and that's plenty of time to get a jump start on your 2027 fitness goals.
+There are still 60 days left of 2026 and that's plenty of time to get a jump start on your 2027 fitness goals.
 <!--more-->
 <br>
 <br>
