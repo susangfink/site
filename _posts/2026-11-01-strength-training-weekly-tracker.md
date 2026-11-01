@@ -16,7 +16,6 @@ categories:
 There are still 60 days left of 2026 and that's plenty of time to get a jump start on your 2027 fitness goals.
 <!--more-->
 <br>
-<br>
 It's November and if you haven't reached your fitness goals in 2026, it's still not too late. This year may have felt like it went by too fast, but we shouldn't let the fact that 83.29% of it be over to hold us back. 
 
 If your goal is to lose weight, don't try to lose weight without strength training. This article here explains why. 
