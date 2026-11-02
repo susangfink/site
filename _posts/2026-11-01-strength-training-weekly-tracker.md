@@ -23,4 +23,4 @@ If your goal is to lose weight, don't try to lose weight without strength traini
 
 I've created this weekly PDF to help you target and complete the number of sets per muscle group per week. Regardless of how many times you strength train per week, this weekly chart will help you check, at a glance, if you've trained each muscle group. Aim for 10 sets per week per muscle group for beginners and 10-15 sets per muscle group for intermediate strength training. 
 <br>
-<a href="assets/weekly_workout_checkoff_chart_with_credits.pdf">Download Weekly Tracker PDF</a>
+<a href="/assets/weekly_workout_checkoff_chart_with_credits.pdf">Download Weekly Tracker PDF</a>
